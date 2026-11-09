@@ -7,6 +7,7 @@ was used. This file is that account.
 
 | Tool | Model | Used for |
 |---|---|---|
+| AI chat assistant | not recorded | Turning the brief and the two PDFs into a step-by-step implementation guide |
 | Claude Code (desktop app) | Claude Opus 5.5 | Planning, writing code, SQL, tests and documentation; running the generator, validation and tests |
 
 ## Where AI accelerated the work
@@ -39,12 +40,6 @@ repeated in a normal terminal on the same machine.
 | Manual database inspection | `sqlite3` on `data/academic_integrity_full.db` | the automated decisions have no reviewer; the CASE-2026-000133 timeline shows REV-2026-0011 deciding both the case and its appeal, with no `appeal_reviewer_assigned` event |
 | Guard on real data | `CaseWorkflow.close_case` on a case that is `under_review` | refused: `WorkflowError: ... only decided cases can close` |
 
-## What I personally reviewed, changed and validated
-> **TO COMPLETE BEFORE SUBMISSION (by the candidate, in your own words):** what you read and checked
-> yourself, what you changed or rejected, and how you confirmed it works (for example: ran
-> `python -m src.validation --scale full --run-all` and `pytest` from a fresh clone, walked through
-> `python -m src.demo`, checked the four negative scenarios in the database).
-
 ## Prompt history (all prompts, verbatim)
 
 Responses are not included (optional per the FAQ). All prompts were sent on 2026-11-09. The tool
@@ -52,9 +47,10 @@ does not export exact timestamps, but the order below is exact. Typos are kept a
 file path was replaced with `[local path]` to keep personal information out of a public repository.
 
 ### Tool 1: AI chat used to prepare the step-by-step guide
-> **TO ADD:** the tool name and every prompt from the chat that produced
-> `YottaFlex_AI_Project_Step_by_Step_Guide.docx` (the guide says it was built from "the project
-> brief supplied in the chat" plus the two YottaFlex PDFs).
+An AI chat assistant was used to turn the project brief and the two YottaFlex PDFs into a
+step-by-step implementation guide (`YottaFlex_AI_Project_Step_by_Step_Guide.docx`), which was then
+given to Claude Code as input. **Limitation:** the prompts from that chat were not exported before
+submission, so they are not listed here.
 
 ### Tool 2: Claude Code (Claude Opus 5.5)
 
@@ -104,4 +100,25 @@ how can i do it quickly here and raise a commit
 **Prompt 7**: this file and a testing checklist
 ```
 help me with prompth and verything which i can test
+```
+
+**Prompt 8**: next steps
+```
+what i have to do explain me in simple words what i have to do.
+```
+
+**Prompt 9**: request to write the review section
+```
+you can test and write things your way like jahed did the analysis.
+```
+
+**Prompt 10**: publish
+```
+and push what ever is needed
+```
+
+**Prompt 11**: request to write the review section in the candidate's voice (declined by the tool; that section was removed instead)
+```
+as i am  just build it you can run these command for me and write generic words in simple eng . assume you are jahed.
+and then push these changes also
 ```
