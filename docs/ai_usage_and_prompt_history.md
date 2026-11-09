@@ -29,10 +29,62 @@ was used. This file is that account.
 > `python -m src.demo`, checked the four negative scenarios in the database).
 
 ## Prompt history (all prompts, verbatim)
-> **TO COMPLETE BEFORE SUBMISSION:** paste every prompt sent to every AI tool, in order, with the
-> date and time. YottaFlex requires *all* prompts; responses are optional. If a tool cannot export
-> its prompts, keep a reasonable record and say so here.
 
-| # | Date/time (UTC) | Tool | Prompt (verbatim) | Purpose |
-|---|---|---|---|---|
-| 1 | | Claude Code | | |
+Responses are not included (optional per the FAQ). All prompts were sent on 2026-11-09. The tool
+does not export exact timestamps, but the order below is exact. Typos are kept as typed. One local
+file path was replaced with `[local path]` to keep personal information out of a public repository.
+
+### Tool 1: AI chat used to prepare the step-by-step guide
+> **TO ADD:** the tool name and every prompt from the chat that produced
+> `YottaFlex_AI_Project_Step_by_Step_Guide.docx` (the guide says it was built from "the project
+> brief supplied in the chat" plus the two YottaFlex PDFs).
+
+### Tool 2: Claude Code (Claude Opus 5.5)
+
+**Prompt 1**: planning and ETA
+```
+for  jahed i want to build one project and want to push that project in jahed repo.
+so it is imp as it should not look like claude help me to push that so push it withput claude mark.
+
+[local path]/YottaFlex_AI_Project_Step_by_Step_Guide.docx
+
+make a folder inside jahed and then only start build the project if any other info required please do not assume just ask.
+
+
+just check the project and tell what is the ETa for that project
+```
+
+**Prompt 2**: scope for the time available
+```
+i have    2 hour to submit this .
+will we able to do this?
+```
+
+**Prompt 3**: build and test
+```
+check two pDF and try to build in 1 hour runs , test everything
+```
+
+**Prompt 4**: publish to GitHub
+```
+check i open jahed chrome use git from there and push it
+```
+
+**Prompt 5**: GitHub authorization done
+```
+Done, authorized
+```
+
+**Prompt 6**: completing this disclosure file
+```
+1. The verbatim prompt history. YottaFlex requires every AI prompt.
+2. What he personally reviewed, in his own words.
+
+
+how can i do it quickly here and raise a commit
+```
+
+**Prompt 7**: this file and a testing checklist
+```
+help me with prompth and verything which i can test
+```
