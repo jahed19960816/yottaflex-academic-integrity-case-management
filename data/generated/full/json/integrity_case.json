@@ -1,0 +1,3002 @@
+[
+ {
+  "case_id": "CASE-2026-000001",
+  "submission_id": "SUB-2026-007954",
+  "similarity_report_id": "SIM-SUB-2026-007954-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-16T18:24:00Z",
+  "status": "closed",
+  "closed_at": "2026-01-27T23:24:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000002",
+  "submission_id": "SUB-2026-008306",
+  "similarity_report_id": "SIM-SUB-2026-008306-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-17T08:33:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-11T23:33:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000003",
+  "submission_id": "SUB-2026-005657",
+  "similarity_report_id": "SIM-SUB-2026-005657-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-17T20:12:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-09T23:12:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000004",
+  "submission_id": "SUB-2026-002012",
+  "similarity_report_id": "SIM-SUB-2026-002012-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-17T21:35:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-17T22:35:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000005",
+  "submission_id": "SUB-2026-009273",
+  "similarity_report_id": "SIM-SUB-2026-009273-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-18T05:30:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-11T10:30:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000006",
+  "submission_id": "SUB-2026-005334",
+  "similarity_report_id": "SIM-SUB-2026-005334-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-18T05:36:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-15T20:36:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000007",
+  "submission_id": "SUB-2026-006748",
+  "similarity_report_id": "SIM-SUB-2026-006748-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-18T15:27:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-07T00:27:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000008",
+  "submission_id": "SUB-2026-004025",
+  "similarity_report_id": "SIM-SUB-2026-004025-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-18T15:29:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-15T20:29:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000009",
+  "submission_id": "SUB-2026-006397",
+  "similarity_report_id": "SIM-SUB-2026-006397-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-18T19:57:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-10T09:57:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000010",
+  "submission_id": "SUB-2026-008164",
+  "similarity_report_id": "SIM-SUB-2026-008164-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-18T23:04:00Z",
+  "status": "closed",
+  "closed_at": "2026-01-30T00:04:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000011",
+  "submission_id": "SUB-2026-006920",
+  "similarity_report_id": "SIM-SUB-2026-006920-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-19T00:41:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-18T12:41:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000012",
+  "submission_id": "SUB-2026-001811",
+  "similarity_report_id": "SIM-SUB-2026-001811-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-19T02:09:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-08T13:09:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000013",
+  "submission_id": "SUB-2026-000617",
+  "similarity_report_id": "SIM-SUB-2026-000617-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-19T23:47:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-13T00:47:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000014",
+  "submission_id": "SUB-2026-008831",
+  "similarity_report_id": "SIM-SUB-2026-008831-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-20T08:53:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-20T22:53:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000015",
+  "submission_id": "SUB-2026-002082",
+  "similarity_report_id": "SIM-SUB-2026-002082-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-20T15:35:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-14T16:35:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000016",
+  "submission_id": "SUB-2026-006788",
+  "similarity_report_id": "SIM-SUB-2026-006788-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-21T03:48:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000017",
+  "submission_id": "SUB-2026-002388",
+  "similarity_report_id": "SIM-SUB-2026-002388-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-21T03:58:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-10T15:58:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000018",
+  "submission_id": "SUB-2026-001272",
+  "similarity_report_id": "SIM-SUB-2026-001272-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-22T00:09:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-13T13:09:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000019",
+  "submission_id": "SUB-2026-009994",
+  "similarity_report_id": "SIM-SUB-2026-009994-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-28T23:15:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-21T05:15:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000020",
+  "submission_id": "SUB-2026-000645",
+  "similarity_report_id": "SIM-SUB-2026-000645-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-30T00:06:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-20T19:06:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000021",
+  "submission_id": "SUB-2026-005691",
+  "similarity_report_id": "SIM-SUB-2026-005691-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-30T19:54:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-02T02:54:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000022",
+  "submission_id": "SUB-2026-007703",
+  "similarity_report_id": "SIM-SUB-2026-007703-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-31T07:37:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-21T00:37:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000023",
+  "submission_id": "SUB-2026-000685",
+  "similarity_report_id": "SIM-SUB-2026-000685-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-31T11:09:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-19T13:09:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000024",
+  "submission_id": "SUB-2026-008448",
+  "similarity_report_id": "SIM-SUB-2026-008448-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-31T13:13:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-27T23:13:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000025",
+  "submission_id": "SUB-2026-007050",
+  "similarity_report_id": "SIM-SUB-2026-007050-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-31T14:23:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-24T07:23:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000026",
+  "submission_id": "SUB-2026-007796",
+  "similarity_report_id": "SIM-SUB-2026-007796-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-31T21:35:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-28T18:35:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000027",
+  "submission_id": "SUB-2026-005555",
+  "similarity_report_id": "SIM-SUB-2026-005555-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-01-31T21:54:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-28T06:54:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000028",
+  "submission_id": "SUB-2026-003475",
+  "similarity_report_id": "SIM-SUB-2026-003475-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-01T00:43:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-20T11:43:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000029",
+  "submission_id": "SUB-2026-001769",
+  "similarity_report_id": "SIM-SUB-2026-001769-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-01T07:16:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-20T08:16:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000030",
+  "submission_id": "SUB-2026-002127",
+  "similarity_report_id": "SIM-SUB-2026-002127-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-01T07:39:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-23T19:39:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000031",
+  "submission_id": "SUB-2026-001118",
+  "similarity_report_id": "SIM-SUB-2026-001118-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-01T09:44:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-22T16:44:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000032",
+  "submission_id": "SUB-2026-007444",
+  "similarity_report_id": "SIM-SUB-2026-007444-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-01T17:24:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-20T21:24:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000033",
+  "submission_id": "SUB-2026-007180",
+  "similarity_report_id": "SIM-SUB-2026-007180-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-01T21:51:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-10T17:51:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000034",
+  "submission_id": "SUB-2026-003205",
+  "similarity_report_id": "SIM-SUB-2026-003205-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-02T10:54:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-28T02:54:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000035",
+  "submission_id": "SUB-2026-006926",
+  "similarity_report_id": "SIM-SUB-2026-006926-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-03T19:09:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-28T17:09:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000036",
+  "submission_id": "SUB-2026-007304",
+  "similarity_report_id": "SIM-SUB-2026-007304-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-03T22:53:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-27T00:53:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000037",
+  "submission_id": "SUB-2026-002704",
+  "similarity_report_id": "SIM-SUB-2026-002704-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-04T00:36:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-01T08:36:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000038",
+  "submission_id": "SUB-2026-000891",
+  "similarity_report_id": "SIM-SUB-2026-000891-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-04T13:09:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-17T06:09:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000039",
+  "submission_id": "SUB-2026-004027",
+  "similarity_report_id": "SIM-SUB-2026-004027-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-05T11:31:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-27T06:31:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000040",
+  "submission_id": "SUB-2026-003100",
+  "similarity_report_id": "SIM-SUB-2026-003100-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-06T00:17:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-02T04:17:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000041",
+  "submission_id": "SUB-2026-001732",
+  "similarity_report_id": "SIM-SUB-2026-001732-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-06T23:29:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-05T02:29:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000042",
+  "submission_id": "SUB-2026-006293",
+  "similarity_report_id": "SIM-SUB-2026-006293-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-07T04:26:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-24T18:26:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000043",
+  "submission_id": "SUB-2026-000930",
+  "similarity_report_id": "SIM-SUB-2026-000930-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-07T10:03:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-28T08:03:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000044",
+  "submission_id": "SUB-2026-005333",
+  "similarity_report_id": "SIM-SUB-2026-005333-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-07T21:16:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-04T09:16:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000045",
+  "submission_id": "SUB-2026-000916",
+  "similarity_report_id": "SIM-SUB-2026-000916-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-07T23:47:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-27T17:47:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000046",
+  "submission_id": "SUB-2026-008307",
+  "similarity_report_id": "SIM-SUB-2026-008307-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-08T18:16:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-11T18:16:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000047",
+  "submission_id": "SUB-2026-009782",
+  "similarity_report_id": "SIM-SUB-2026-009782-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-09T02:12:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-28T07:12:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000048",
+  "submission_id": "SUB-2026-001349",
+  "similarity_report_id": "SIM-SUB-2026-001349-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-10T06:25:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-09T12:25:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000049",
+  "submission_id": "SUB-2026-007939",
+  "similarity_report_id": "SIM-SUB-2026-007939-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-10T20:20:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-01T18:20:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000050",
+  "submission_id": "SUB-2026-001856",
+  "similarity_report_id": "SIM-SUB-2026-001856-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-11T03:52:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-14T06:52:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000051",
+  "submission_id": "SUB-2026-005638",
+  "similarity_report_id": "SIM-SUB-2026-005638-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-11T07:12:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-05T03:12:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000052",
+  "submission_id": "SUB-2026-006289",
+  "similarity_report_id": "SIM-SUB-2026-006289-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-11T09:50:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-10T15:50:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000053",
+  "submission_id": "SUB-2026-003886",
+  "similarity_report_id": "SIM-SUB-2026-003886-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-11T15:43:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-02T21:43:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000054",
+  "submission_id": "SUB-2026-005107",
+  "similarity_report_id": "SIM-SUB-2026-005107-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-11T18:48:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-09T20:48:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000055",
+  "submission_id": "SUB-2026-006525",
+  "similarity_report_id": "SIM-SUB-2026-006525-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-12T00:29:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-25T04:29:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000056",
+  "submission_id": "SUB-2026-006343",
+  "similarity_report_id": "SIM-SUB-2026-006343-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-12T23:55:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-09T11:55:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000057",
+  "submission_id": "SUB-2026-004965",
+  "similarity_report_id": "SIM-SUB-2026-004965-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-13T16:37:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-22T10:37:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000058",
+  "submission_id": "SUB-2026-000362",
+  "similarity_report_id": "SIM-SUB-2026-000362-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-13T19:32:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-08T07:32:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000059",
+  "submission_id": "SUB-2026-000201",
+  "similarity_report_id": "SIM-SUB-2026-000201-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-14T00:31:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-15T13:31:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000060",
+  "submission_id": "SUB-2026-004801",
+  "similarity_report_id": "SIM-SUB-2026-004801-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-14T10:30:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-13T11:30:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000061",
+  "submission_id": "SUB-2026-001958",
+  "similarity_report_id": "SIM-SUB-2026-001958-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-14T22:25:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-14T07:25:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000062",
+  "submission_id": "SUB-2026-008121",
+  "similarity_report_id": "SIM-SUB-2026-008121-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-15T00:49:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-13T08:49:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000063",
+  "submission_id": "SUB-2026-005240",
+  "similarity_report_id": "SIM-SUB-2026-005240-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-15T12:50:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-07T10:50:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000064",
+  "submission_id": "SUB-2026-005894",
+  "similarity_report_id": "SIM-SUB-2026-005894-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-15T14:32:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-13T21:32:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000065",
+  "submission_id": "SUB-2026-000687",
+  "similarity_report_id": "SIM-SUB-2026-000687-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-16T03:55:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-12T16:55:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000066",
+  "submission_id": "SUB-2026-006655",
+  "similarity_report_id": "SIM-SUB-2026-006655-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-16T04:14:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-17T13:14:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000067",
+  "submission_id": "SUB-2026-007506",
+  "similarity_report_id": "SIM-SUB-2026-007506-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-16T09:39:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-15T22:39:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000068",
+  "submission_id": "SUB-2026-005315",
+  "similarity_report_id": "SIM-SUB-2026-005315-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-16T10:52:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-10T05:52:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000069",
+  "submission_id": "SUB-2026-009811",
+  "similarity_report_id": "SIM-SUB-2026-009811-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-16T14:18:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-10T10:18:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000070",
+  "submission_id": "SUB-2026-001329",
+  "similarity_report_id": "SIM-SUB-2026-001329-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-16T23:23:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-11T20:23:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000071",
+  "submission_id": "SUB-2026-006878",
+  "similarity_report_id": "SIM-SUB-2026-006878-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-17T04:00:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-12T02:00:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000072",
+  "submission_id": "SUB-2026-004819",
+  "similarity_report_id": "SIM-SUB-2026-004819-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-17T22:12:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-22T12:12:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000073",
+  "submission_id": "SUB-2026-008222",
+  "similarity_report_id": "SIM-SUB-2026-008222-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-18T03:48:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-15T14:48:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000074",
+  "submission_id": "SUB-2026-007618",
+  "similarity_report_id": "SIM-SUB-2026-007618-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-18T06:04:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-16T02:04:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000075",
+  "submission_id": "SUB-2026-006424",
+  "similarity_report_id": "SIM-SUB-2026-006424-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-18T10:56:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-10T12:56:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000076",
+  "submission_id": "SUB-2026-000551",
+  "similarity_report_id": "SIM-SUB-2026-000551-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-18T18:05:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-25T08:05:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000077",
+  "submission_id": "SUB-2026-008520",
+  "similarity_report_id": "SIM-SUB-2026-008520-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-18T18:24:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-22T08:24:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000078",
+  "submission_id": "SUB-2026-000723",
+  "similarity_report_id": "SIM-SUB-2026-000723-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-18T18:27:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-27T10:27:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000079",
+  "submission_id": "SUB-2026-005141",
+  "similarity_report_id": "SIM-SUB-2026-005141-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-18T23:01:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-16T19:01:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000080",
+  "submission_id": "SUB-2026-005309",
+  "similarity_report_id": "SIM-SUB-2026-005309-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-19T05:51:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-26T14:51:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000081",
+  "submission_id": "SUB-2026-007040",
+  "similarity_report_id": "SIM-SUB-2026-007040-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-19T06:19:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-09T08:19:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000082",
+  "submission_id": "SUB-2026-006605",
+  "similarity_report_id": "SIM-SUB-2026-006605-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-19T06:36:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-20T10:36:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000083",
+  "submission_id": "SUB-2026-000510",
+  "similarity_report_id": "SIM-SUB-2026-000510-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-19T07:02:00Z",
+  "status": "closed",
+  "closed_at": "2026-02-27T18:02:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000084",
+  "submission_id": "SUB-2026-004282",
+  "similarity_report_id": "SIM-SUB-2026-004282-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-19T08:52:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-16T17:52:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000085",
+  "submission_id": "SUB-2026-007166",
+  "similarity_report_id": "SIM-SUB-2026-007166-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-19T21:19:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-11T18:19:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000086",
+  "submission_id": "SUB-2026-008930",
+  "similarity_report_id": "SIM-SUB-2026-008930-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-20T01:54:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-14T04:54:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000087",
+  "submission_id": "SUB-2026-006169",
+  "similarity_report_id": "SIM-SUB-2026-006169-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-20T02:29:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-04T23:29:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000088",
+  "submission_id": "SUB-2026-009530",
+  "similarity_report_id": "SIM-SUB-2026-009530-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-20T08:28:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-13T02:28:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000089",
+  "submission_id": "SUB-2026-002634",
+  "similarity_report_id": "SIM-SUB-2026-002634-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-20T10:53:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-13T01:53:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000090",
+  "submission_id": "SUB-2026-000600",
+  "similarity_report_id": "SIM-SUB-2026-000600-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-20T11:21:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-17T03:21:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000091",
+  "submission_id": "SUB-2026-001563",
+  "similarity_report_id": "SIM-SUB-2026-001563-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-20T22:06:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-11T11:06:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000092",
+  "submission_id": "SUB-2026-000036",
+  "similarity_report_id": "SIM-SUB-2026-000036-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-21T03:11:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-22T20:11:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000093",
+  "submission_id": "SUB-2026-000467",
+  "similarity_report_id": "SIM-SUB-2026-000467-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-21T05:15:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-20T17:15:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000094",
+  "submission_id": "SUB-2026-004631",
+  "similarity_report_id": "SIM-SUB-2026-004631-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-21T10:29:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-02T22:29:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000095",
+  "submission_id": "SUB-2026-005155",
+  "similarity_report_id": "SIM-SUB-2026-005155-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-21T20:04:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-27T17:04:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000096",
+  "submission_id": "SUB-2026-009320",
+  "similarity_report_id": "SIM-SUB-2026-009320-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-21T23:16:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-22T18:16:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000097",
+  "submission_id": "SUB-2026-001312",
+  "similarity_report_id": "SIM-SUB-2026-001312-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-22T19:05:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-19T19:05:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000098",
+  "submission_id": "SUB-2026-000332",
+  "similarity_report_id": "SIM-SUB-2026-000332-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-23T09:29:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-20T11:29:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000099",
+  "submission_id": "SUB-2026-002966",
+  "similarity_report_id": "SIM-SUB-2026-002966-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-23T10:27:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-03T14:27:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000100",
+  "submission_id": "SUB-2026-002232",
+  "similarity_report_id": "SIM-SUB-2026-002232-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-24T06:28:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-22T19:28:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000101",
+  "submission_id": "SUB-2026-007079",
+  "similarity_report_id": "SIM-SUB-2026-007079-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-24T19:20:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-14T18:20:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000102",
+  "submission_id": "SUB-2026-004283",
+  "similarity_report_id": "SIM-SUB-2026-004283-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-25T04:14:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000103",
+  "submission_id": "SUB-2026-009329",
+  "similarity_report_id": "SIM-SUB-2026-009329-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-25T15:29:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-27T11:29:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000104",
+  "submission_id": "SUB-2026-004121",
+  "similarity_report_id": "SIM-SUB-2026-004121-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-26T00:26:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-19T22:26:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000105",
+  "submission_id": "SUB-2026-003655",
+  "similarity_report_id": "SIM-SUB-2026-003655-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-26T02:23:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-22T09:23:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000106",
+  "submission_id": "SUB-2026-004686",
+  "similarity_report_id": "SIM-SUB-2026-004686-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-26T12:25:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-06T18:25:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000107",
+  "submission_id": "SUB-2026-007426",
+  "similarity_report_id": "SIM-SUB-2026-007426-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-27T07:31:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-23T08:31:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000108",
+  "submission_id": "SUB-2026-000559",
+  "similarity_report_id": "SIM-SUB-2026-000559-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-27T18:03:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-27T22:03:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000109",
+  "submission_id": "SUB-2026-002379",
+  "similarity_report_id": "SIM-SUB-2026-002379-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-02-28T15:07:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-30T10:07:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000110",
+  "submission_id": "SUB-2026-009136",
+  "similarity_report_id": "SIM-SUB-2026-009136-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-01T19:01:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-01T16:01:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000111",
+  "submission_id": "SUB-2026-002975",
+  "similarity_report_id": "SIM-SUB-2026-002975-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-02T22:16:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-10T10:16:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000112",
+  "submission_id": "SUB-2026-000762",
+  "similarity_report_id": "SIM-SUB-2026-000762-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-03T07:08:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-24T07:08:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000113",
+  "submission_id": "SUB-2026-007177",
+  "similarity_report_id": "SIM-SUB-2026-007177-01",
+  "integrity_rule_id": "INT-2026-000001",
+  "review_priority": "priority",
+  "opened_at": "2026-03-03T13:20:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-30T05:20:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000114",
+  "submission_id": "SUB-2026-001770",
+  "similarity_report_id": "SIM-SUB-2026-001770-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-03T23:45:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-01T16:45:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000115",
+  "submission_id": "SUB-2026-002873",
+  "similarity_report_id": "SIM-SUB-2026-002873-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-04T15:20:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-18T04:20:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000116",
+  "submission_id": "SUB-2026-008665",
+  "similarity_report_id": "SIM-SUB-2026-008665-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-04T21:50:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-11T06:50:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000117",
+  "submission_id": "SUB-2026-006592",
+  "similarity_report_id": "SIM-SUB-2026-006592-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-05T00:27:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-27T04:27:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000118",
+  "submission_id": "SUB-2026-005510",
+  "similarity_report_id": "SIM-SUB-2026-005510-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-05T04:09:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-30T22:09:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000119",
+  "submission_id": "SUB-2026-004479",
+  "similarity_report_id": "SIM-SUB-2026-004479-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-06T02:36:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-26T15:36:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000120",
+  "submission_id": "SUB-2026-004031",
+  "similarity_report_id": "SIM-SUB-2026-004031-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-10T20:29:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-10T03:29:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000121",
+  "submission_id": "SUB-2026-002745",
+  "similarity_report_id": "SIM-SUB-2026-002745-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-11T20:58:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-30T01:58:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000122",
+  "submission_id": "SUB-2026-000611",
+  "similarity_report_id": "SIM-SUB-2026-000611-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-12T10:44:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-13T06:44:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000123",
+  "submission_id": "SUB-2026-006435",
+  "similarity_report_id": "SIM-SUB-2026-006435-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-13T01:27:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-20T10:27:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000124",
+  "submission_id": "SUB-2026-005843",
+  "similarity_report_id": "SIM-SUB-2026-005843-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-13T09:01:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-07T00:01:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000125",
+  "submission_id": "SUB-2026-000823",
+  "similarity_report_id": "SIM-SUB-2026-000823-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-14T10:57:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-13T12:57:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000126",
+  "submission_id": "SUB-2026-007789",
+  "similarity_report_id": "SIM-SUB-2026-007789-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-16T05:49:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-15T08:49:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000127",
+  "submission_id": "SUB-2026-008601",
+  "similarity_report_id": "SIM-SUB-2026-008601-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-16T06:36:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-07T18:36:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000128",
+  "submission_id": "SUB-2026-007483",
+  "similarity_report_id": "SIM-SUB-2026-007483-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-16T13:26:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-23T18:26:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000129",
+  "submission_id": "SUB-2026-003558",
+  "similarity_report_id": "SIM-SUB-2026-003558-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-17T06:11:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-09T21:11:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000130",
+  "submission_id": "SUB-2026-004847",
+  "similarity_report_id": "SIM-SUB-2026-004847-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-17T18:58:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-17T00:58:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000131",
+  "submission_id": "SUB-2026-002286",
+  "similarity_report_id": "SIM-SUB-2026-002286-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-17T19:55:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-13T16:55:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000132",
+  "submission_id": "SUB-2026-007101",
+  "similarity_report_id": "SIM-SUB-2026-007101-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-18T06:28:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-11T01:28:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000133",
+  "submission_id": "SUB-2026-001961",
+  "similarity_report_id": "SIM-SUB-2026-001961-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-18T06:30:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-04T00:30:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000134",
+  "submission_id": "SUB-2026-006685",
+  "similarity_report_id": "SIM-SUB-2026-006685-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-18T14:49:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-29T03:49:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000135",
+  "submission_id": "SUB-2026-002088",
+  "similarity_report_id": "SIM-SUB-2026-002088-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-18T14:54:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-30T19:54:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000136",
+  "submission_id": "SUB-2026-002620",
+  "similarity_report_id": "SIM-SUB-2026-002620-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-18T21:50:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-29T16:50:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000137",
+  "submission_id": "SUB-2026-009685",
+  "similarity_report_id": "SIM-SUB-2026-009685-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-19T01:34:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-28T09:34:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000138",
+  "submission_id": "SUB-2026-003846",
+  "similarity_report_id": "SIM-SUB-2026-003846-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-19T04:16:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-13T14:16:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000139",
+  "submission_id": "SUB-2026-002007",
+  "similarity_report_id": "SIM-SUB-2026-002007-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-19T14:54:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-25T10:54:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000140",
+  "submission_id": "SUB-2026-004124",
+  "similarity_report_id": "SIM-SUB-2026-004124-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-19T17:21:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-16T14:21:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000141",
+  "submission_id": "SUB-2026-006423",
+  "similarity_report_id": "SIM-SUB-2026-006423-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-19T17:41:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-14T03:41:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000142",
+  "submission_id": "SUB-2026-005929",
+  "similarity_report_id": "SIM-SUB-2026-005929-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-20T04:00:00Z",
+  "status": "closed",
+  "closed_at": "2026-03-28T23:00:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000143",
+  "submission_id": "SUB-2026-006325",
+  "similarity_report_id": "SIM-SUB-2026-006325-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-20T05:19:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-15T17:19:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000144",
+  "submission_id": "SUB-2026-009299",
+  "similarity_report_id": "SIM-SUB-2026-009299-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-20T09:55:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-11T10:55:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000145",
+  "submission_id": "SUB-2026-009563",
+  "similarity_report_id": "SIM-SUB-2026-009563-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-20T18:17:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-07T23:17:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000146",
+  "submission_id": "SUB-2026-008347",
+  "similarity_report_id": "SIM-SUB-2026-008347-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-21T05:34:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-18T10:34:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000147",
+  "submission_id": "SUB-2026-004575",
+  "similarity_report_id": "SIM-SUB-2026-004575-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-21T20:42:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-18T00:42:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000148",
+  "submission_id": "SUB-2026-000797",
+  "similarity_report_id": "SIM-SUB-2026-000797-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-21T20:57:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-01T22:57:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000149",
+  "submission_id": "SUB-2026-005386",
+  "similarity_report_id": "SIM-SUB-2026-005386-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-21T22:17:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-07T08:17:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000150",
+  "submission_id": "SUB-2026-005601",
+  "similarity_report_id": "SIM-SUB-2026-005601-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-22T00:56:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-15T16:56:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000151",
+  "submission_id": "SUB-2026-000389",
+  "similarity_report_id": "SIM-SUB-2026-000389-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-22T08:32:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-12T23:32:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000152",
+  "submission_id": "SUB-2026-001942",
+  "similarity_report_id": "SIM-SUB-2026-001942-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-24T13:18:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-22T06:18:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000153",
+  "submission_id": "SUB-2026-006994",
+  "similarity_report_id": "SIM-SUB-2026-006994-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-24T15:39:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-05T23:39:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000154",
+  "submission_id": "SUB-2026-003226",
+  "similarity_report_id": "SIM-SUB-2026-003226-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-25T07:54:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-17T21:54:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000155",
+  "submission_id": "SUB-2026-002031",
+  "similarity_report_id": "SIM-SUB-2026-002031-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-25T14:24:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-23T04:24:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000156",
+  "submission_id": "SUB-2026-008808",
+  "similarity_report_id": "SIM-SUB-2026-008808-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-25T22:54:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-01T09:54:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000157",
+  "submission_id": "SUB-2026-009490",
+  "similarity_report_id": "SIM-SUB-2026-009490-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-26T05:00:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-19T01:00:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000158",
+  "submission_id": "SUB-2026-005930",
+  "similarity_report_id": "SIM-SUB-2026-005930-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-26T06:36:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-10T08:36:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000159",
+  "submission_id": "SUB-2026-002952",
+  "similarity_report_id": "SIM-SUB-2026-002952-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-26T15:28:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-20T09:28:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000160",
+  "submission_id": "SUB-2026-001521",
+  "similarity_report_id": "SIM-SUB-2026-001521-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-26T19:11:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-23T08:11:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000161",
+  "submission_id": "SUB-2026-005044",
+  "similarity_report_id": "SIM-SUB-2026-005044-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-26T19:22:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-15T14:22:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000162",
+  "submission_id": "SUB-2026-008589",
+  "similarity_report_id": "SIM-SUB-2026-008589-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-27T03:05:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-19T05:05:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000163",
+  "submission_id": "SUB-2026-008753",
+  "similarity_report_id": "SIM-SUB-2026-008753-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-27T07:10:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-08T18:10:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000164",
+  "submission_id": "SUB-2026-009673",
+  "similarity_report_id": "SIM-SUB-2026-009673-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-27T14:29:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-23T14:29:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000165",
+  "submission_id": "SUB-2026-001932",
+  "similarity_report_id": "SIM-SUB-2026-001932-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-27T22:35:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-11T23:35:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000166",
+  "submission_id": "SUB-2026-002078",
+  "similarity_report_id": "SIM-SUB-2026-002078-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-28T12:01:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-18T05:01:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000167",
+  "submission_id": "SUB-2026-001302",
+  "similarity_report_id": "SIM-SUB-2026-001302-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-28T22:37:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-06T22:37:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000168",
+  "submission_id": "SUB-2026-000506",
+  "similarity_report_id": "SIM-SUB-2026-000506-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-03-30T20:03:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-28T21:03:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000169",
+  "submission_id": "SUB-2026-009266",
+  "similarity_report_id": "SIM-SUB-2026-009266-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-01T00:59:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-24T02:59:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000170",
+  "submission_id": "SUB-2026-006619",
+  "similarity_report_id": "SIM-SUB-2026-006619-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-01T10:34:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-02T16:34:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000171",
+  "submission_id": "SUB-2026-000149",
+  "similarity_report_id": "SIM-SUB-2026-000149-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-01T16:40:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-30T05:40:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000172",
+  "submission_id": "SUB-2026-003043",
+  "similarity_report_id": "SIM-SUB-2026-003043-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-02T04:48:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-05T06:48:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000173",
+  "submission_id": "SUB-2026-004869",
+  "similarity_report_id": "SIM-SUB-2026-004869-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-02T08:36:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-22T22:36:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000174",
+  "submission_id": "SUB-2026-003039",
+  "similarity_report_id": "SIM-SUB-2026-003039-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-02T09:15:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-05T03:15:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000175",
+  "submission_id": "SUB-2026-007259",
+  "similarity_report_id": "SIM-SUB-2026-007259-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-02T11:10:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-05T03:10:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000176",
+  "submission_id": "SUB-2026-007237",
+  "similarity_report_id": "SIM-SUB-2026-007237-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-02T14:10:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-27T19:10:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000177",
+  "submission_id": "SUB-2026-006846",
+  "similarity_report_id": "SIM-SUB-2026-006846-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-02T16:43:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-12T15:43:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000178",
+  "submission_id": "SUB-2026-001100",
+  "similarity_report_id": "SIM-SUB-2026-001100-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-02T23:42:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-27T19:42:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000179",
+  "submission_id": "SUB-2026-009527",
+  "similarity_report_id": "SIM-SUB-2026-009527-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-03T02:19:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-01T10:19:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000180",
+  "submission_id": "SUB-2026-004603",
+  "similarity_report_id": "SIM-SUB-2026-004603-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-03T13:29:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-30T06:29:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000181",
+  "submission_id": "SUB-2026-007290",
+  "similarity_report_id": "SIM-SUB-2026-007290-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-03T15:15:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-26T11:15:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000182",
+  "submission_id": "SUB-2026-001191",
+  "similarity_report_id": "SIM-SUB-2026-001191-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-03T21:57:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-28T14:57:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000183",
+  "submission_id": "SUB-2026-005953",
+  "similarity_report_id": "SIM-SUB-2026-005953-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-03T23:15:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-27T05:15:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000184",
+  "submission_id": "SUB-2026-005258",
+  "similarity_report_id": "SIM-SUB-2026-005258-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-04T01:26:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-05T06:26:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000185",
+  "submission_id": "SUB-2026-009954",
+  "similarity_report_id": "SIM-SUB-2026-009954-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-04T11:56:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-29T06:56:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000186",
+  "submission_id": "SUB-2026-004161",
+  "similarity_report_id": "SIM-SUB-2026-004161-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-04T12:07:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-11T16:07:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000187",
+  "submission_id": "SUB-2026-001202",
+  "similarity_report_id": "SIM-SUB-2026-001202-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-04T18:53:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-27T00:53:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000188",
+  "submission_id": "SUB-2026-004487",
+  "similarity_report_id": "SIM-SUB-2026-004487-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-04T21:01:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-14T00:01:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000189",
+  "submission_id": "SUB-2026-001636",
+  "similarity_report_id": "SIM-SUB-2026-001636-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-05T00:41:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-29T12:41:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000190",
+  "submission_id": "SUB-2026-007369",
+  "similarity_report_id": "SIM-SUB-2026-007369-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-05T01:30:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-05T18:30:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000191",
+  "submission_id": "SUB-2026-003381",
+  "similarity_report_id": "SIM-SUB-2026-003381-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-05T02:11:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-29T08:11:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000192",
+  "submission_id": "SUB-2026-006100",
+  "similarity_report_id": "SIM-SUB-2026-006100-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-05T02:14:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-26T12:14:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000193",
+  "submission_id": "SUB-2026-000834",
+  "similarity_report_id": "SIM-SUB-2026-000834-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-05T06:12:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-05T14:12:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000194",
+  "submission_id": "SUB-2026-006010",
+  "similarity_report_id": "SIM-SUB-2026-006010-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-05T08:34:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-27T07:34:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000195",
+  "submission_id": "SUB-2026-006552",
+  "similarity_report_id": "SIM-SUB-2026-006552-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-05T08:48:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-29T20:48:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000196",
+  "submission_id": "SUB-2026-000595",
+  "similarity_report_id": "SIM-SUB-2026-000595-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-05T22:34:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-08T17:34:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000197",
+  "submission_id": "SUB-2026-000482",
+  "similarity_report_id": "SIM-SUB-2026-000482-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-06T01:09:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-24T16:09:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000198",
+  "submission_id": "SUB-2026-006997",
+  "similarity_report_id": "SIM-SUB-2026-006997-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-06T15:58:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-15T03:58:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000199",
+  "submission_id": "SUB-2026-005524",
+  "similarity_report_id": "SIM-SUB-2026-005524-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-06T19:39:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-30T13:39:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000200",
+  "submission_id": "SUB-2026-003700",
+  "similarity_report_id": "SIM-SUB-2026-003700-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-07T05:55:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-04T04:55:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000201",
+  "submission_id": "SUB-2026-006756",
+  "similarity_report_id": "SIM-SUB-2026-006756-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-08T11:16:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-04T05:16:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000202",
+  "submission_id": "SUB-2026-005219",
+  "similarity_report_id": "SIM-SUB-2026-005219-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-09T08:38:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-08T03:38:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000203",
+  "submission_id": "SUB-2026-001208",
+  "similarity_report_id": "SIM-SUB-2026-001208-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-10T00:59:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-12T13:59:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000204",
+  "submission_id": "SUB-2026-000431",
+  "similarity_report_id": "SIM-SUB-2026-000431-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-10T04:39:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-03T12:39:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000205",
+  "submission_id": "SUB-2026-008906",
+  "similarity_report_id": "SIM-SUB-2026-008906-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-10T12:28:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-06T22:28:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000206",
+  "submission_id": "SUB-2026-000239",
+  "similarity_report_id": "SIM-SUB-2026-000239-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-10T12:59:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-25T14:59:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000207",
+  "submission_id": "SUB-2026-002208",
+  "similarity_report_id": "SIM-SUB-2026-002208-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-10T18:00:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-15T08:00:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000208",
+  "submission_id": "SUB-2026-008983",
+  "similarity_report_id": "SIM-SUB-2026-008983-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-10T19:57:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-06T13:57:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000209",
+  "submission_id": "SUB-2026-002448",
+  "similarity_report_id": "SIM-SUB-2026-002448-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-11T10:16:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-13T03:16:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000210",
+  "submission_id": "SUB-2026-003253",
+  "similarity_report_id": "SIM-SUB-2026-003253-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-11T21:29:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-07T20:29:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000211",
+  "submission_id": "SUB-2026-002712",
+  "similarity_report_id": "SIM-SUB-2026-002712-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-11T22:32:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-22T23:32:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000212",
+  "submission_id": "SUB-2026-004826",
+  "similarity_report_id": "SIM-SUB-2026-004826-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-12T01:41:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-04T16:41:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000213",
+  "submission_id": "SUB-2026-000459",
+  "similarity_report_id": "SIM-SUB-2026-000459-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-12T04:04:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-05T02:04:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000214",
+  "submission_id": "SUB-2026-005882",
+  "similarity_report_id": "SIM-SUB-2026-005882-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-12T06:51:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-06T16:51:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000215",
+  "submission_id": "SUB-2026-009028",
+  "similarity_report_id": "SIM-SUB-2026-009028-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-12T10:51:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-03T10:51:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000216",
+  "submission_id": "SUB-2026-007289",
+  "similarity_report_id": "SIM-SUB-2026-007289-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-12T10:53:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-28T18:53:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000217",
+  "submission_id": "SUB-2026-006117",
+  "similarity_report_id": "SIM-SUB-2026-006117-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-12T14:49:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-22T22:49:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000218",
+  "submission_id": "SUB-2026-000615",
+  "similarity_report_id": "SIM-SUB-2026-000615-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-12T17:00:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-06T01:00:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000219",
+  "submission_id": "SUB-2026-003110",
+  "similarity_report_id": "SIM-SUB-2026-003110-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-12T17:35:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-09T12:35:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000220",
+  "submission_id": "SUB-2026-001078",
+  "similarity_report_id": "SIM-SUB-2026-001078-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-12T18:12:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-09T12:12:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000221",
+  "submission_id": "SUB-2026-005713",
+  "similarity_report_id": "SIM-SUB-2026-005713-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-12T19:24:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-05T21:24:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000222",
+  "submission_id": "SUB-2026-005365",
+  "similarity_report_id": "SIM-SUB-2026-005365-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-12T22:10:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-12T09:10:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000223",
+  "submission_id": "SUB-2026-008209",
+  "similarity_report_id": "SIM-SUB-2026-008209-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-13T04:10:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-03T05:10:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000224",
+  "submission_id": "SUB-2026-008234",
+  "similarity_report_id": "SIM-SUB-2026-008234-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-13T07:26:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-03T11:26:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000225",
+  "submission_id": "SUB-2026-004582",
+  "similarity_report_id": "SIM-SUB-2026-004582-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-13T13:25:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-01T10:25:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000226",
+  "submission_id": "SUB-2026-007888",
+  "similarity_report_id": "SIM-SUB-2026-007888-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-13T16:03:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-05T22:03:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000227",
+  "submission_id": "SUB-2026-001994",
+  "similarity_report_id": "SIM-SUB-2026-001994-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-13T22:15:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-10T10:15:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000228",
+  "submission_id": "SUB-2026-008629",
+  "similarity_report_id": "SIM-SUB-2026-008629-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-13T22:32:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-10T16:32:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000229",
+  "submission_id": "SUB-2026-006284",
+  "similarity_report_id": "SIM-SUB-2026-006284-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-13T22:50:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-11T14:50:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000230",
+  "submission_id": "SUB-2026-006727",
+  "similarity_report_id": "SIM-SUB-2026-006727-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-14T04:14:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-19T19:14:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000231",
+  "submission_id": "SUB-2026-002349",
+  "similarity_report_id": "SIM-SUB-2026-002349-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-14T04:32:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-08T10:32:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000232",
+  "submission_id": "SUB-2026-009920",
+  "similarity_report_id": "SIM-SUB-2026-009920-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-14T08:36:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-10T08:36:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000233",
+  "submission_id": "SUB-2026-003309",
+  "similarity_report_id": "SIM-SUB-2026-003309-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-14T11:08:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-23T15:08:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000234",
+  "submission_id": "SUB-2026-006367",
+  "similarity_report_id": "SIM-SUB-2026-006367-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-14T16:44:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-12T16:44:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000235",
+  "submission_id": "SUB-2026-008406",
+  "similarity_report_id": "SIM-SUB-2026-008406-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-14T19:23:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-09T22:23:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000236",
+  "submission_id": "SUB-2026-008786",
+  "similarity_report_id": "SIM-SUB-2026-008786-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-14T20:52:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-02T03:52:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000237",
+  "submission_id": "SUB-2026-005329",
+  "similarity_report_id": "SIM-SUB-2026-005329-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-15T01:32:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-14T12:32:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000238",
+  "submission_id": "SUB-2026-000628",
+  "similarity_report_id": "SIM-SUB-2026-000628-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-15T17:41:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-09T11:41:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000239",
+  "submission_id": "SUB-2026-005022",
+  "similarity_report_id": "SIM-SUB-2026-005022-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-16T14:49:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-22T02:49:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000240",
+  "submission_id": "SUB-2026-001741",
+  "similarity_report_id": "SIM-SUB-2026-001741-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-17T00:12:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-13T05:12:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000241",
+  "submission_id": "SUB-2026-000744",
+  "similarity_report_id": "SIM-SUB-2026-000744-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-17T02:02:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-12T19:02:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000242",
+  "submission_id": "SUB-2026-003592",
+  "similarity_report_id": "SIM-SUB-2026-003592-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-17T09:46:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-07T15:46:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000243",
+  "submission_id": "SUB-2026-005618",
+  "similarity_report_id": "SIM-SUB-2026-005618-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-17T13:33:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-08T10:33:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000244",
+  "submission_id": "SUB-2026-003340",
+  "similarity_report_id": "SIM-SUB-2026-003340-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-18T19:14:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-14T22:14:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000245",
+  "submission_id": "SUB-2026-003976",
+  "similarity_report_id": "SIM-SUB-2026-003976-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-19T16:40:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-19T09:40:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000246",
+  "submission_id": "SUB-2026-008434",
+  "similarity_report_id": "SIM-SUB-2026-008434-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-20T03:16:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-13T13:16:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000247",
+  "submission_id": "SUB-2026-003440",
+  "similarity_report_id": "SIM-SUB-2026-003440-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-20T16:55:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-10T20:55:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000248",
+  "submission_id": "SUB-2026-009671",
+  "similarity_report_id": "SIM-SUB-2026-009671-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-22T05:06:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-20T03:06:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000249",
+  "submission_id": "SUB-2026-001214",
+  "similarity_report_id": "SIM-SUB-2026-001214-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-22T14:03:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-11T06:03:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000250",
+  "submission_id": "SUB-2026-000160",
+  "similarity_report_id": "SIM-SUB-2026-000160-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-22T20:49:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-20T23:49:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000251",
+  "submission_id": "SUB-2026-009829",
+  "similarity_report_id": "SIM-SUB-2026-009829-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-22T23:25:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-09T12:25:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000252",
+  "submission_id": "SUB-2026-009863",
+  "similarity_report_id": "SIM-SUB-2026-009863-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-23T05:57:00Z",
+  "status": "closed",
+  "closed_at": "2026-04-30T12:57:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000253",
+  "submission_id": "SUB-2026-005156",
+  "similarity_report_id": "SIM-SUB-2026-005156-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-23T06:06:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-21T02:06:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000254",
+  "submission_id": "SUB-2026-005457",
+  "similarity_report_id": "SIM-SUB-2026-005457-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-23T08:22:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-03T22:22:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000255",
+  "submission_id": "SUB-2026-006099",
+  "similarity_report_id": "SIM-SUB-2026-006099-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-23T21:15:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-17T11:15:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000256",
+  "submission_id": "SUB-2026-007889",
+  "similarity_report_id": "SIM-SUB-2026-007889-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-24T07:03:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-14T22:03:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000257",
+  "submission_id": "SUB-2026-003971",
+  "similarity_report_id": "SIM-SUB-2026-003971-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-25T20:04:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-24T07:04:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000258",
+  "submission_id": "SUB-2026-000883",
+  "similarity_report_id": "SIM-SUB-2026-000883-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-26T11:08:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-17T18:08:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000259",
+  "submission_id": "SUB-2026-000065",
+  "similarity_report_id": "SIM-SUB-2026-000065-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-28T10:13:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-23T03:13:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000260",
+  "submission_id": "SUB-2026-005919",
+  "similarity_report_id": "SIM-SUB-2026-005919-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-29T14:21:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-15T15:21:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000261",
+  "submission_id": "SUB-2026-009209",
+  "similarity_report_id": "SIM-SUB-2026-009209-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-04-30T10:49:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000262",
+  "submission_id": "SUB-2026-002737",
+  "similarity_report_id": "SIM-SUB-2026-002737-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-01T03:01:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-13T05:01:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000263",
+  "submission_id": "SUB-2026-001284",
+  "similarity_report_id": "SIM-SUB-2026-001284-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-01T09:40:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000264",
+  "submission_id": "SUB-2026-005011",
+  "similarity_report_id": "SIM-SUB-2026-005011-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-01T10:44:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000265",
+  "submission_id": "SUB-2026-001341",
+  "similarity_report_id": "SIM-SUB-2026-001341-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-01T18:42:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000266",
+  "submission_id": "SUB-2026-009014",
+  "similarity_report_id": "SIM-SUB-2026-009014-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-03T13:23:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000267",
+  "submission_id": "SUB-2026-005222",
+  "similarity_report_id": "SIM-SUB-2026-005222-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-06T16:28:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000268",
+  "submission_id": "SUB-2026-005765",
+  "similarity_report_id": "SIM-SUB-2026-005765-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-06T21:41:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000269",
+  "submission_id": "SUB-2026-004206",
+  "similarity_report_id": "SIM-SUB-2026-004206-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-07T20:35:00Z",
+  "status": "appeal_open",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000270",
+  "submission_id": "SUB-2026-007216",
+  "similarity_report_id": "SIM-SUB-2026-007216-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-07T23:21:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000271",
+  "submission_id": "SUB-2026-002365",
+  "similarity_report_id": "SIM-SUB-2026-002365-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-08T15:19:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000272",
+  "submission_id": "SUB-2026-008727",
+  "similarity_report_id": "SIM-SUB-2026-008727-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-09T00:43:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000273",
+  "submission_id": "SUB-2026-005755",
+  "similarity_report_id": "SIM-SUB-2026-005755-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-09T01:24:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000274",
+  "submission_id": "SUB-2026-001897",
+  "similarity_report_id": "SIM-SUB-2026-001897-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-09T12:52:00Z",
+  "status": "appeal_open",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000275",
+  "submission_id": "SUB-2026-002043",
+  "similarity_report_id": "SIM-SUB-2026-002043-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-09T16:47:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000276",
+  "submission_id": "SUB-2026-007078",
+  "similarity_report_id": "SIM-SUB-2026-007078-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-10T08:01:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-21T19:01:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000277",
+  "submission_id": "SUB-2026-005106",
+  "similarity_report_id": "SIM-SUB-2026-005106-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-10T21:35:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000278",
+  "submission_id": "SUB-2026-007347",
+  "similarity_report_id": "SIM-SUB-2026-007347-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-11T03:05:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000279",
+  "submission_id": "SUB-2026-007169",
+  "similarity_report_id": "SIM-SUB-2026-007169-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-11T04:48:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000280",
+  "submission_id": "SUB-2026-002541",
+  "similarity_report_id": "SIM-SUB-2026-002541-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-11T14:38:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000281",
+  "submission_id": "SUB-2026-005705",
+  "similarity_report_id": "SIM-SUB-2026-005705-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-11T17:35:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000282",
+  "submission_id": "SUB-2026-009934",
+  "similarity_report_id": "SIM-SUB-2026-009934-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-11T17:37:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000283",
+  "submission_id": "SUB-2026-007356",
+  "similarity_report_id": "SIM-SUB-2026-007356-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-12T01:01:00Z",
+  "status": "closed",
+  "closed_at": "2026-05-19T00:01:00Z"
+ },
+ {
+  "case_id": "CASE-2026-000284",
+  "submission_id": "SUB-2026-009460",
+  "similarity_report_id": "SIM-SUB-2026-009460-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-12T01:56:00Z",
+  "status": "under_review",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000285",
+  "submission_id": "SUB-2026-003669",
+  "similarity_report_id": "SIM-SUB-2026-003669-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-12T01:59:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000286",
+  "submission_id": "SUB-2026-000098",
+  "similarity_report_id": "SIM-SUB-2026-000098-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-13T02:27:00Z",
+  "status": "under_review",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000287",
+  "submission_id": "SUB-2026-004925",
+  "similarity_report_id": "SIM-SUB-2026-004925-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-13T08:52:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000288",
+  "submission_id": "SUB-2026-001809",
+  "similarity_report_id": "SIM-SUB-2026-001809-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-13T11:50:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000289",
+  "submission_id": "SUB-2026-002784",
+  "similarity_report_id": "SIM-SUB-2026-002784-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-13T15:40:00Z",
+  "status": "under_review",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000290",
+  "submission_id": "SUB-2026-000121",
+  "similarity_report_id": "SIM-SUB-2026-000121-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-13T15:54:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000291",
+  "submission_id": "SUB-2026-008764",
+  "similarity_report_id": "SIM-SUB-2026-008764-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-14T08:27:00Z",
+  "status": "under_review",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000292",
+  "submission_id": "SUB-2026-009833",
+  "similarity_report_id": "SIM-SUB-2026-009833-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-14T19:38:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000293",
+  "submission_id": "SUB-2026-000598",
+  "similarity_report_id": "SIM-SUB-2026-000598-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-15T03:17:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000294",
+  "submission_id": "SUB-2026-005358",
+  "similarity_report_id": "SIM-SUB-2026-005358-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-15T08:26:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000295",
+  "submission_id": "SUB-2026-004862",
+  "similarity_report_id": "SIM-SUB-2026-004862-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-15T19:58:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000296",
+  "submission_id": "SUB-2026-002583",
+  "similarity_report_id": "SIM-SUB-2026-002583-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-16T00:49:00Z",
+  "status": "under_review",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000297",
+  "submission_id": "SUB-2026-002772",
+  "similarity_report_id": "SIM-SUB-2026-002772-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-16T02:06:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000298",
+  "submission_id": "SUB-2026-007186",
+  "similarity_report_id": "SIM-SUB-2026-007186-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-16T10:43:00Z",
+  "status": "under_review",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000299",
+  "submission_id": "SUB-2026-004407",
+  "similarity_report_id": "SIM-SUB-2026-004407-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-17T10:04:00Z",
+  "status": "decided",
+  "closed_at": null
+ },
+ {
+  "case_id": "CASE-2026-000300",
+  "submission_id": "SUB-2026-008363",
+  "similarity_report_id": "SIM-SUB-2026-008363-01",
+  "integrity_rule_id": "INT-2026-000002",
+  "review_priority": "priority",
+  "opened_at": "2026-05-18T09:50:00Z",
+  "status": "under_review",
+  "closed_at": null
+ }
+]

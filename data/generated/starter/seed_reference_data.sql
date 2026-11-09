@@ -1,0 +1,25 @@
+-- Generated reference data (synthetic). Load after sql/schema.sql.
+INSERT INTO integrity_rule VALUES ('INT-2026-000001', 'Similarity review policy', 1, 25.0, 45.0, 65.0, '2025-09-01T00:00:00Z', '2026-03-01T00:00:00Z', 'Synthetic demo policy v1. Score is a review signal only, never proof of misconduct.');
+INSERT INTO integrity_rule VALUES ('INT-2026-000002', 'Similarity review policy', 2, 20.0, 40.0, 60.0, '2026-03-01T00:00:00Z', NULL, 'Synthetic demo policy v2 (lower thresholds). Score is a review signal only, never proof of misconduct.');
+INSERT INTO assessment VALUES ('ASM-2026-0001', 'ENV101', 'Lab Report 1', 'Environmental Science', 'lab_report', 1, '2026-03-15T23:59:00Z');
+INSERT INTO assessment VALUES ('ASM-2026-0002', 'CSC102', 'Lab Report 2', 'Computer Science', 'lab_report', 1, '2026-03-02T23:59:00Z');
+INSERT INTO assessment VALUES ('ASM-2026-0003', 'BUS103', 'Lab Report 3', 'Business', 'lab_report', 1, '2026-01-17T23:59:00Z');
+INSERT INTO assessment VALUES ('ASM-2026-0004', 'ENG104', 'Essay 4', 'Engineering', 'essay', 0, '2026-02-24T23:59:00Z');
+INSERT INTO assessment VALUES ('ASM-2026-0005', 'ENV105', 'Essay 5', 'Environmental Science', 'essay', 0, '2026-04-27T23:59:00Z');
+INSERT INTO assessment VALUES ('ASM-2026-0006', 'CSC106', 'Code 6', 'Computer Science', 'code', 1, '2026-05-07T23:59:00Z');
+INSERT INTO assessment VALUES ('ASM-2026-0007', 'BUS107', 'Report 7', 'Business', 'report', 0, '2026-02-15T23:59:00Z');
+INSERT INTO assessment VALUES ('ASM-2026-0008', 'ENG108', 'Essay 8', 'Engineering', 'essay', 0, '2026-04-17T23:59:00Z');
+INSERT INTO assessment VALUES ('ASM-2026-0009', 'ENV109', 'Lab Report 9', 'Environmental Science', 'lab_report', 1, '2026-04-13T23:59:00Z');
+INSERT INTO assessment VALUES ('ASM-2026-0010', 'CSC110', 'Essay 10', 'Computer Science', 'essay', 0, '2026-02-18T23:59:00Z');
+INSERT INTO reviewer VALUES ('REV-2026-0001', 'Synthetic Reviewer 0001', 'reviewer0001@staff.example.org', 'Computer Science', 'academic_reviewer');
+INSERT INTO reviewer VALUES ('REV-2026-0002', 'Synthetic Reviewer 0002', 'reviewer0002@staff.example.org', 'Business', 'academic_reviewer');
+INSERT INTO reviewer VALUES ('REV-2026-0003', 'Synthetic Reviewer 0003', 'reviewer0003@staff.example.org', 'Engineering', 'academic_reviewer');
+INSERT INTO reviewer VALUES ('REV-2026-0004', 'Synthetic Reviewer 0004', 'reviewer0004@staff.example.org', 'Environmental Science', 'academic_reviewer');
+INSERT INTO reviewer VALUES ('REV-2026-0005', 'Synthetic Reviewer 0005', 'reviewer0005@staff.example.org', 'Academic Integrity Office', 'integrity_officer');
+INSERT INTO reviewer VALUES ('REV-2026-0006', 'Synthetic Reviewer 0006', 'reviewer0006@staff.example.org', 'Business', 'academic_reviewer');
+INSERT INTO reviewer VALUES ('REV-2026-0007', 'Synthetic Reviewer 0007', 'reviewer0007@staff.example.org', 'Engineering', 'academic_reviewer');
+INSERT INTO reviewer VALUES ('REV-2026-0008', 'Synthetic Reviewer 0008', 'reviewer0008@staff.example.org', 'Environmental Science', 'academic_reviewer');
+INSERT INTO reviewer VALUES ('REV-2026-0009', 'Synthetic Reviewer 0009', 'reviewer0009@staff.example.org', 'Computer Science', 'academic_reviewer');
+INSERT INTO reviewer VALUES ('REV-2026-0010', 'Synthetic Reviewer 0010', 'reviewer0010@staff.example.org', 'Academic Integrity Office', 'integrity_officer');
+INSERT INTO reviewer VALUES ('REV-2026-0011', 'Synthetic Reviewer 0011', 'reviewer0011@staff.example.org', 'Engineering', 'academic_reviewer');
+INSERT INTO reviewer VALUES ('REV-2026-0012', 'Synthetic Reviewer 0012', 'reviewer0012@staff.example.org', 'Environmental Science', 'academic_reviewer');

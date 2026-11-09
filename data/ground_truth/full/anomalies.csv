@@ -1,0 +1,9 @@
+anomaly_id,issue_type,case_id,entity_type,entity_id,description
+ANM-0001,automatic_guilt,CASE-2026-000016,decision,DEC-CASE-2026-000016-01,Flag converted straight into confirmed_breach with no human reviewer.
+ANM-0002,evidence_history_missing,CASE-2026-000044,evidence_item,EVD-CASE-2026-000044-005,Evidence added after decision with no evidence_added event.
+ANM-0003,reviewer_conflict,CASE-2026-000057,case_reviewer,ASG-CASE-2026-000057-01,Reviewer assigned despite a declared conflict with the learner.
+ANM-0004,reviewer_conflict,CASE-2026-000096,case_reviewer,ASG-CASE-2026-000096-01,Reviewer assigned despite a declared conflict with the learner.
+ANM-0005,automatic_guilt,CASE-2026-000102,decision,DEC-CASE-2026-000102-01,Flag converted straight into confirmed_breach with no human reviewer.
+ANM-0006,appeal_closed_without_independent_review,CASE-2026-000133,appeal,APL-CASE-2026-000133-01,Appeal decided by the original decision-maker and the case closed.
+ANM-0007,appeal_closed_without_independent_review,CASE-2026-000136,appeal,APL-CASE-2026-000136-01,Appeal decided by the original decision-maker and the case closed.
+ANM-0008,evidence_history_missing,CASE-2026-000145,evidence_item,EVD-CASE-2026-000145-004,Evidence added after decision with no evidence_added event.

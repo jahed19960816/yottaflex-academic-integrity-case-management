@@ -1,0 +1,7002 @@
+[
+ {
+  "submission_id": "SUB-2026-000001",
+  "learner_id": "LRN-2026-000110",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T15:53:00Z",
+  "word_count": 4150
+ },
+ {
+  "submission_id": "SUB-2026-000002",
+  "learner_id": "LRN-2026-000047",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T19:31:00Z",
+  "word_count": 1789
+ },
+ {
+  "submission_id": "SUB-2026-000003",
+  "learner_id": "LRN-2026-000195",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T05:38:00Z",
+  "word_count": 3530
+ },
+ {
+  "submission_id": "SUB-2026-000004",
+  "learner_id": "LRN-2026-000199",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T11:02:00Z",
+  "word_count": 865
+ },
+ {
+  "submission_id": "SUB-2026-000005",
+  "learner_id": "LRN-2026-000027",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T05:12:00Z",
+  "word_count": 2670
+ },
+ {
+  "submission_id": "SUB-2026-000006",
+  "learner_id": "LRN-2026-000075",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T00:11:00Z",
+  "word_count": 461
+ },
+ {
+  "submission_id": "SUB-2026-000007",
+  "learner_id": "LRN-2026-000154",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T15:49:00Z",
+  "word_count": 878
+ },
+ {
+  "submission_id": "SUB-2026-000008",
+  "learner_id": "LRN-2026-000197",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T19:57:00Z",
+  "word_count": 2372
+ },
+ {
+  "submission_id": "SUB-2026-000009",
+  "learner_id": "LRN-2026-000023",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T07:01:00Z",
+  "word_count": 457
+ },
+ {
+  "submission_id": "SUB-2026-000010",
+  "learner_id": "LRN-2026-000114",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T17:53:00Z",
+  "word_count": 540
+ },
+ {
+  "submission_id": "SUB-2026-000011",
+  "learner_id": "LRN-2026-000067",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T13:56:00Z",
+  "word_count": 3697
+ },
+ {
+  "submission_id": "SUB-2026-000012",
+  "learner_id": "LRN-2026-000125",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T05:38:00Z",
+  "word_count": 1972
+ },
+ {
+  "submission_id": "SUB-2026-000013",
+  "learner_id": "LRN-2026-000185",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T13:55:00Z",
+  "word_count": 2400
+ },
+ {
+  "submission_id": "SUB-2026-000014",
+  "learner_id": "LRN-2026-000166",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T00:32:00Z",
+  "word_count": 780
+ },
+ {
+  "submission_id": "SUB-2026-000015",
+  "learner_id": "LRN-2026-000037",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T13:35:00Z",
+  "word_count": 707
+ },
+ {
+  "submission_id": "SUB-2026-000016",
+  "learner_id": "LRN-2026-000144",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T01:18:00Z",
+  "word_count": 2657
+ },
+ {
+  "submission_id": "SUB-2026-000017",
+  "learner_id": "LRN-2026-000134",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T05:54:00Z",
+  "word_count": 658
+ },
+ {
+  "submission_id": "SUB-2026-000018",
+  "learner_id": "LRN-2026-000006",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T00:49:00Z",
+  "word_count": 2893
+ },
+ {
+  "submission_id": "SUB-2026-000019",
+  "learner_id": "LRN-2026-000016",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T12:59:00Z",
+  "word_count": 3846
+ },
+ {
+  "submission_id": "SUB-2026-000020",
+  "learner_id": "LRN-2026-000019",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T19:57:00Z",
+  "word_count": 4160
+ },
+ {
+  "submission_id": "SUB-2026-000021",
+  "learner_id": "LRN-2026-000126",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T05:56:00Z",
+  "word_count": 1477
+ },
+ {
+  "submission_id": "SUB-2026-000022",
+  "learner_id": "LRN-2026-000079",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T18:58:00Z",
+  "word_count": 4124
+ },
+ {
+  "submission_id": "SUB-2026-000023",
+  "learner_id": "LRN-2026-000102",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T21:04:00Z",
+  "word_count": 3784
+ },
+ {
+  "submission_id": "SUB-2026-000024",
+  "learner_id": "LRN-2026-000184",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T01:26:00Z",
+  "word_count": 2732
+ },
+ {
+  "submission_id": "SUB-2026-000025",
+  "learner_id": "LRN-2026-000048",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T17:43:00Z",
+  "word_count": 3574
+ },
+ {
+  "submission_id": "SUB-2026-000026",
+  "learner_id": "LRN-2026-000193",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T08:53:00Z",
+  "word_count": 2143
+ },
+ {
+  "submission_id": "SUB-2026-000027",
+  "learner_id": "LRN-2026-000137",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T01:58:00Z",
+  "word_count": 321
+ },
+ {
+  "submission_id": "SUB-2026-000028",
+  "learner_id": "LRN-2026-000150",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T04:00:00Z",
+  "word_count": 1981
+ },
+ {
+  "submission_id": "SUB-2026-000029",
+  "learner_id": "LRN-2026-000142",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T16:52:00Z",
+  "word_count": 1021
+ },
+ {
+  "submission_id": "SUB-2026-000030",
+  "learner_id": "LRN-2026-000185",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T15:20:00Z",
+  "word_count": 2812
+ },
+ {
+  "submission_id": "SUB-2026-000031",
+  "learner_id": "LRN-2026-000181",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T08:14:00Z",
+  "word_count": 3806
+ },
+ {
+  "submission_id": "SUB-2026-000032",
+  "learner_id": "LRN-2026-000098",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T23:12:00Z",
+  "word_count": 3336
+ },
+ {
+  "submission_id": "SUB-2026-000033",
+  "learner_id": "LRN-2026-000098",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T00:05:00Z",
+  "word_count": 4091
+ },
+ {
+  "submission_id": "SUB-2026-000034",
+  "learner_id": "LRN-2026-000180",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T20:46:00Z",
+  "word_count": 2895
+ },
+ {
+  "submission_id": "SUB-2026-000035",
+  "learner_id": "LRN-2026-000171",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T10:04:00Z",
+  "word_count": 3342
+ },
+ {
+  "submission_id": "SUB-2026-000036",
+  "learner_id": "LRN-2026-000026",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T20:15:00Z",
+  "word_count": 3181
+ },
+ {
+  "submission_id": "SUB-2026-000037",
+  "learner_id": "LRN-2026-000194",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T19:19:00Z",
+  "word_count": 1148
+ },
+ {
+  "submission_id": "SUB-2026-000038",
+  "learner_id": "LRN-2026-000181",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T16:04:00Z",
+  "word_count": 3274
+ },
+ {
+  "submission_id": "SUB-2026-000039",
+  "learner_id": "LRN-2026-000088",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T19:55:00Z",
+  "word_count": 3949
+ },
+ {
+  "submission_id": "SUB-2026-000040",
+  "learner_id": "LRN-2026-000092",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T15:00:00Z",
+  "word_count": 1405
+ },
+ {
+  "submission_id": "SUB-2026-000041",
+  "learner_id": "LRN-2026-000105",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T19:15:00Z",
+  "word_count": 4017
+ },
+ {
+  "submission_id": "SUB-2026-000042",
+  "learner_id": "LRN-2026-000012",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T22:03:00Z",
+  "word_count": 4366
+ },
+ {
+  "submission_id": "SUB-2026-000043",
+  "learner_id": "LRN-2026-000113",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T03:15:00Z",
+  "word_count": 600
+ },
+ {
+  "submission_id": "SUB-2026-000044",
+  "learner_id": "LRN-2026-000028",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T17:13:00Z",
+  "word_count": 2442
+ },
+ {
+  "submission_id": "SUB-2026-000045",
+  "learner_id": "LRN-2026-000120",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T08:19:00Z",
+  "word_count": 1483
+ },
+ {
+  "submission_id": "SUB-2026-000046",
+  "learner_id": "LRN-2026-000082",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T01:01:00Z",
+  "word_count": 739
+ },
+ {
+  "submission_id": "SUB-2026-000047",
+  "learner_id": "LRN-2026-000072",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T14:36:00Z",
+  "word_count": 3139
+ },
+ {
+  "submission_id": "SUB-2026-000048",
+  "learner_id": "LRN-2026-000099",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T01:01:00Z",
+  "word_count": 2138
+ },
+ {
+  "submission_id": "SUB-2026-000049",
+  "learner_id": "LRN-2026-000190",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T19:22:00Z",
+  "word_count": 3624
+ },
+ {
+  "submission_id": "SUB-2026-000050",
+  "learner_id": "LRN-2026-000121",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T23:22:00Z",
+  "word_count": 4219
+ },
+ {
+  "submission_id": "SUB-2026-000051",
+  "learner_id": "LRN-2026-000141",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T18:21:00Z",
+  "word_count": 1704
+ },
+ {
+  "submission_id": "SUB-2026-000052",
+  "learner_id": "LRN-2026-000059",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T18:24:00Z",
+  "word_count": 1166
+ },
+ {
+  "submission_id": "SUB-2026-000053",
+  "learner_id": "LRN-2026-000140",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T18:58:00Z",
+  "word_count": 3333
+ },
+ {
+  "submission_id": "SUB-2026-000054",
+  "learner_id": "LRN-2026-000018",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T02:52:00Z",
+  "word_count": 4108
+ },
+ {
+  "submission_id": "SUB-2026-000055",
+  "learner_id": "LRN-2026-000165",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T15:40:00Z",
+  "word_count": 3731
+ },
+ {
+  "submission_id": "SUB-2026-000056",
+  "learner_id": "LRN-2026-000151",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T16:25:00Z",
+  "word_count": 1911
+ },
+ {
+  "submission_id": "SUB-2026-000057",
+  "learner_id": "LRN-2026-000171",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T18:07:00Z",
+  "word_count": 2380
+ },
+ {
+  "submission_id": "SUB-2026-000058",
+  "learner_id": "LRN-2026-000014",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T21:28:00Z",
+  "word_count": 3334
+ },
+ {
+  "submission_id": "SUB-2026-000059",
+  "learner_id": "LRN-2026-000091",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T14:55:00Z",
+  "word_count": 2917
+ },
+ {
+  "submission_id": "SUB-2026-000060",
+  "learner_id": "LRN-2026-000031",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T17:59:00Z",
+  "word_count": 3132
+ },
+ {
+  "submission_id": "SUB-2026-000061",
+  "learner_id": "LRN-2026-000070",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T15:04:00Z",
+  "word_count": 4293
+ },
+ {
+  "submission_id": "SUB-2026-000062",
+  "learner_id": "LRN-2026-000142",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T03:36:00Z",
+  "word_count": 729
+ },
+ {
+  "submission_id": "SUB-2026-000063",
+  "learner_id": "LRN-2026-000020",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T21:54:00Z",
+  "word_count": 1840
+ },
+ {
+  "submission_id": "SUB-2026-000064",
+  "learner_id": "LRN-2026-000139",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T20:56:00Z",
+  "word_count": 4121
+ },
+ {
+  "submission_id": "SUB-2026-000065",
+  "learner_id": "LRN-2026-000107",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T11:30:00Z",
+  "word_count": 1200
+ },
+ {
+  "submission_id": "SUB-2026-000066",
+  "learner_id": "LRN-2026-000114",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T08:08:00Z",
+  "word_count": 850
+ },
+ {
+  "submission_id": "SUB-2026-000067",
+  "learner_id": "LRN-2026-000147",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T10:27:00Z",
+  "word_count": 513
+ },
+ {
+  "submission_id": "SUB-2026-000068",
+  "learner_id": "LRN-2026-000102",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T01:47:00Z",
+  "word_count": 4135
+ },
+ {
+  "submission_id": "SUB-2026-000069",
+  "learner_id": "LRN-2026-000017",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T12:16:00Z",
+  "word_count": 1557
+ },
+ {
+  "submission_id": "SUB-2026-000070",
+  "learner_id": "LRN-2026-000052",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T22:54:00Z",
+  "word_count": 1299
+ },
+ {
+  "submission_id": "SUB-2026-000071",
+  "learner_id": "LRN-2026-000118",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T11:36:00Z",
+  "word_count": 950
+ },
+ {
+  "submission_id": "SUB-2026-000072",
+  "learner_id": "LRN-2026-000060",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T01:48:00Z",
+  "word_count": 1408
+ },
+ {
+  "submission_id": "SUB-2026-000073",
+  "learner_id": "LRN-2026-000155",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T17:13:00Z",
+  "word_count": 388
+ },
+ {
+  "submission_id": "SUB-2026-000074",
+  "learner_id": "LRN-2026-000167",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T13:24:00Z",
+  "word_count": 2196
+ },
+ {
+  "submission_id": "SUB-2026-000075",
+  "learner_id": "LRN-2026-000085",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T05:05:00Z",
+  "word_count": 3137
+ },
+ {
+  "submission_id": "SUB-2026-000076",
+  "learner_id": "LRN-2026-000089",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T09:43:00Z",
+  "word_count": 1069
+ },
+ {
+  "submission_id": "SUB-2026-000077",
+  "learner_id": "LRN-2026-000167",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T22:09:00Z",
+  "word_count": 3191
+ },
+ {
+  "submission_id": "SUB-2026-000078",
+  "learner_id": "LRN-2026-000130",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T04:36:00Z",
+  "word_count": 3308
+ },
+ {
+  "submission_id": "SUB-2026-000079",
+  "learner_id": "LRN-2026-000003",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T09:49:00Z",
+  "word_count": 3932
+ },
+ {
+  "submission_id": "SUB-2026-000080",
+  "learner_id": "LRN-2026-000113",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T03:36:00Z",
+  "word_count": 598
+ },
+ {
+  "submission_id": "SUB-2026-000081",
+  "learner_id": "LRN-2026-000124",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T14:55:00Z",
+  "word_count": 1719
+ },
+ {
+  "submission_id": "SUB-2026-000082",
+  "learner_id": "LRN-2026-000063",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T20:49:00Z",
+  "word_count": 831
+ },
+ {
+  "submission_id": "SUB-2026-000083",
+  "learner_id": "LRN-2026-000038",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T13:39:00Z",
+  "word_count": 589
+ },
+ {
+  "submission_id": "SUB-2026-000084",
+  "learner_id": "LRN-2026-000122",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T00:02:00Z",
+  "word_count": 4385
+ },
+ {
+  "submission_id": "SUB-2026-000085",
+  "learner_id": "LRN-2026-000145",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T19:42:00Z",
+  "word_count": 3836
+ },
+ {
+  "submission_id": "SUB-2026-000086",
+  "learner_id": "LRN-2026-000138",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T13:18:00Z",
+  "word_count": 4115
+ },
+ {
+  "submission_id": "SUB-2026-000087",
+  "learner_id": "LRN-2026-000018",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T02:15:00Z",
+  "word_count": 4255
+ },
+ {
+  "submission_id": "SUB-2026-000088",
+  "learner_id": "LRN-2026-000051",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T16:07:00Z",
+  "word_count": 2361
+ },
+ {
+  "submission_id": "SUB-2026-000089",
+  "learner_id": "LRN-2026-000047",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T00:38:00Z",
+  "word_count": 680
+ },
+ {
+  "submission_id": "SUB-2026-000090",
+  "learner_id": "LRN-2026-000069",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T00:54:00Z",
+  "word_count": 1436
+ },
+ {
+  "submission_id": "SUB-2026-000091",
+  "learner_id": "LRN-2026-000153",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T18:27:00Z",
+  "word_count": 534
+ },
+ {
+  "submission_id": "SUB-2026-000092",
+  "learner_id": "LRN-2026-000147",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T18:21:00Z",
+  "word_count": 1875
+ },
+ {
+  "submission_id": "SUB-2026-000093",
+  "learner_id": "LRN-2026-000187",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T05:45:00Z",
+  "word_count": 1704
+ },
+ {
+  "submission_id": "SUB-2026-000094",
+  "learner_id": "LRN-2026-000002",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T14:17:00Z",
+  "word_count": 4249
+ },
+ {
+  "submission_id": "SUB-2026-000095",
+  "learner_id": "LRN-2026-000186",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T01:11:00Z",
+  "word_count": 4293
+ },
+ {
+  "submission_id": "SUB-2026-000096",
+  "learner_id": "LRN-2026-000188",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T21:04:00Z",
+  "word_count": 1331
+ },
+ {
+  "submission_id": "SUB-2026-000097",
+  "learner_id": "LRN-2026-000005",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T13:27:00Z",
+  "word_count": 4073
+ },
+ {
+  "submission_id": "SUB-2026-000098",
+  "learner_id": "LRN-2026-000117",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T22:27:00Z",
+  "word_count": 3938
+ },
+ {
+  "submission_id": "SUB-2026-000099",
+  "learner_id": "LRN-2026-000038",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T08:14:00Z",
+  "word_count": 3136
+ },
+ {
+  "submission_id": "SUB-2026-000100",
+  "learner_id": "LRN-2026-000163",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T11:49:00Z",
+  "word_count": 3826
+ },
+ {
+  "submission_id": "SUB-2026-000101",
+  "learner_id": "LRN-2026-000028",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-25T21:31:00Z",
+  "word_count": 1418
+ },
+ {
+  "submission_id": "SUB-2026-000102",
+  "learner_id": "LRN-2026-000196",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T00:25:00Z",
+  "word_count": 3109
+ },
+ {
+  "submission_id": "SUB-2026-000103",
+  "learner_id": "LRN-2026-000078",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T15:51:00Z",
+  "word_count": 549
+ },
+ {
+  "submission_id": "SUB-2026-000104",
+  "learner_id": "LRN-2026-000183",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T06:24:00Z",
+  "word_count": 1412
+ },
+ {
+  "submission_id": "SUB-2026-000105",
+  "learner_id": "LRN-2026-000071",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T23:40:00Z",
+  "word_count": 962
+ },
+ {
+  "submission_id": "SUB-2026-000106",
+  "learner_id": "LRN-2026-000034",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T19:03:00Z",
+  "word_count": 2308
+ },
+ {
+  "submission_id": "SUB-2026-000107",
+  "learner_id": "LRN-2026-000161",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T20:49:00Z",
+  "word_count": 4329
+ },
+ {
+  "submission_id": "SUB-2026-000108",
+  "learner_id": "LRN-2026-000004",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T04:29:00Z",
+  "word_count": 3845
+ },
+ {
+  "submission_id": "SUB-2026-000109",
+  "learner_id": "LRN-2026-000094",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T06:29:00Z",
+  "word_count": 3513
+ },
+ {
+  "submission_id": "SUB-2026-000110",
+  "learner_id": "LRN-2026-000184",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T21:36:00Z",
+  "word_count": 1751
+ },
+ {
+  "submission_id": "SUB-2026-000111",
+  "learner_id": "LRN-2026-000149",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T13:21:00Z",
+  "word_count": 1809
+ },
+ {
+  "submission_id": "SUB-2026-000112",
+  "learner_id": "LRN-2026-000003",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T01:42:00Z",
+  "word_count": 1298
+ },
+ {
+  "submission_id": "SUB-2026-000113",
+  "learner_id": "LRN-2026-000136",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T22:21:00Z",
+  "word_count": 3562
+ },
+ {
+  "submission_id": "SUB-2026-000114",
+  "learner_id": "LRN-2026-000081",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T05:14:00Z",
+  "word_count": 3543
+ },
+ {
+  "submission_id": "SUB-2026-000115",
+  "learner_id": "LRN-2026-000176",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T22:47:00Z",
+  "word_count": 3156
+ },
+ {
+  "submission_id": "SUB-2026-000116",
+  "learner_id": "LRN-2026-000196",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T15:53:00Z",
+  "word_count": 3053
+ },
+ {
+  "submission_id": "SUB-2026-000117",
+  "learner_id": "LRN-2026-000059",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T00:36:00Z",
+  "word_count": 1402
+ },
+ {
+  "submission_id": "SUB-2026-000118",
+  "learner_id": "LRN-2026-000006",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T10:37:00Z",
+  "word_count": 2972
+ },
+ {
+  "submission_id": "SUB-2026-000119",
+  "learner_id": "LRN-2026-000186",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T18:53:00Z",
+  "word_count": 1365
+ },
+ {
+  "submission_id": "SUB-2026-000120",
+  "learner_id": "LRN-2026-000108",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-25T02:06:00Z",
+  "word_count": 3556
+ },
+ {
+  "submission_id": "SUB-2026-000121",
+  "learner_id": "LRN-2026-000137",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T01:54:00Z",
+  "word_count": 3269
+ },
+ {
+  "submission_id": "SUB-2026-000122",
+  "learner_id": "LRN-2026-000153",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T20:28:00Z",
+  "word_count": 1968
+ },
+ {
+  "submission_id": "SUB-2026-000123",
+  "learner_id": "LRN-2026-000051",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T09:58:00Z",
+  "word_count": 2085
+ },
+ {
+  "submission_id": "SUB-2026-000124",
+  "learner_id": "LRN-2026-000168",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T13:36:00Z",
+  "word_count": 4366
+ },
+ {
+  "submission_id": "SUB-2026-000125",
+  "learner_id": "LRN-2026-000085",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T11:24:00Z",
+  "word_count": 3414
+ },
+ {
+  "submission_id": "SUB-2026-000126",
+  "learner_id": "LRN-2026-000173",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T01:59:00Z",
+  "word_count": 2006
+ },
+ {
+  "submission_id": "SUB-2026-000127",
+  "learner_id": "LRN-2026-000012",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T22:31:00Z",
+  "word_count": 1919
+ },
+ {
+  "submission_id": "SUB-2026-000128",
+  "learner_id": "LRN-2026-000184",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T02:28:00Z",
+  "word_count": 765
+ },
+ {
+  "submission_id": "SUB-2026-000129",
+  "learner_id": "LRN-2026-000071",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T02:03:00Z",
+  "word_count": 4220
+ },
+ {
+  "submission_id": "SUB-2026-000130",
+  "learner_id": "LRN-2026-000118",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T05:32:00Z",
+  "word_count": 654
+ },
+ {
+  "submission_id": "SUB-2026-000131",
+  "learner_id": "LRN-2026-000185",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T19:56:00Z",
+  "word_count": 4312
+ },
+ {
+  "submission_id": "SUB-2026-000132",
+  "learner_id": "LRN-2026-000188",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T01:46:00Z",
+  "word_count": 3160
+ },
+ {
+  "submission_id": "SUB-2026-000133",
+  "learner_id": "LRN-2026-000118",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T13:38:00Z",
+  "word_count": 2460
+ },
+ {
+  "submission_id": "SUB-2026-000134",
+  "learner_id": "LRN-2026-000197",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T19:06:00Z",
+  "word_count": 3057
+ },
+ {
+  "submission_id": "SUB-2026-000135",
+  "learner_id": "LRN-2026-000083",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T05:09:00Z",
+  "word_count": 4439
+ },
+ {
+  "submission_id": "SUB-2026-000136",
+  "learner_id": "LRN-2026-000072",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T14:43:00Z",
+  "word_count": 3840
+ },
+ {
+  "submission_id": "SUB-2026-000137",
+  "learner_id": "LRN-2026-000164",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T22:09:00Z",
+  "word_count": 3618
+ },
+ {
+  "submission_id": "SUB-2026-000138",
+  "learner_id": "LRN-2026-000060",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T00:02:00Z",
+  "word_count": 3748
+ },
+ {
+  "submission_id": "SUB-2026-000139",
+  "learner_id": "LRN-2026-000117",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T17:56:00Z",
+  "word_count": 1632
+ },
+ {
+  "submission_id": "SUB-2026-000140",
+  "learner_id": "LRN-2026-000140",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T20:49:00Z",
+  "word_count": 2414
+ },
+ {
+  "submission_id": "SUB-2026-000141",
+  "learner_id": "LRN-2026-000136",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T21:51:00Z",
+  "word_count": 310
+ },
+ {
+  "submission_id": "SUB-2026-000142",
+  "learner_id": "LRN-2026-000165",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T19:37:00Z",
+  "word_count": 3102
+ },
+ {
+  "submission_id": "SUB-2026-000143",
+  "learner_id": "LRN-2026-000021",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T09:30:00Z",
+  "word_count": 3992
+ },
+ {
+  "submission_id": "SUB-2026-000144",
+  "learner_id": "LRN-2026-000128",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T11:59:00Z",
+  "word_count": 970
+ },
+ {
+  "submission_id": "SUB-2026-000145",
+  "learner_id": "LRN-2026-000131",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T16:32:00Z",
+  "word_count": 1019
+ },
+ {
+  "submission_id": "SUB-2026-000146",
+  "learner_id": "LRN-2026-000148",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T12:37:00Z",
+  "word_count": 3076
+ },
+ {
+  "submission_id": "SUB-2026-000147",
+  "learner_id": "LRN-2026-000078",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T23:08:00Z",
+  "word_count": 349
+ },
+ {
+  "submission_id": "SUB-2026-000148",
+  "learner_id": "LRN-2026-000051",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T19:39:00Z",
+  "word_count": 609
+ },
+ {
+  "submission_id": "SUB-2026-000149",
+  "learner_id": "LRN-2026-000021",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T15:06:00Z",
+  "word_count": 2477
+ },
+ {
+  "submission_id": "SUB-2026-000150",
+  "learner_id": "LRN-2026-000065",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T21:04:00Z",
+  "word_count": 3021
+ },
+ {
+  "submission_id": "SUB-2026-000151",
+  "learner_id": "LRN-2026-000003",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T22:37:00Z",
+  "word_count": 2821
+ },
+ {
+  "submission_id": "SUB-2026-000152",
+  "learner_id": "LRN-2026-000004",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T16:28:00Z",
+  "word_count": 1210
+ },
+ {
+  "submission_id": "SUB-2026-000153",
+  "learner_id": "LRN-2026-000134",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T22:54:00Z",
+  "word_count": 3970
+ },
+ {
+  "submission_id": "SUB-2026-000154",
+  "learner_id": "LRN-2026-000151",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T05:37:00Z",
+  "word_count": 443
+ },
+ {
+  "submission_id": "SUB-2026-000155",
+  "learner_id": "LRN-2026-000175",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T16:19:00Z",
+  "word_count": 3455
+ },
+ {
+  "submission_id": "SUB-2026-000156",
+  "learner_id": "LRN-2026-000150",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T03:11:00Z",
+  "word_count": 654
+ },
+ {
+  "submission_id": "SUB-2026-000157",
+  "learner_id": "LRN-2026-000080",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T05:02:00Z",
+  "word_count": 3228
+ },
+ {
+  "submission_id": "SUB-2026-000158",
+  "learner_id": "LRN-2026-000005",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T00:21:00Z",
+  "word_count": 4376
+ },
+ {
+  "submission_id": "SUB-2026-000159",
+  "learner_id": "LRN-2026-000157",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T03:58:00Z",
+  "word_count": 975
+ },
+ {
+  "submission_id": "SUB-2026-000160",
+  "learner_id": "LRN-2026-000058",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T01:18:00Z",
+  "word_count": 872
+ },
+ {
+  "submission_id": "SUB-2026-000161",
+  "learner_id": "LRN-2026-000065",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T05:07:00Z",
+  "word_count": 393
+ },
+ {
+  "submission_id": "SUB-2026-000162",
+  "learner_id": "LRN-2026-000177",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T08:21:00Z",
+  "word_count": 2331
+ },
+ {
+  "submission_id": "SUB-2026-000163",
+  "learner_id": "LRN-2026-000161",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T07:33:00Z",
+  "word_count": 924
+ },
+ {
+  "submission_id": "SUB-2026-000164",
+  "learner_id": "LRN-2026-000153",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T14:59:00Z",
+  "word_count": 1377
+ },
+ {
+  "submission_id": "SUB-2026-000165",
+  "learner_id": "LRN-2026-000128",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T01:14:00Z",
+  "word_count": 409
+ },
+ {
+  "submission_id": "SUB-2026-000166",
+  "learner_id": "LRN-2026-000063",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T05:34:00Z",
+  "word_count": 3635
+ },
+ {
+  "submission_id": "SUB-2026-000167",
+  "learner_id": "LRN-2026-000022",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T01:23:00Z",
+  "word_count": 3485
+ },
+ {
+  "submission_id": "SUB-2026-000168",
+  "learner_id": "LRN-2026-000001",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T13:43:00Z",
+  "word_count": 795
+ },
+ {
+  "submission_id": "SUB-2026-000169",
+  "learner_id": "LRN-2026-000070",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T19:26:00Z",
+  "word_count": 3964
+ },
+ {
+  "submission_id": "SUB-2026-000170",
+  "learner_id": "LRN-2026-000132",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T14:31:00Z",
+  "word_count": 521
+ },
+ {
+  "submission_id": "SUB-2026-000171",
+  "learner_id": "LRN-2026-000169",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T12:17:00Z",
+  "word_count": 1463
+ },
+ {
+  "submission_id": "SUB-2026-000172",
+  "learner_id": "LRN-2026-000094",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T03:32:00Z",
+  "word_count": 1213
+ },
+ {
+  "submission_id": "SUB-2026-000173",
+  "learner_id": "LRN-2026-000077",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T05:30:00Z",
+  "word_count": 1557
+ },
+ {
+  "submission_id": "SUB-2026-000174",
+  "learner_id": "LRN-2026-000028",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T23:55:00Z",
+  "word_count": 986
+ },
+ {
+  "submission_id": "SUB-2026-000175",
+  "learner_id": "LRN-2026-000152",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T16:32:00Z",
+  "word_count": 4264
+ },
+ {
+  "submission_id": "SUB-2026-000176",
+  "learner_id": "LRN-2026-000109",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T19:58:00Z",
+  "word_count": 2402
+ },
+ {
+  "submission_id": "SUB-2026-000177",
+  "learner_id": "LRN-2026-000198",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T06:51:00Z",
+  "word_count": 3777
+ },
+ {
+  "submission_id": "SUB-2026-000178",
+  "learner_id": "LRN-2026-000028",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T11:00:00Z",
+  "word_count": 4396
+ },
+ {
+  "submission_id": "SUB-2026-000179",
+  "learner_id": "LRN-2026-000036",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T14:11:00Z",
+  "word_count": 2569
+ },
+ {
+  "submission_id": "SUB-2026-000180",
+  "learner_id": "LRN-2026-000077",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T06:11:00Z",
+  "word_count": 2474
+ },
+ {
+  "submission_id": "SUB-2026-000181",
+  "learner_id": "LRN-2026-000031",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T22:30:00Z",
+  "word_count": 3266
+ },
+ {
+  "submission_id": "SUB-2026-000182",
+  "learner_id": "LRN-2026-000122",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T03:01:00Z",
+  "word_count": 1970
+ },
+ {
+  "submission_id": "SUB-2026-000183",
+  "learner_id": "LRN-2026-000120",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T21:15:00Z",
+  "word_count": 3964
+ },
+ {
+  "submission_id": "SUB-2026-000184",
+  "learner_id": "LRN-2026-000113",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T09:00:00Z",
+  "word_count": 2147
+ },
+ {
+  "submission_id": "SUB-2026-000185",
+  "learner_id": "LRN-2026-000053",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T07:12:00Z",
+  "word_count": 3319
+ },
+ {
+  "submission_id": "SUB-2026-000186",
+  "learner_id": "LRN-2026-000159",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T14:02:00Z",
+  "word_count": 3576
+ },
+ {
+  "submission_id": "SUB-2026-000187",
+  "learner_id": "LRN-2026-000020",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T16:01:00Z",
+  "word_count": 674
+ },
+ {
+  "submission_id": "SUB-2026-000188",
+  "learner_id": "LRN-2026-000179",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T10:22:00Z",
+  "word_count": 2214
+ },
+ {
+  "submission_id": "SUB-2026-000189",
+  "learner_id": "LRN-2026-000074",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T21:32:00Z",
+  "word_count": 4075
+ },
+ {
+  "submission_id": "SUB-2026-000190",
+  "learner_id": "LRN-2026-000050",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T16:28:00Z",
+  "word_count": 4349
+ },
+ {
+  "submission_id": "SUB-2026-000191",
+  "learner_id": "LRN-2026-000183",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-25T16:45:00Z",
+  "word_count": 1168
+ },
+ {
+  "submission_id": "SUB-2026-000192",
+  "learner_id": "LRN-2026-000116",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T04:59:00Z",
+  "word_count": 910
+ },
+ {
+  "submission_id": "SUB-2026-000193",
+  "learner_id": "LRN-2026-000015",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T13:08:00Z",
+  "word_count": 3943
+ },
+ {
+  "submission_id": "SUB-2026-000194",
+  "learner_id": "LRN-2026-000081",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T15:34:00Z",
+  "word_count": 1623
+ },
+ {
+  "submission_id": "SUB-2026-000195",
+  "learner_id": "LRN-2026-000019",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T08:21:00Z",
+  "word_count": 3174
+ },
+ {
+  "submission_id": "SUB-2026-000196",
+  "learner_id": "LRN-2026-000116",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T18:10:00Z",
+  "word_count": 969
+ },
+ {
+  "submission_id": "SUB-2026-000197",
+  "learner_id": "LRN-2026-000112",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T15:38:00Z",
+  "word_count": 3853
+ },
+ {
+  "submission_id": "SUB-2026-000198",
+  "learner_id": "LRN-2026-000167",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T01:43:00Z",
+  "word_count": 582
+ },
+ {
+  "submission_id": "SUB-2026-000199",
+  "learner_id": "LRN-2026-000009",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T05:41:00Z",
+  "word_count": 3527
+ },
+ {
+  "submission_id": "SUB-2026-000200",
+  "learner_id": "LRN-2026-000105",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T04:12:00Z",
+  "word_count": 2306
+ },
+ {
+  "submission_id": "SUB-2026-000201",
+  "learner_id": "LRN-2026-000009",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-25T19:49:00Z",
+  "word_count": 894
+ },
+ {
+  "submission_id": "SUB-2026-000202",
+  "learner_id": "LRN-2026-000093",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T04:47:00Z",
+  "word_count": 875
+ },
+ {
+  "submission_id": "SUB-2026-000203",
+  "learner_id": "LRN-2026-000081",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T06:23:00Z",
+  "word_count": 3042
+ },
+ {
+  "submission_id": "SUB-2026-000204",
+  "learner_id": "LRN-2026-000119",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T18:26:00Z",
+  "word_count": 1656
+ },
+ {
+  "submission_id": "SUB-2026-000205",
+  "learner_id": "LRN-2026-000058",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T00:30:00Z",
+  "word_count": 3520
+ },
+ {
+  "submission_id": "SUB-2026-000206",
+  "learner_id": "LRN-2026-000084",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T02:46:00Z",
+  "word_count": 4464
+ },
+ {
+  "submission_id": "SUB-2026-000207",
+  "learner_id": "LRN-2026-000102",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T18:12:00Z",
+  "word_count": 4488
+ },
+ {
+  "submission_id": "SUB-2026-000208",
+  "learner_id": "LRN-2026-000035",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T17:54:00Z",
+  "word_count": 3684
+ },
+ {
+  "submission_id": "SUB-2026-000209",
+  "learner_id": "LRN-2026-000160",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T22:52:00Z",
+  "word_count": 2548
+ },
+ {
+  "submission_id": "SUB-2026-000210",
+  "learner_id": "LRN-2026-000013",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T22:51:00Z",
+  "word_count": 2395
+ },
+ {
+  "submission_id": "SUB-2026-000211",
+  "learner_id": "LRN-2026-000073",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T06:30:00Z",
+  "word_count": 2958
+ },
+ {
+  "submission_id": "SUB-2026-000212",
+  "learner_id": "LRN-2026-000184",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T18:16:00Z",
+  "word_count": 568
+ },
+ {
+  "submission_id": "SUB-2026-000213",
+  "learner_id": "LRN-2026-000192",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T16:54:00Z",
+  "word_count": 357
+ },
+ {
+  "submission_id": "SUB-2026-000214",
+  "learner_id": "LRN-2026-000122",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T15:11:00Z",
+  "word_count": 553
+ },
+ {
+  "submission_id": "SUB-2026-000215",
+  "learner_id": "LRN-2026-000086",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T19:27:00Z",
+  "word_count": 1460
+ },
+ {
+  "submission_id": "SUB-2026-000216",
+  "learner_id": "LRN-2026-000116",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T14:48:00Z",
+  "word_count": 2917
+ },
+ {
+  "submission_id": "SUB-2026-000217",
+  "learner_id": "LRN-2026-000164",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T03:08:00Z",
+  "word_count": 3058
+ },
+ {
+  "submission_id": "SUB-2026-000218",
+  "learner_id": "LRN-2026-000007",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T07:45:00Z",
+  "word_count": 2530
+ },
+ {
+  "submission_id": "SUB-2026-000219",
+  "learner_id": "LRN-2026-000160",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T13:54:00Z",
+  "word_count": 3007
+ },
+ {
+  "submission_id": "SUB-2026-000220",
+  "learner_id": "LRN-2026-000029",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T19:39:00Z",
+  "word_count": 2888
+ },
+ {
+  "submission_id": "SUB-2026-000221",
+  "learner_id": "LRN-2026-000041",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T03:52:00Z",
+  "word_count": 3721
+ },
+ {
+  "submission_id": "SUB-2026-000222",
+  "learner_id": "LRN-2026-000082",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T03:58:00Z",
+  "word_count": 1431
+ },
+ {
+  "submission_id": "SUB-2026-000223",
+  "learner_id": "LRN-2026-000127",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T17:31:00Z",
+  "word_count": 1190
+ },
+ {
+  "submission_id": "SUB-2026-000224",
+  "learner_id": "LRN-2026-000019",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T08:44:00Z",
+  "word_count": 879
+ },
+ {
+  "submission_id": "SUB-2026-000225",
+  "learner_id": "LRN-2026-000097",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T21:16:00Z",
+  "word_count": 2753
+ },
+ {
+  "submission_id": "SUB-2026-000226",
+  "learner_id": "LRN-2026-000059",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T19:16:00Z",
+  "word_count": 1356
+ },
+ {
+  "submission_id": "SUB-2026-000227",
+  "learner_id": "LRN-2026-000055",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T00:29:00Z",
+  "word_count": 2890
+ },
+ {
+  "submission_id": "SUB-2026-000228",
+  "learner_id": "LRN-2026-000012",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T18:24:00Z",
+  "word_count": 2176
+ },
+ {
+  "submission_id": "SUB-2026-000229",
+  "learner_id": "LRN-2026-000145",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T10:36:00Z",
+  "word_count": 745
+ },
+ {
+  "submission_id": "SUB-2026-000230",
+  "learner_id": "LRN-2026-000193",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T12:27:00Z",
+  "word_count": 2966
+ },
+ {
+  "submission_id": "SUB-2026-000231",
+  "learner_id": "LRN-2026-000107",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T16:05:00Z",
+  "word_count": 1848
+ },
+ {
+  "submission_id": "SUB-2026-000232",
+  "learner_id": "LRN-2026-000110",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T22:38:00Z",
+  "word_count": 4434
+ },
+ {
+  "submission_id": "SUB-2026-000233",
+  "learner_id": "LRN-2026-000143",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T02:15:00Z",
+  "word_count": 2590
+ },
+ {
+  "submission_id": "SUB-2026-000234",
+  "learner_id": "LRN-2026-000022",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T20:37:00Z",
+  "word_count": 1922
+ },
+ {
+  "submission_id": "SUB-2026-000235",
+  "learner_id": "LRN-2026-000047",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T05:57:00Z",
+  "word_count": 462
+ },
+ {
+  "submission_id": "SUB-2026-000236",
+  "learner_id": "LRN-2026-000083",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T15:43:00Z",
+  "word_count": 737
+ },
+ {
+  "submission_id": "SUB-2026-000237",
+  "learner_id": "LRN-2026-000046",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T14:46:00Z",
+  "word_count": 569
+ },
+ {
+  "submission_id": "SUB-2026-000238",
+  "learner_id": "LRN-2026-000058",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T08:35:00Z",
+  "word_count": 4112
+ },
+ {
+  "submission_id": "SUB-2026-000239",
+  "learner_id": "LRN-2026-000114",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T10:03:00Z",
+  "word_count": 3103
+ },
+ {
+  "submission_id": "SUB-2026-000240",
+  "learner_id": "LRN-2026-000038",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T23:51:00Z",
+  "word_count": 3893
+ },
+ {
+  "submission_id": "SUB-2026-000241",
+  "learner_id": "LRN-2026-000197",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T01:11:00Z",
+  "word_count": 3862
+ },
+ {
+  "submission_id": "SUB-2026-000242",
+  "learner_id": "LRN-2026-000198",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T15:10:00Z",
+  "word_count": 4257
+ },
+ {
+  "submission_id": "SUB-2026-000243",
+  "learner_id": "LRN-2026-000146",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T20:33:00Z",
+  "word_count": 3532
+ },
+ {
+  "submission_id": "SUB-2026-000244",
+  "learner_id": "LRN-2026-000181",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T04:27:00Z",
+  "word_count": 1776
+ },
+ {
+  "submission_id": "SUB-2026-000245",
+  "learner_id": "LRN-2026-000100",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T05:31:00Z",
+  "word_count": 1821
+ },
+ {
+  "submission_id": "SUB-2026-000246",
+  "learner_id": "LRN-2026-000159",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T08:44:00Z",
+  "word_count": 1511
+ },
+ {
+  "submission_id": "SUB-2026-000247",
+  "learner_id": "LRN-2026-000091",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T04:33:00Z",
+  "word_count": 4024
+ },
+ {
+  "submission_id": "SUB-2026-000248",
+  "learner_id": "LRN-2026-000069",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T11:22:00Z",
+  "word_count": 1264
+ },
+ {
+  "submission_id": "SUB-2026-000249",
+  "learner_id": "LRN-2026-000135",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T11:23:00Z",
+  "word_count": 3509
+ },
+ {
+  "submission_id": "SUB-2026-000250",
+  "learner_id": "LRN-2026-000099",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T08:17:00Z",
+  "word_count": 1301
+ },
+ {
+  "submission_id": "SUB-2026-000251",
+  "learner_id": "LRN-2026-000066",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T11:40:00Z",
+  "word_count": 1900
+ },
+ {
+  "submission_id": "SUB-2026-000252",
+  "learner_id": "LRN-2026-000093",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T15:39:00Z",
+  "word_count": 2956
+ },
+ {
+  "submission_id": "SUB-2026-000253",
+  "learner_id": "LRN-2026-000117",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T15:42:00Z",
+  "word_count": 2303
+ },
+ {
+  "submission_id": "SUB-2026-000254",
+  "learner_id": "LRN-2026-000044",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T04:22:00Z",
+  "word_count": 3529
+ },
+ {
+  "submission_id": "SUB-2026-000255",
+  "learner_id": "LRN-2026-000063",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-25T10:35:00Z",
+  "word_count": 4083
+ },
+ {
+  "submission_id": "SUB-2026-000256",
+  "learner_id": "LRN-2026-000092",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T12:05:00Z",
+  "word_count": 4314
+ },
+ {
+  "submission_id": "SUB-2026-000257",
+  "learner_id": "LRN-2026-000073",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T15:06:00Z",
+  "word_count": 3548
+ },
+ {
+  "submission_id": "SUB-2026-000258",
+  "learner_id": "LRN-2026-000145",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T18:25:00Z",
+  "word_count": 1842
+ },
+ {
+  "submission_id": "SUB-2026-000259",
+  "learner_id": "LRN-2026-000104",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T02:26:00Z",
+  "word_count": 3536
+ },
+ {
+  "submission_id": "SUB-2026-000260",
+  "learner_id": "LRN-2026-000184",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T01:55:00Z",
+  "word_count": 325
+ },
+ {
+  "submission_id": "SUB-2026-000261",
+  "learner_id": "LRN-2026-000180",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T19:49:00Z",
+  "word_count": 562
+ },
+ {
+  "submission_id": "SUB-2026-000262",
+  "learner_id": "LRN-2026-000099",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T21:23:00Z",
+  "word_count": 3259
+ },
+ {
+  "submission_id": "SUB-2026-000263",
+  "learner_id": "LRN-2026-000034",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T09:41:00Z",
+  "word_count": 3187
+ },
+ {
+  "submission_id": "SUB-2026-000264",
+  "learner_id": "LRN-2026-000178",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T19:59:00Z",
+  "word_count": 4419
+ },
+ {
+  "submission_id": "SUB-2026-000265",
+  "learner_id": "LRN-2026-000184",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T15:23:00Z",
+  "word_count": 1517
+ },
+ {
+  "submission_id": "SUB-2026-000266",
+  "learner_id": "LRN-2026-000168",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T10:48:00Z",
+  "word_count": 1780
+ },
+ {
+  "submission_id": "SUB-2026-000267",
+  "learner_id": "LRN-2026-000143",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-25T10:39:00Z",
+  "word_count": 822
+ },
+ {
+  "submission_id": "SUB-2026-000268",
+  "learner_id": "LRN-2026-000025",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T20:25:00Z",
+  "word_count": 1077
+ },
+ {
+  "submission_id": "SUB-2026-000269",
+  "learner_id": "LRN-2026-000069",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T00:48:00Z",
+  "word_count": 4047
+ },
+ {
+  "submission_id": "SUB-2026-000270",
+  "learner_id": "LRN-2026-000193",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T23:33:00Z",
+  "word_count": 410
+ },
+ {
+  "submission_id": "SUB-2026-000271",
+  "learner_id": "LRN-2026-000190",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T14:03:00Z",
+  "word_count": 1718
+ },
+ {
+  "submission_id": "SUB-2026-000272",
+  "learner_id": "LRN-2026-000034",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T05:02:00Z",
+  "word_count": 4440
+ },
+ {
+  "submission_id": "SUB-2026-000273",
+  "learner_id": "LRN-2026-000174",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T01:51:00Z",
+  "word_count": 1796
+ },
+ {
+  "submission_id": "SUB-2026-000274",
+  "learner_id": "LRN-2026-000100",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T03:03:00Z",
+  "word_count": 444
+ },
+ {
+  "submission_id": "SUB-2026-000275",
+  "learner_id": "LRN-2026-000145",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T07:58:00Z",
+  "word_count": 1806
+ },
+ {
+  "submission_id": "SUB-2026-000276",
+  "learner_id": "LRN-2026-000186",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T01:17:00Z",
+  "word_count": 3875
+ },
+ {
+  "submission_id": "SUB-2026-000277",
+  "learner_id": "LRN-2026-000039",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T01:18:00Z",
+  "word_count": 3639
+ },
+ {
+  "submission_id": "SUB-2026-000278",
+  "learner_id": "LRN-2026-000018",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T15:07:00Z",
+  "word_count": 3388
+ },
+ {
+  "submission_id": "SUB-2026-000279",
+  "learner_id": "LRN-2026-000177",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T07:50:00Z",
+  "word_count": 3324
+ },
+ {
+  "submission_id": "SUB-2026-000280",
+  "learner_id": "LRN-2026-000002",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T22:11:00Z",
+  "word_count": 1342
+ },
+ {
+  "submission_id": "SUB-2026-000281",
+  "learner_id": "LRN-2026-000044",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T02:30:00Z",
+  "word_count": 857
+ },
+ {
+  "submission_id": "SUB-2026-000282",
+  "learner_id": "LRN-2026-000016",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-24T23:59:00Z",
+  "word_count": 4447
+ },
+ {
+  "submission_id": "SUB-2026-000283",
+  "learner_id": "LRN-2026-000124",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T02:18:00Z",
+  "word_count": 3399
+ },
+ {
+  "submission_id": "SUB-2026-000284",
+  "learner_id": "LRN-2026-000036",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T22:28:00Z",
+  "word_count": 910
+ },
+ {
+  "submission_id": "SUB-2026-000285",
+  "learner_id": "LRN-2026-000068",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T00:06:00Z",
+  "word_count": 2499
+ },
+ {
+  "submission_id": "SUB-2026-000286",
+  "learner_id": "LRN-2026-000085",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T06:46:00Z",
+  "word_count": 3034
+ },
+ {
+  "submission_id": "SUB-2026-000287",
+  "learner_id": "LRN-2026-000052",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T05:41:00Z",
+  "word_count": 1207
+ },
+ {
+  "submission_id": "SUB-2026-000288",
+  "learner_id": "LRN-2026-000145",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T07:39:00Z",
+  "word_count": 3625
+ },
+ {
+  "submission_id": "SUB-2026-000289",
+  "learner_id": "LRN-2026-000036",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T02:24:00Z",
+  "word_count": 3746
+ },
+ {
+  "submission_id": "SUB-2026-000290",
+  "learner_id": "LRN-2026-000144",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T11:52:00Z",
+  "word_count": 1248
+ },
+ {
+  "submission_id": "SUB-2026-000291",
+  "learner_id": "LRN-2026-000093",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-25T10:10:00Z",
+  "word_count": 3141
+ },
+ {
+  "submission_id": "SUB-2026-000292",
+  "learner_id": "LRN-2026-000137",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T22:06:00Z",
+  "word_count": 3278
+ },
+ {
+  "submission_id": "SUB-2026-000293",
+  "learner_id": "LRN-2026-000191",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T14:46:00Z",
+  "word_count": 2271
+ },
+ {
+  "submission_id": "SUB-2026-000294",
+  "learner_id": "LRN-2026-000062",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T14:39:00Z",
+  "word_count": 791
+ },
+ {
+  "submission_id": "SUB-2026-000295",
+  "learner_id": "LRN-2026-000179",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T02:15:00Z",
+  "word_count": 385
+ },
+ {
+  "submission_id": "SUB-2026-000296",
+  "learner_id": "LRN-2026-000151",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T10:49:00Z",
+  "word_count": 1746
+ },
+ {
+  "submission_id": "SUB-2026-000297",
+  "learner_id": "LRN-2026-000115",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T15:59:00Z",
+  "word_count": 1057
+ },
+ {
+  "submission_id": "SUB-2026-000298",
+  "learner_id": "LRN-2026-000021",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T23:25:00Z",
+  "word_count": 3944
+ },
+ {
+  "submission_id": "SUB-2026-000299",
+  "learner_id": "LRN-2026-000008",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T22:40:00Z",
+  "word_count": 3668
+ },
+ {
+  "submission_id": "SUB-2026-000300",
+  "learner_id": "LRN-2026-000137",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T19:46:00Z",
+  "word_count": 2442
+ },
+ {
+  "submission_id": "SUB-2026-000301",
+  "learner_id": "LRN-2026-000014",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T04:31:00Z",
+  "word_count": 365
+ },
+ {
+  "submission_id": "SUB-2026-000302",
+  "learner_id": "LRN-2026-000012",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T04:52:00Z",
+  "word_count": 488
+ },
+ {
+  "submission_id": "SUB-2026-000303",
+  "learner_id": "LRN-2026-000053",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T03:33:00Z",
+  "word_count": 843
+ },
+ {
+  "submission_id": "SUB-2026-000304",
+  "learner_id": "LRN-2026-000120",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T19:38:00Z",
+  "word_count": 301
+ },
+ {
+  "submission_id": "SUB-2026-000305",
+  "learner_id": "LRN-2026-000195",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T23:18:00Z",
+  "word_count": 897
+ },
+ {
+  "submission_id": "SUB-2026-000306",
+  "learner_id": "LRN-2026-000158",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T05:15:00Z",
+  "word_count": 2937
+ },
+ {
+  "submission_id": "SUB-2026-000307",
+  "learner_id": "LRN-2026-000019",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T19:25:00Z",
+  "word_count": 1000
+ },
+ {
+  "submission_id": "SUB-2026-000308",
+  "learner_id": "LRN-2026-000110",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T09:35:00Z",
+  "word_count": 546
+ },
+ {
+  "submission_id": "SUB-2026-000309",
+  "learner_id": "LRN-2026-000004",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T11:08:00Z",
+  "word_count": 4309
+ },
+ {
+  "submission_id": "SUB-2026-000310",
+  "learner_id": "LRN-2026-000024",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T01:44:00Z",
+  "word_count": 3440
+ },
+ {
+  "submission_id": "SUB-2026-000311",
+  "learner_id": "LRN-2026-000012",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T06:57:00Z",
+  "word_count": 2910
+ },
+ {
+  "submission_id": "SUB-2026-000312",
+  "learner_id": "LRN-2026-000165",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T16:56:00Z",
+  "word_count": 3234
+ },
+ {
+  "submission_id": "SUB-2026-000313",
+  "learner_id": "LRN-2026-000056",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T16:24:00Z",
+  "word_count": 2928
+ },
+ {
+  "submission_id": "SUB-2026-000314",
+  "learner_id": "LRN-2026-000128",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T08:51:00Z",
+  "word_count": 1898
+ },
+ {
+  "submission_id": "SUB-2026-000315",
+  "learner_id": "LRN-2026-000013",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T14:56:00Z",
+  "word_count": 3566
+ },
+ {
+  "submission_id": "SUB-2026-000316",
+  "learner_id": "LRN-2026-000082",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T02:11:00Z",
+  "word_count": 685
+ },
+ {
+  "submission_id": "SUB-2026-000317",
+  "learner_id": "LRN-2026-000013",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T10:12:00Z",
+  "word_count": 4341
+ },
+ {
+  "submission_id": "SUB-2026-000318",
+  "learner_id": "LRN-2026-000108",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T17:32:00Z",
+  "word_count": 2014
+ },
+ {
+  "submission_id": "SUB-2026-000319",
+  "learner_id": "LRN-2026-000166",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T15:16:00Z",
+  "word_count": 3970
+ },
+ {
+  "submission_id": "SUB-2026-000320",
+  "learner_id": "LRN-2026-000182",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T02:04:00Z",
+  "word_count": 1209
+ },
+ {
+  "submission_id": "SUB-2026-000321",
+  "learner_id": "LRN-2026-000036",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T11:54:00Z",
+  "word_count": 2260
+ },
+ {
+  "submission_id": "SUB-2026-000322",
+  "learner_id": "LRN-2026-000045",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T01:52:00Z",
+  "word_count": 911
+ },
+ {
+  "submission_id": "SUB-2026-000323",
+  "learner_id": "LRN-2026-000134",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T06:46:00Z",
+  "word_count": 1593
+ },
+ {
+  "submission_id": "SUB-2026-000324",
+  "learner_id": "LRN-2026-000162",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T23:55:00Z",
+  "word_count": 2508
+ },
+ {
+  "submission_id": "SUB-2026-000325",
+  "learner_id": "LRN-2026-000101",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T03:51:00Z",
+  "word_count": 2693
+ },
+ {
+  "submission_id": "SUB-2026-000326",
+  "learner_id": "LRN-2026-000103",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T17:07:00Z",
+  "word_count": 3781
+ },
+ {
+  "submission_id": "SUB-2026-000327",
+  "learner_id": "LRN-2026-000093",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T16:54:00Z",
+  "word_count": 2356
+ },
+ {
+  "submission_id": "SUB-2026-000328",
+  "learner_id": "LRN-2026-000041",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T20:15:00Z",
+  "word_count": 3989
+ },
+ {
+  "submission_id": "SUB-2026-000329",
+  "learner_id": "LRN-2026-000139",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T05:30:00Z",
+  "word_count": 4430
+ },
+ {
+  "submission_id": "SUB-2026-000330",
+  "learner_id": "LRN-2026-000180",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-25T09:16:00Z",
+  "word_count": 1745
+ },
+ {
+  "submission_id": "SUB-2026-000331",
+  "learner_id": "LRN-2026-000081",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T12:03:00Z",
+  "word_count": 3354
+ },
+ {
+  "submission_id": "SUB-2026-000332",
+  "learner_id": "LRN-2026-000111",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T18:00:00Z",
+  "word_count": 2669
+ },
+ {
+  "submission_id": "SUB-2026-000333",
+  "learner_id": "LRN-2026-000024",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T21:23:00Z",
+  "word_count": 1393
+ },
+ {
+  "submission_id": "SUB-2026-000334",
+  "learner_id": "LRN-2026-000030",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T23:11:00Z",
+  "word_count": 4246
+ },
+ {
+  "submission_id": "SUB-2026-000335",
+  "learner_id": "LRN-2026-000107",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T10:44:00Z",
+  "word_count": 857
+ },
+ {
+  "submission_id": "SUB-2026-000336",
+  "learner_id": "LRN-2026-000063",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T09:55:00Z",
+  "word_count": 1583
+ },
+ {
+  "submission_id": "SUB-2026-000337",
+  "learner_id": "LRN-2026-000076",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T10:17:00Z",
+  "word_count": 1149
+ },
+ {
+  "submission_id": "SUB-2026-000338",
+  "learner_id": "LRN-2026-000175",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T09:11:00Z",
+  "word_count": 3270
+ },
+ {
+  "submission_id": "SUB-2026-000339",
+  "learner_id": "LRN-2026-000198",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T10:29:00Z",
+  "word_count": 2235
+ },
+ {
+  "submission_id": "SUB-2026-000340",
+  "learner_id": "LRN-2026-000068",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T03:10:00Z",
+  "word_count": 1769
+ },
+ {
+  "submission_id": "SUB-2026-000341",
+  "learner_id": "LRN-2026-000090",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T00:49:00Z",
+  "word_count": 1747
+ },
+ {
+  "submission_id": "SUB-2026-000342",
+  "learner_id": "LRN-2026-000196",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T23:47:00Z",
+  "word_count": 2728
+ },
+ {
+  "submission_id": "SUB-2026-000343",
+  "learner_id": "LRN-2026-000190",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T00:28:00Z",
+  "word_count": 371
+ },
+ {
+  "submission_id": "SUB-2026-000344",
+  "learner_id": "LRN-2026-000114",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T06:56:00Z",
+  "word_count": 1089
+ },
+ {
+  "submission_id": "SUB-2026-000345",
+  "learner_id": "LRN-2026-000049",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T12:36:00Z",
+  "word_count": 3812
+ },
+ {
+  "submission_id": "SUB-2026-000346",
+  "learner_id": "LRN-2026-000195",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T12:18:00Z",
+  "word_count": 2056
+ },
+ {
+  "submission_id": "SUB-2026-000347",
+  "learner_id": "LRN-2026-000134",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T16:07:00Z",
+  "word_count": 3848
+ },
+ {
+  "submission_id": "SUB-2026-000348",
+  "learner_id": "LRN-2026-000130",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T10:31:00Z",
+  "word_count": 2531
+ },
+ {
+  "submission_id": "SUB-2026-000349",
+  "learner_id": "LRN-2026-000150",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T00:49:00Z",
+  "word_count": 2685
+ },
+ {
+  "submission_id": "SUB-2026-000350",
+  "learner_id": "LRN-2026-000023",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T08:24:00Z",
+  "word_count": 1712
+ },
+ {
+  "submission_id": "SUB-2026-000351",
+  "learner_id": "LRN-2026-000024",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T06:15:00Z",
+  "word_count": 4295
+ },
+ {
+  "submission_id": "SUB-2026-000352",
+  "learner_id": "LRN-2026-000015",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T12:27:00Z",
+  "word_count": 1832
+ },
+ {
+  "submission_id": "SUB-2026-000353",
+  "learner_id": "LRN-2026-000022",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T08:06:00Z",
+  "word_count": 3610
+ },
+ {
+  "submission_id": "SUB-2026-000354",
+  "learner_id": "LRN-2026-000191",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T16:58:00Z",
+  "word_count": 2400
+ },
+ {
+  "submission_id": "SUB-2026-000355",
+  "learner_id": "LRN-2026-000197",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T12:34:00Z",
+  "word_count": 2502
+ },
+ {
+  "submission_id": "SUB-2026-000356",
+  "learner_id": "LRN-2026-000107",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T12:59:00Z",
+  "word_count": 2245
+ },
+ {
+  "submission_id": "SUB-2026-000357",
+  "learner_id": "LRN-2026-000029",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T01:48:00Z",
+  "word_count": 2349
+ },
+ {
+  "submission_id": "SUB-2026-000358",
+  "learner_id": "LRN-2026-000167",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T00:15:00Z",
+  "word_count": 2574
+ },
+ {
+  "submission_id": "SUB-2026-000359",
+  "learner_id": "LRN-2026-000016",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T10:49:00Z",
+  "word_count": 860
+ },
+ {
+  "submission_id": "SUB-2026-000360",
+  "learner_id": "LRN-2026-000121",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T23:13:00Z",
+  "word_count": 1373
+ },
+ {
+  "submission_id": "SUB-2026-000361",
+  "learner_id": "LRN-2026-000131",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T18:23:00Z",
+  "word_count": 3206
+ },
+ {
+  "submission_id": "SUB-2026-000362",
+  "learner_id": "LRN-2026-000109",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T07:42:00Z",
+  "word_count": 718
+ },
+ {
+  "submission_id": "SUB-2026-000363",
+  "learner_id": "LRN-2026-000075",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T11:19:00Z",
+  "word_count": 840
+ },
+ {
+  "submission_id": "SUB-2026-000364",
+  "learner_id": "LRN-2026-000021",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T22:17:00Z",
+  "word_count": 3735
+ },
+ {
+  "submission_id": "SUB-2026-000365",
+  "learner_id": "LRN-2026-000014",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T03:41:00Z",
+  "word_count": 685
+ },
+ {
+  "submission_id": "SUB-2026-000366",
+  "learner_id": "LRN-2026-000146",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T03:29:00Z",
+  "word_count": 3939
+ },
+ {
+  "submission_id": "SUB-2026-000367",
+  "learner_id": "LRN-2026-000130",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T03:52:00Z",
+  "word_count": 1925
+ },
+ {
+  "submission_id": "SUB-2026-000368",
+  "learner_id": "LRN-2026-000153",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T10:59:00Z",
+  "word_count": 3010
+ },
+ {
+  "submission_id": "SUB-2026-000369",
+  "learner_id": "LRN-2026-000028",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T15:45:00Z",
+  "word_count": 3241
+ },
+ {
+  "submission_id": "SUB-2026-000370",
+  "learner_id": "LRN-2026-000144",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T05:01:00Z",
+  "word_count": 695
+ },
+ {
+  "submission_id": "SUB-2026-000371",
+  "learner_id": "LRN-2026-000147",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T06:09:00Z",
+  "word_count": 1032
+ },
+ {
+  "submission_id": "SUB-2026-000372",
+  "learner_id": "LRN-2026-000034",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T07:48:00Z",
+  "word_count": 4348
+ },
+ {
+  "submission_id": "SUB-2026-000373",
+  "learner_id": "LRN-2026-000123",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T05:27:00Z",
+  "word_count": 3425
+ },
+ {
+  "submission_id": "SUB-2026-000374",
+  "learner_id": "LRN-2026-000066",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T19:45:00Z",
+  "word_count": 1866
+ },
+ {
+  "submission_id": "SUB-2026-000375",
+  "learner_id": "LRN-2026-000142",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T07:24:00Z",
+  "word_count": 1329
+ },
+ {
+  "submission_id": "SUB-2026-000376",
+  "learner_id": "LRN-2026-000137",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T17:14:00Z",
+  "word_count": 3274
+ },
+ {
+  "submission_id": "SUB-2026-000377",
+  "learner_id": "LRN-2026-000075",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T13:35:00Z",
+  "word_count": 1431
+ },
+ {
+  "submission_id": "SUB-2026-000378",
+  "learner_id": "LRN-2026-000068",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T11:56:00Z",
+  "word_count": 3474
+ },
+ {
+  "submission_id": "SUB-2026-000379",
+  "learner_id": "LRN-2026-000036",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-25T10:06:00Z",
+  "word_count": 3296
+ },
+ {
+  "submission_id": "SUB-2026-000380",
+  "learner_id": "LRN-2026-000008",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T04:40:00Z",
+  "word_count": 623
+ },
+ {
+  "submission_id": "SUB-2026-000381",
+  "learner_id": "LRN-2026-000015",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T17:41:00Z",
+  "word_count": 652
+ },
+ {
+  "submission_id": "SUB-2026-000382",
+  "learner_id": "LRN-2026-000046",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T19:27:00Z",
+  "word_count": 1107
+ },
+ {
+  "submission_id": "SUB-2026-000383",
+  "learner_id": "LRN-2026-000033",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T10:33:00Z",
+  "word_count": 2282
+ },
+ {
+  "submission_id": "SUB-2026-000384",
+  "learner_id": "LRN-2026-000013",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T21:00:00Z",
+  "word_count": 4087
+ },
+ {
+  "submission_id": "SUB-2026-000385",
+  "learner_id": "LRN-2026-000085",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T14:51:00Z",
+  "word_count": 1189
+ },
+ {
+  "submission_id": "SUB-2026-000386",
+  "learner_id": "LRN-2026-000091",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T12:31:00Z",
+  "word_count": 3198
+ },
+ {
+  "submission_id": "SUB-2026-000387",
+  "learner_id": "LRN-2026-000141",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T05:31:00Z",
+  "word_count": 2831
+ },
+ {
+  "submission_id": "SUB-2026-000388",
+  "learner_id": "LRN-2026-000142",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T06:54:00Z",
+  "word_count": 3061
+ },
+ {
+  "submission_id": "SUB-2026-000389",
+  "learner_id": "LRN-2026-000017",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-25T15:38:00Z",
+  "word_count": 2202
+ },
+ {
+  "submission_id": "SUB-2026-000390",
+  "learner_id": "LRN-2026-000136",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T20:43:00Z",
+  "word_count": 2259
+ },
+ {
+  "submission_id": "SUB-2026-000391",
+  "learner_id": "LRN-2026-000140",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T11:49:00Z",
+  "word_count": 822
+ },
+ {
+  "submission_id": "SUB-2026-000392",
+  "learner_id": "LRN-2026-000181",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T12:30:00Z",
+  "word_count": 387
+ },
+ {
+  "submission_id": "SUB-2026-000393",
+  "learner_id": "LRN-2026-000053",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T02:40:00Z",
+  "word_count": 1534
+ },
+ {
+  "submission_id": "SUB-2026-000394",
+  "learner_id": "LRN-2026-000159",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T15:34:00Z",
+  "word_count": 4009
+ },
+ {
+  "submission_id": "SUB-2026-000395",
+  "learner_id": "LRN-2026-000105",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T05:38:00Z",
+  "word_count": 3631
+ },
+ {
+  "submission_id": "SUB-2026-000396",
+  "learner_id": "LRN-2026-000019",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T10:24:00Z",
+  "word_count": 4325
+ },
+ {
+  "submission_id": "SUB-2026-000397",
+  "learner_id": "LRN-2026-000027",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T17:20:00Z",
+  "word_count": 975
+ },
+ {
+  "submission_id": "SUB-2026-000398",
+  "learner_id": "LRN-2026-000152",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T05:16:00Z",
+  "word_count": 2742
+ },
+ {
+  "submission_id": "SUB-2026-000399",
+  "learner_id": "LRN-2026-000021",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T06:38:00Z",
+  "word_count": 1365
+ },
+ {
+  "submission_id": "SUB-2026-000400",
+  "learner_id": "LRN-2026-000089",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T17:47:00Z",
+  "word_count": 4442
+ },
+ {
+  "submission_id": "SUB-2026-000401",
+  "learner_id": "LRN-2026-000129",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T11:49:00Z",
+  "word_count": 871
+ },
+ {
+  "submission_id": "SUB-2026-000402",
+  "learner_id": "LRN-2026-000015",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T01:12:00Z",
+  "word_count": 2919
+ },
+ {
+  "submission_id": "SUB-2026-000403",
+  "learner_id": "LRN-2026-000174",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T12:55:00Z",
+  "word_count": 3981
+ },
+ {
+  "submission_id": "SUB-2026-000404",
+  "learner_id": "LRN-2026-000170",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T07:30:00Z",
+  "word_count": 4347
+ },
+ {
+  "submission_id": "SUB-2026-000405",
+  "learner_id": "LRN-2026-000199",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T02:32:00Z",
+  "word_count": 432
+ },
+ {
+  "submission_id": "SUB-2026-000406",
+  "learner_id": "LRN-2026-000053",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T11:36:00Z",
+  "word_count": 4042
+ },
+ {
+  "submission_id": "SUB-2026-000407",
+  "learner_id": "LRN-2026-000194",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T05:01:00Z",
+  "word_count": 1613
+ },
+ {
+  "submission_id": "SUB-2026-000408",
+  "learner_id": "LRN-2026-000089",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T11:44:00Z",
+  "word_count": 2232
+ },
+ {
+  "submission_id": "SUB-2026-000409",
+  "learner_id": "LRN-2026-000068",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T16:05:00Z",
+  "word_count": 2398
+ },
+ {
+  "submission_id": "SUB-2026-000410",
+  "learner_id": "LRN-2026-000110",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T23:08:00Z",
+  "word_count": 4014
+ },
+ {
+  "submission_id": "SUB-2026-000411",
+  "learner_id": "LRN-2026-000168",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-25T20:18:00Z",
+  "word_count": 2304
+ },
+ {
+  "submission_id": "SUB-2026-000412",
+  "learner_id": "LRN-2026-000061",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T02:05:00Z",
+  "word_count": 4096
+ },
+ {
+  "submission_id": "SUB-2026-000413",
+  "learner_id": "LRN-2026-000086",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T06:54:00Z",
+  "word_count": 1225
+ },
+ {
+  "submission_id": "SUB-2026-000414",
+  "learner_id": "LRN-2026-000031",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T12:02:00Z",
+  "word_count": 3711
+ },
+ {
+  "submission_id": "SUB-2026-000415",
+  "learner_id": "LRN-2026-000196",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T01:35:00Z",
+  "word_count": 609
+ },
+ {
+  "submission_id": "SUB-2026-000416",
+  "learner_id": "LRN-2026-000090",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T03:09:00Z",
+  "word_count": 3532
+ },
+ {
+  "submission_id": "SUB-2026-000417",
+  "learner_id": "LRN-2026-000041",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T10:46:00Z",
+  "word_count": 2492
+ },
+ {
+  "submission_id": "SUB-2026-000418",
+  "learner_id": "LRN-2026-000162",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T18:24:00Z",
+  "word_count": 1509
+ },
+ {
+  "submission_id": "SUB-2026-000419",
+  "learner_id": "LRN-2026-000138",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T08:07:00Z",
+  "word_count": 1335
+ },
+ {
+  "submission_id": "SUB-2026-000420",
+  "learner_id": "LRN-2026-000163",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T09:56:00Z",
+  "word_count": 2855
+ },
+ {
+  "submission_id": "SUB-2026-000421",
+  "learner_id": "LRN-2026-000018",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T16:29:00Z",
+  "word_count": 460
+ },
+ {
+  "submission_id": "SUB-2026-000422",
+  "learner_id": "LRN-2026-000194",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T17:01:00Z",
+  "word_count": 3886
+ },
+ {
+  "submission_id": "SUB-2026-000423",
+  "learner_id": "LRN-2026-000100",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T12:09:00Z",
+  "word_count": 3845
+ },
+ {
+  "submission_id": "SUB-2026-000424",
+  "learner_id": "LRN-2026-000056",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T18:48:00Z",
+  "word_count": 1879
+ },
+ {
+  "submission_id": "SUB-2026-000425",
+  "learner_id": "LRN-2026-000039",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T09:23:00Z",
+  "word_count": 2046
+ },
+ {
+  "submission_id": "SUB-2026-000426",
+  "learner_id": "LRN-2026-000059",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T00:47:00Z",
+  "word_count": 579
+ },
+ {
+  "submission_id": "SUB-2026-000427",
+  "learner_id": "LRN-2026-000107",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T18:10:00Z",
+  "word_count": 1282
+ },
+ {
+  "submission_id": "SUB-2026-000428",
+  "learner_id": "LRN-2026-000033",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-25T20:28:00Z",
+  "word_count": 3336
+ },
+ {
+  "submission_id": "SUB-2026-000429",
+  "learner_id": "LRN-2026-000145",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T08:05:00Z",
+  "word_count": 1006
+ },
+ {
+  "submission_id": "SUB-2026-000430",
+  "learner_id": "LRN-2026-000077",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T22:35:00Z",
+  "word_count": 3626
+ },
+ {
+  "submission_id": "SUB-2026-000431",
+  "learner_id": "LRN-2026-000154",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T10:21:00Z",
+  "word_count": 700
+ },
+ {
+  "submission_id": "SUB-2026-000432",
+  "learner_id": "LRN-2026-000045",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T11:16:00Z",
+  "word_count": 4356
+ },
+ {
+  "submission_id": "SUB-2026-000433",
+  "learner_id": "LRN-2026-000020",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T10:55:00Z",
+  "word_count": 927
+ },
+ {
+  "submission_id": "SUB-2026-000434",
+  "learner_id": "LRN-2026-000017",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T14:40:00Z",
+  "word_count": 670
+ },
+ {
+  "submission_id": "SUB-2026-000435",
+  "learner_id": "LRN-2026-000171",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T08:32:00Z",
+  "word_count": 4459
+ },
+ {
+  "submission_id": "SUB-2026-000436",
+  "learner_id": "LRN-2026-000013",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T07:18:00Z",
+  "word_count": 1342
+ },
+ {
+  "submission_id": "SUB-2026-000437",
+  "learner_id": "LRN-2026-000153",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T13:47:00Z",
+  "word_count": 1207
+ },
+ {
+  "submission_id": "SUB-2026-000438",
+  "learner_id": "LRN-2026-000129",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T07:56:00Z",
+  "word_count": 428
+ },
+ {
+  "submission_id": "SUB-2026-000439",
+  "learner_id": "LRN-2026-000102",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T19:21:00Z",
+  "word_count": 2666
+ },
+ {
+  "submission_id": "SUB-2026-000440",
+  "learner_id": "LRN-2026-000071",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T13:29:00Z",
+  "word_count": 3546
+ },
+ {
+  "submission_id": "SUB-2026-000441",
+  "learner_id": "LRN-2026-000095",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T14:36:00Z",
+  "word_count": 3290
+ },
+ {
+  "submission_id": "SUB-2026-000442",
+  "learner_id": "LRN-2026-000120",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T04:48:00Z",
+  "word_count": 886
+ },
+ {
+  "submission_id": "SUB-2026-000443",
+  "learner_id": "LRN-2026-000092",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T04:34:00Z",
+  "word_count": 3134
+ },
+ {
+  "submission_id": "SUB-2026-000444",
+  "learner_id": "LRN-2026-000010",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T02:05:00Z",
+  "word_count": 1754
+ },
+ {
+  "submission_id": "SUB-2026-000445",
+  "learner_id": "LRN-2026-000069",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T05:14:00Z",
+  "word_count": 666
+ },
+ {
+  "submission_id": "SUB-2026-000446",
+  "learner_id": "LRN-2026-000122",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T12:36:00Z",
+  "word_count": 3714
+ },
+ {
+  "submission_id": "SUB-2026-000447",
+  "learner_id": "LRN-2026-000155",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T16:47:00Z",
+  "word_count": 1505
+ },
+ {
+  "submission_id": "SUB-2026-000448",
+  "learner_id": "LRN-2026-000131",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T22:02:00Z",
+  "word_count": 2076
+ },
+ {
+  "submission_id": "SUB-2026-000449",
+  "learner_id": "LRN-2026-000043",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T20:03:00Z",
+  "word_count": 738
+ },
+ {
+  "submission_id": "SUB-2026-000450",
+  "learner_id": "LRN-2026-000017",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T22:55:00Z",
+  "word_count": 1048
+ },
+ {
+  "submission_id": "SUB-2026-000451",
+  "learner_id": "LRN-2026-000161",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T23:20:00Z",
+  "word_count": 1127
+ },
+ {
+  "submission_id": "SUB-2026-000452",
+  "learner_id": "LRN-2026-000199",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T16:00:00Z",
+  "word_count": 3147
+ },
+ {
+  "submission_id": "SUB-2026-000453",
+  "learner_id": "LRN-2026-000046",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T16:51:00Z",
+  "word_count": 3848
+ },
+ {
+  "submission_id": "SUB-2026-000454",
+  "learner_id": "LRN-2026-000032",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T00:15:00Z",
+  "word_count": 4433
+ },
+ {
+  "submission_id": "SUB-2026-000455",
+  "learner_id": "LRN-2026-000006",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T08:40:00Z",
+  "word_count": 1563
+ },
+ {
+  "submission_id": "SUB-2026-000456",
+  "learner_id": "LRN-2026-000096",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T17:28:00Z",
+  "word_count": 2538
+ },
+ {
+  "submission_id": "SUB-2026-000457",
+  "learner_id": "LRN-2026-000003",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T06:42:00Z",
+  "word_count": 991
+ },
+ {
+  "submission_id": "SUB-2026-000458",
+  "learner_id": "LRN-2026-000068",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T13:43:00Z",
+  "word_count": 2578
+ },
+ {
+  "submission_id": "SUB-2026-000459",
+  "learner_id": "LRN-2026-000031",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T21:00:00Z",
+  "word_count": 3055
+ },
+ {
+  "submission_id": "SUB-2026-000460",
+  "learner_id": "LRN-2026-000040",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T22:52:00Z",
+  "word_count": 3385
+ },
+ {
+  "submission_id": "SUB-2026-000461",
+  "learner_id": "LRN-2026-000076",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T12:38:00Z",
+  "word_count": 2495
+ },
+ {
+  "submission_id": "SUB-2026-000462",
+  "learner_id": "LRN-2026-000135",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T04:41:00Z",
+  "word_count": 4023
+ },
+ {
+  "submission_id": "SUB-2026-000463",
+  "learner_id": "LRN-2026-000115",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T07:44:00Z",
+  "word_count": 1616
+ },
+ {
+  "submission_id": "SUB-2026-000464",
+  "learner_id": "LRN-2026-000032",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T08:17:00Z",
+  "word_count": 1633
+ },
+ {
+  "submission_id": "SUB-2026-000465",
+  "learner_id": "LRN-2026-000162",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T02:26:00Z",
+  "word_count": 2956
+ },
+ {
+  "submission_id": "SUB-2026-000466",
+  "learner_id": "LRN-2026-000038",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T07:07:00Z",
+  "word_count": 3422
+ },
+ {
+  "submission_id": "SUB-2026-000467",
+  "learner_id": "LRN-2026-000125",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T16:07:00Z",
+  "word_count": 2075
+ },
+ {
+  "submission_id": "SUB-2026-000468",
+  "learner_id": "LRN-2026-000137",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T05:15:00Z",
+  "word_count": 4341
+ },
+ {
+  "submission_id": "SUB-2026-000469",
+  "learner_id": "LRN-2026-000075",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T19:26:00Z",
+  "word_count": 1827
+ },
+ {
+  "submission_id": "SUB-2026-000470",
+  "learner_id": "LRN-2026-000135",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T02:40:00Z",
+  "word_count": 1453
+ },
+ {
+  "submission_id": "SUB-2026-000471",
+  "learner_id": "LRN-2026-000072",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T04:33:00Z",
+  "word_count": 3293
+ },
+ {
+  "submission_id": "SUB-2026-000472",
+  "learner_id": "LRN-2026-000041",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T12:32:00Z",
+  "word_count": 3580
+ },
+ {
+  "submission_id": "SUB-2026-000473",
+  "learner_id": "LRN-2026-000190",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T03:43:00Z",
+  "word_count": 986
+ },
+ {
+  "submission_id": "SUB-2026-000474",
+  "learner_id": "LRN-2026-000051",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T12:13:00Z",
+  "word_count": 1472
+ },
+ {
+  "submission_id": "SUB-2026-000475",
+  "learner_id": "LRN-2026-000035",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T10:22:00Z",
+  "word_count": 3439
+ },
+ {
+  "submission_id": "SUB-2026-000476",
+  "learner_id": "LRN-2026-000151",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T11:29:00Z",
+  "word_count": 4333
+ },
+ {
+  "submission_id": "SUB-2026-000477",
+  "learner_id": "LRN-2026-000049",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T09:55:00Z",
+  "word_count": 1596
+ },
+ {
+  "submission_id": "SUB-2026-000478",
+  "learner_id": "LRN-2026-000035",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T13:23:00Z",
+  "word_count": 1780
+ },
+ {
+  "submission_id": "SUB-2026-000479",
+  "learner_id": "LRN-2026-000021",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T12:41:00Z",
+  "word_count": 2141
+ },
+ {
+  "submission_id": "SUB-2026-000480",
+  "learner_id": "LRN-2026-000127",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T04:30:00Z",
+  "word_count": 4254
+ },
+ {
+  "submission_id": "SUB-2026-000481",
+  "learner_id": "LRN-2026-000174",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T13:09:00Z",
+  "word_count": 3017
+ },
+ {
+  "submission_id": "SUB-2026-000482",
+  "learner_id": "LRN-2026-000186",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T12:45:00Z",
+  "word_count": 3385
+ },
+ {
+  "submission_id": "SUB-2026-000483",
+  "learner_id": "LRN-2026-000064",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T23:51:00Z",
+  "word_count": 2456
+ },
+ {
+  "submission_id": "SUB-2026-000484",
+  "learner_id": "LRN-2026-000133",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T22:47:00Z",
+  "word_count": 622
+ },
+ {
+  "submission_id": "SUB-2026-000485",
+  "learner_id": "LRN-2026-000138",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T09:10:00Z",
+  "word_count": 2659
+ },
+ {
+  "submission_id": "SUB-2026-000486",
+  "learner_id": "LRN-2026-000149",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T05:50:00Z",
+  "word_count": 4248
+ },
+ {
+  "submission_id": "SUB-2026-000487",
+  "learner_id": "LRN-2026-000187",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T19:37:00Z",
+  "word_count": 1832
+ },
+ {
+  "submission_id": "SUB-2026-000488",
+  "learner_id": "LRN-2026-000200",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T06:16:00Z",
+  "word_count": 2390
+ },
+ {
+  "submission_id": "SUB-2026-000489",
+  "learner_id": "LRN-2026-000141",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T19:00:00Z",
+  "word_count": 2905
+ },
+ {
+  "submission_id": "SUB-2026-000490",
+  "learner_id": "LRN-2026-000079",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T20:19:00Z",
+  "word_count": 4028
+ },
+ {
+  "submission_id": "SUB-2026-000491",
+  "learner_id": "LRN-2026-000073",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T17:11:00Z",
+  "word_count": 1723
+ },
+ {
+  "submission_id": "SUB-2026-000492",
+  "learner_id": "LRN-2026-000036",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T09:11:00Z",
+  "word_count": 1139
+ },
+ {
+  "submission_id": "SUB-2026-000493",
+  "learner_id": "LRN-2026-000200",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T00:25:00Z",
+  "word_count": 3969
+ },
+ {
+  "submission_id": "SUB-2026-000494",
+  "learner_id": "LRN-2026-000093",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T13:21:00Z",
+  "word_count": 1643
+ },
+ {
+  "submission_id": "SUB-2026-000495",
+  "learner_id": "LRN-2026-000114",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T01:50:00Z",
+  "word_count": 865
+ },
+ {
+  "submission_id": "SUB-2026-000496",
+  "learner_id": "LRN-2026-000049",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T22:51:00Z",
+  "word_count": 2505
+ },
+ {
+  "submission_id": "SUB-2026-000497",
+  "learner_id": "LRN-2026-000164",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T13:22:00Z",
+  "word_count": 3288
+ },
+ {
+  "submission_id": "SUB-2026-000498",
+  "learner_id": "LRN-2026-000119",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T13:19:00Z",
+  "word_count": 867
+ },
+ {
+  "submission_id": "SUB-2026-000499",
+  "learner_id": "LRN-2026-000119",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T22:54:00Z",
+  "word_count": 482
+ },
+ {
+  "submission_id": "SUB-2026-000500",
+  "learner_id": "LRN-2026-000169",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T16:09:00Z",
+  "word_count": 3417
+ },
+ {
+  "submission_id": "SUB-2026-000501",
+  "learner_id": "LRN-2026-000172",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T01:31:00Z",
+  "word_count": 3305
+ },
+ {
+  "submission_id": "SUB-2026-000502",
+  "learner_id": "LRN-2026-000009",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T10:57:00Z",
+  "word_count": 3298
+ },
+ {
+  "submission_id": "SUB-2026-000503",
+  "learner_id": "LRN-2026-000133",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T21:12:00Z",
+  "word_count": 2447
+ },
+ {
+  "submission_id": "SUB-2026-000504",
+  "learner_id": "LRN-2026-000046",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T11:32:00Z",
+  "word_count": 2640
+ },
+ {
+  "submission_id": "SUB-2026-000505",
+  "learner_id": "LRN-2026-000099",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T21:55:00Z",
+  "word_count": 4181
+ },
+ {
+  "submission_id": "SUB-2026-000506",
+  "learner_id": "LRN-2026-000055",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T15:56:00Z",
+  "word_count": 3469
+ },
+ {
+  "submission_id": "SUB-2026-000507",
+  "learner_id": "LRN-2026-000032",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T15:21:00Z",
+  "word_count": 1531
+ },
+ {
+  "submission_id": "SUB-2026-000508",
+  "learner_id": "LRN-2026-000126",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T12:48:00Z",
+  "word_count": 2570
+ },
+ {
+  "submission_id": "SUB-2026-000509",
+  "learner_id": "LRN-2026-000029",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T21:11:00Z",
+  "word_count": 1190
+ },
+ {
+  "submission_id": "SUB-2026-000510",
+  "learner_id": "LRN-2026-000094",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T13:06:00Z",
+  "word_count": 3105
+ },
+ {
+  "submission_id": "SUB-2026-000511",
+  "learner_id": "LRN-2026-000182",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T10:37:00Z",
+  "word_count": 1703
+ },
+ {
+  "submission_id": "SUB-2026-000512",
+  "learner_id": "LRN-2026-000029",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T05:53:00Z",
+  "word_count": 2955
+ },
+ {
+  "submission_id": "SUB-2026-000513",
+  "learner_id": "LRN-2026-000104",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T00:23:00Z",
+  "word_count": 3370
+ },
+ {
+  "submission_id": "SUB-2026-000514",
+  "learner_id": "LRN-2026-000030",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T16:11:00Z",
+  "word_count": 3881
+ },
+ {
+  "submission_id": "SUB-2026-000515",
+  "learner_id": "LRN-2026-000194",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T14:03:00Z",
+  "word_count": 810
+ },
+ {
+  "submission_id": "SUB-2026-000516",
+  "learner_id": "LRN-2026-000070",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T13:42:00Z",
+  "word_count": 3947
+ },
+ {
+  "submission_id": "SUB-2026-000517",
+  "learner_id": "LRN-2026-000111",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T00:23:00Z",
+  "word_count": 1351
+ },
+ {
+  "submission_id": "SUB-2026-000518",
+  "learner_id": "LRN-2026-000008",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T01:12:00Z",
+  "word_count": 2317
+ },
+ {
+  "submission_id": "SUB-2026-000519",
+  "learner_id": "LRN-2026-000094",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T11:39:00Z",
+  "word_count": 3008
+ },
+ {
+  "submission_id": "SUB-2026-000520",
+  "learner_id": "LRN-2026-000091",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-25T08:52:00Z",
+  "word_count": 537
+ },
+ {
+  "submission_id": "SUB-2026-000521",
+  "learner_id": "LRN-2026-000168",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T04:45:00Z",
+  "word_count": 2716
+ },
+ {
+  "submission_id": "SUB-2026-000522",
+  "learner_id": "LRN-2026-000138",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T06:41:00Z",
+  "word_count": 1306
+ },
+ {
+  "submission_id": "SUB-2026-000523",
+  "learner_id": "LRN-2026-000177",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T03:29:00Z",
+  "word_count": 4484
+ },
+ {
+  "submission_id": "SUB-2026-000524",
+  "learner_id": "LRN-2026-000038",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T23:00:00Z",
+  "word_count": 3260
+ },
+ {
+  "submission_id": "SUB-2026-000525",
+  "learner_id": "LRN-2026-000008",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T00:23:00Z",
+  "word_count": 2273
+ },
+ {
+  "submission_id": "SUB-2026-000526",
+  "learner_id": "LRN-2026-000003",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T12:08:00Z",
+  "word_count": 3474
+ },
+ {
+  "submission_id": "SUB-2026-000527",
+  "learner_id": "LRN-2026-000125",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T20:40:00Z",
+  "word_count": 4015
+ },
+ {
+  "submission_id": "SUB-2026-000528",
+  "learner_id": "LRN-2026-000009",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T01:42:00Z",
+  "word_count": 3858
+ },
+ {
+  "submission_id": "SUB-2026-000529",
+  "learner_id": "LRN-2026-000185",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T22:51:00Z",
+  "word_count": 1079
+ },
+ {
+  "submission_id": "SUB-2026-000530",
+  "learner_id": "LRN-2026-000095",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T17:26:00Z",
+  "word_count": 2017
+ },
+ {
+  "submission_id": "SUB-2026-000531",
+  "learner_id": "LRN-2026-000101",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T15:16:00Z",
+  "word_count": 847
+ },
+ {
+  "submission_id": "SUB-2026-000532",
+  "learner_id": "LRN-2026-000109",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T05:28:00Z",
+  "word_count": 4104
+ },
+ {
+  "submission_id": "SUB-2026-000533",
+  "learner_id": "LRN-2026-000153",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T19:52:00Z",
+  "word_count": 3923
+ },
+ {
+  "submission_id": "SUB-2026-000534",
+  "learner_id": "LRN-2026-000047",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T02:59:00Z",
+  "word_count": 1460
+ },
+ {
+  "submission_id": "SUB-2026-000535",
+  "learner_id": "LRN-2026-000168",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T14:12:00Z",
+  "word_count": 3302
+ },
+ {
+  "submission_id": "SUB-2026-000536",
+  "learner_id": "LRN-2026-000041",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T11:50:00Z",
+  "word_count": 1684
+ },
+ {
+  "submission_id": "SUB-2026-000537",
+  "learner_id": "LRN-2026-000150",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T14:14:00Z",
+  "word_count": 4270
+ },
+ {
+  "submission_id": "SUB-2026-000538",
+  "learner_id": "LRN-2026-000150",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T13:07:00Z",
+  "word_count": 2420
+ },
+ {
+  "submission_id": "SUB-2026-000539",
+  "learner_id": "LRN-2026-000055",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T08:38:00Z",
+  "word_count": 4445
+ },
+ {
+  "submission_id": "SUB-2026-000540",
+  "learner_id": "LRN-2026-000064",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T23:27:00Z",
+  "word_count": 608
+ },
+ {
+  "submission_id": "SUB-2026-000541",
+  "learner_id": "LRN-2026-000040",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T08:38:00Z",
+  "word_count": 1403
+ },
+ {
+  "submission_id": "SUB-2026-000542",
+  "learner_id": "LRN-2026-000138",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T21:20:00Z",
+  "word_count": 879
+ },
+ {
+  "submission_id": "SUB-2026-000543",
+  "learner_id": "LRN-2026-000127",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T03:01:00Z",
+  "word_count": 3706
+ },
+ {
+  "submission_id": "SUB-2026-000544",
+  "learner_id": "LRN-2026-000119",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T19:31:00Z",
+  "word_count": 2578
+ },
+ {
+  "submission_id": "SUB-2026-000545",
+  "learner_id": "LRN-2026-000106",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T21:36:00Z",
+  "word_count": 1438
+ },
+ {
+  "submission_id": "SUB-2026-000546",
+  "learner_id": "LRN-2026-000052",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T04:57:00Z",
+  "word_count": 2910
+ },
+ {
+  "submission_id": "SUB-2026-000547",
+  "learner_id": "LRN-2026-000013",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T07:45:00Z",
+  "word_count": 3747
+ },
+ {
+  "submission_id": "SUB-2026-000548",
+  "learner_id": "LRN-2026-000187",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T05:42:00Z",
+  "word_count": 2112
+ },
+ {
+  "submission_id": "SUB-2026-000549",
+  "learner_id": "LRN-2026-000018",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T02:27:00Z",
+  "word_count": 2259
+ },
+ {
+  "submission_id": "SUB-2026-000550",
+  "learner_id": "LRN-2026-000126",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T22:03:00Z",
+  "word_count": 3024
+ },
+ {
+  "submission_id": "SUB-2026-000551",
+  "learner_id": "LRN-2026-000064",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T22:52:00Z",
+  "word_count": 4449
+ },
+ {
+  "submission_id": "SUB-2026-000552",
+  "learner_id": "LRN-2026-000069",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T21:30:00Z",
+  "word_count": 3064
+ },
+ {
+  "submission_id": "SUB-2026-000553",
+  "learner_id": "LRN-2026-000005",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T18:51:00Z",
+  "word_count": 1312
+ },
+ {
+  "submission_id": "SUB-2026-000554",
+  "learner_id": "LRN-2026-000160",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T03:39:00Z",
+  "word_count": 4073
+ },
+ {
+  "submission_id": "SUB-2026-000555",
+  "learner_id": "LRN-2026-000167",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T17:15:00Z",
+  "word_count": 312
+ },
+ {
+  "submission_id": "SUB-2026-000556",
+  "learner_id": "LRN-2026-000097",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T13:06:00Z",
+  "word_count": 3147
+ },
+ {
+  "submission_id": "SUB-2026-000557",
+  "learner_id": "LRN-2026-000073",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T10:08:00Z",
+  "word_count": 1932
+ },
+ {
+  "submission_id": "SUB-2026-000558",
+  "learner_id": "LRN-2026-000197",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T05:53:00Z",
+  "word_count": 3976
+ },
+ {
+  "submission_id": "SUB-2026-000559",
+  "learner_id": "LRN-2026-000004",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T11:05:00Z",
+  "word_count": 3394
+ },
+ {
+  "submission_id": "SUB-2026-000560",
+  "learner_id": "LRN-2026-000135",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T02:04:00Z",
+  "word_count": 1410
+ },
+ {
+  "submission_id": "SUB-2026-000561",
+  "learner_id": "LRN-2026-000103",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T02:03:00Z",
+  "word_count": 3233
+ },
+ {
+  "submission_id": "SUB-2026-000562",
+  "learner_id": "LRN-2026-000188",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T18:58:00Z",
+  "word_count": 3483
+ },
+ {
+  "submission_id": "SUB-2026-000563",
+  "learner_id": "LRN-2026-000077",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T09:14:00Z",
+  "word_count": 3547
+ },
+ {
+  "submission_id": "SUB-2026-000564",
+  "learner_id": "LRN-2026-000026",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-25T23:03:00Z",
+  "word_count": 3740
+ },
+ {
+  "submission_id": "SUB-2026-000565",
+  "learner_id": "LRN-2026-000005",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T17:23:00Z",
+  "word_count": 493
+ },
+ {
+  "submission_id": "SUB-2026-000566",
+  "learner_id": "LRN-2026-000076",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T12:08:00Z",
+  "word_count": 3910
+ },
+ {
+  "submission_id": "SUB-2026-000567",
+  "learner_id": "LRN-2026-000122",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T02:46:00Z",
+  "word_count": 1394
+ },
+ {
+  "submission_id": "SUB-2026-000568",
+  "learner_id": "LRN-2026-000049",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T16:48:00Z",
+  "word_count": 4104
+ },
+ {
+  "submission_id": "SUB-2026-000569",
+  "learner_id": "LRN-2026-000170",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T07:40:00Z",
+  "word_count": 2489
+ },
+ {
+  "submission_id": "SUB-2026-000570",
+  "learner_id": "LRN-2026-000152",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T14:38:00Z",
+  "word_count": 1930
+ },
+ {
+  "submission_id": "SUB-2026-000571",
+  "learner_id": "LRN-2026-000171",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T17:00:00Z",
+  "word_count": 1690
+ },
+ {
+  "submission_id": "SUB-2026-000572",
+  "learner_id": "LRN-2026-000124",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T12:55:00Z",
+  "word_count": 870
+ },
+ {
+  "submission_id": "SUB-2026-000573",
+  "learner_id": "LRN-2026-000042",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T12:46:00Z",
+  "word_count": 307
+ },
+ {
+  "submission_id": "SUB-2026-000574",
+  "learner_id": "LRN-2026-000199",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T12:56:00Z",
+  "word_count": 4125
+ },
+ {
+  "submission_id": "SUB-2026-000575",
+  "learner_id": "LRN-2026-000113",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T09:49:00Z",
+  "word_count": 3492
+ },
+ {
+  "submission_id": "SUB-2026-000576",
+  "learner_id": "LRN-2026-000072",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T16:22:00Z",
+  "word_count": 2225
+ },
+ {
+  "submission_id": "SUB-2026-000577",
+  "learner_id": "LRN-2026-000069",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T05:29:00Z",
+  "word_count": 1540
+ },
+ {
+  "submission_id": "SUB-2026-000578",
+  "learner_id": "LRN-2026-000173",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T15:07:00Z",
+  "word_count": 4321
+ },
+ {
+  "submission_id": "SUB-2026-000579",
+  "learner_id": "LRN-2026-000008",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T21:42:00Z",
+  "word_count": 1038
+ },
+ {
+  "submission_id": "SUB-2026-000580",
+  "learner_id": "LRN-2026-000055",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T15:21:00Z",
+  "word_count": 3421
+ },
+ {
+  "submission_id": "SUB-2026-000581",
+  "learner_id": "LRN-2026-000167",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T09:42:00Z",
+  "word_count": 1608
+ },
+ {
+  "submission_id": "SUB-2026-000582",
+  "learner_id": "LRN-2026-000164",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T08:07:00Z",
+  "word_count": 4249
+ },
+ {
+  "submission_id": "SUB-2026-000583",
+  "learner_id": "LRN-2026-000121",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T00:41:00Z",
+  "word_count": 4348
+ },
+ {
+  "submission_id": "SUB-2026-000584",
+  "learner_id": "LRN-2026-000172",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T05:03:00Z",
+  "word_count": 2728
+ },
+ {
+  "submission_id": "SUB-2026-000585",
+  "learner_id": "LRN-2026-000123",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T21:28:00Z",
+  "word_count": 2472
+ },
+ {
+  "submission_id": "SUB-2026-000586",
+  "learner_id": "LRN-2026-000025",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T15:04:00Z",
+  "word_count": 4490
+ },
+ {
+  "submission_id": "SUB-2026-000587",
+  "learner_id": "LRN-2026-000113",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T09:56:00Z",
+  "word_count": 3171
+ },
+ {
+  "submission_id": "SUB-2026-000588",
+  "learner_id": "LRN-2026-000045",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T03:36:00Z",
+  "word_count": 2309
+ },
+ {
+  "submission_id": "SUB-2026-000589",
+  "learner_id": "LRN-2026-000039",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T09:36:00Z",
+  "word_count": 1137
+ },
+ {
+  "submission_id": "SUB-2026-000590",
+  "learner_id": "LRN-2026-000194",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T07:24:00Z",
+  "word_count": 3279
+ },
+ {
+  "submission_id": "SUB-2026-000591",
+  "learner_id": "LRN-2026-000169",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T14:35:00Z",
+  "word_count": 1864
+ },
+ {
+  "submission_id": "SUB-2026-000592",
+  "learner_id": "LRN-2026-000143",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T08:05:00Z",
+  "word_count": 557
+ },
+ {
+  "submission_id": "SUB-2026-000593",
+  "learner_id": "LRN-2026-000129",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T09:29:00Z",
+  "word_count": 2826
+ },
+ {
+  "submission_id": "SUB-2026-000594",
+  "learner_id": "LRN-2026-000039",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T13:06:00Z",
+  "word_count": 2682
+ },
+ {
+  "submission_id": "SUB-2026-000595",
+  "learner_id": "LRN-2026-000200",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T05:23:00Z",
+  "word_count": 3385
+ },
+ {
+  "submission_id": "SUB-2026-000596",
+  "learner_id": "LRN-2026-000132",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T05:25:00Z",
+  "word_count": 4388
+ },
+ {
+  "submission_id": "SUB-2026-000597",
+  "learner_id": "LRN-2026-000120",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T00:08:00Z",
+  "word_count": 3957
+ },
+ {
+  "submission_id": "SUB-2026-000598",
+  "learner_id": "LRN-2026-000124",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-25T00:04:00Z",
+  "word_count": 833
+ },
+ {
+  "submission_id": "SUB-2026-000599",
+  "learner_id": "LRN-2026-000164",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T13:35:00Z",
+  "word_count": 971
+ },
+ {
+  "submission_id": "SUB-2026-000600",
+  "learner_id": "LRN-2026-000044",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T19:45:00Z",
+  "word_count": 426
+ },
+ {
+  "submission_id": "SUB-2026-000601",
+  "learner_id": "LRN-2026-000199",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T13:49:00Z",
+  "word_count": 4286
+ },
+ {
+  "submission_id": "SUB-2026-000602",
+  "learner_id": "LRN-2026-000025",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T08:09:00Z",
+  "word_count": 2102
+ },
+ {
+  "submission_id": "SUB-2026-000603",
+  "learner_id": "LRN-2026-000158",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T19:08:00Z",
+  "word_count": 3569
+ },
+ {
+  "submission_id": "SUB-2026-000604",
+  "learner_id": "LRN-2026-000154",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T20:54:00Z",
+  "word_count": 3444
+ },
+ {
+  "submission_id": "SUB-2026-000605",
+  "learner_id": "LRN-2026-000179",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T10:25:00Z",
+  "word_count": 3415
+ },
+ {
+  "submission_id": "SUB-2026-000606",
+  "learner_id": "LRN-2026-000155",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T03:27:00Z",
+  "word_count": 2238
+ },
+ {
+  "submission_id": "SUB-2026-000607",
+  "learner_id": "LRN-2026-000116",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T01:59:00Z",
+  "word_count": 3039
+ },
+ {
+  "submission_id": "SUB-2026-000608",
+  "learner_id": "LRN-2026-000034",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T21:41:00Z",
+  "word_count": 4158
+ },
+ {
+  "submission_id": "SUB-2026-000609",
+  "learner_id": "LRN-2026-000053",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T20:04:00Z",
+  "word_count": 1344
+ },
+ {
+  "submission_id": "SUB-2026-000610",
+  "learner_id": "LRN-2026-000149",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T01:38:00Z",
+  "word_count": 1498
+ },
+ {
+  "submission_id": "SUB-2026-000611",
+  "learner_id": "LRN-2026-000173",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T11:42:00Z",
+  "word_count": 3309
+ },
+ {
+  "submission_id": "SUB-2026-000612",
+  "learner_id": "LRN-2026-000057",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T13:22:00Z",
+  "word_count": 423
+ },
+ {
+  "submission_id": "SUB-2026-000613",
+  "learner_id": "LRN-2026-000049",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T02:47:00Z",
+  "word_count": 738
+ },
+ {
+  "submission_id": "SUB-2026-000614",
+  "learner_id": "LRN-2026-000121",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T10:20:00Z",
+  "word_count": 4290
+ },
+ {
+  "submission_id": "SUB-2026-000615",
+  "learner_id": "LRN-2026-000099",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T12:05:00Z",
+  "word_count": 2264
+ },
+ {
+  "submission_id": "SUB-2026-000616",
+  "learner_id": "LRN-2026-000083",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T05:30:00Z",
+  "word_count": 4235
+ },
+ {
+  "submission_id": "SUB-2026-000617",
+  "learner_id": "LRN-2026-000174",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T00:48:00Z",
+  "word_count": 1278
+ },
+ {
+  "submission_id": "SUB-2026-000618",
+  "learner_id": "LRN-2026-000096",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T21:14:00Z",
+  "word_count": 2206
+ },
+ {
+  "submission_id": "SUB-2026-000619",
+  "learner_id": "LRN-2026-000197",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T23:27:00Z",
+  "word_count": 2977
+ },
+ {
+  "submission_id": "SUB-2026-000620",
+  "learner_id": "LRN-2026-000057",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T11:46:00Z",
+  "word_count": 2908
+ },
+ {
+  "submission_id": "SUB-2026-000621",
+  "learner_id": "LRN-2026-000048",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T04:02:00Z",
+  "word_count": 1251
+ },
+ {
+  "submission_id": "SUB-2026-000622",
+  "learner_id": "LRN-2026-000088",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T12:21:00Z",
+  "word_count": 2913
+ },
+ {
+  "submission_id": "SUB-2026-000623",
+  "learner_id": "LRN-2026-000095",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T12:03:00Z",
+  "word_count": 2057
+ },
+ {
+  "submission_id": "SUB-2026-000624",
+  "learner_id": "LRN-2026-000133",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T03:27:00Z",
+  "word_count": 1235
+ },
+ {
+  "submission_id": "SUB-2026-000625",
+  "learner_id": "LRN-2026-000091",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T14:18:00Z",
+  "word_count": 1494
+ },
+ {
+  "submission_id": "SUB-2026-000626",
+  "learner_id": "LRN-2026-000148",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T23:30:00Z",
+  "word_count": 2827
+ },
+ {
+  "submission_id": "SUB-2026-000627",
+  "learner_id": "LRN-2026-000173",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-25T12:13:00Z",
+  "word_count": 2967
+ },
+ {
+  "submission_id": "SUB-2026-000628",
+  "learner_id": "LRN-2026-000132",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T14:05:00Z",
+  "word_count": 3510
+ },
+ {
+  "submission_id": "SUB-2026-000629",
+  "learner_id": "LRN-2026-000144",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T13:27:00Z",
+  "word_count": 2631
+ },
+ {
+  "submission_id": "SUB-2026-000630",
+  "learner_id": "LRN-2026-000147",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T04:19:00Z",
+  "word_count": 1925
+ },
+ {
+  "submission_id": "SUB-2026-000631",
+  "learner_id": "LRN-2026-000179",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T17:28:00Z",
+  "word_count": 3927
+ },
+ {
+  "submission_id": "SUB-2026-000632",
+  "learner_id": "LRN-2026-000121",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T14:30:00Z",
+  "word_count": 4274
+ },
+ {
+  "submission_id": "SUB-2026-000633",
+  "learner_id": "LRN-2026-000162",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T12:15:00Z",
+  "word_count": 3853
+ },
+ {
+  "submission_id": "SUB-2026-000634",
+  "learner_id": "LRN-2026-000053",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T11:57:00Z",
+  "word_count": 2681
+ },
+ {
+  "submission_id": "SUB-2026-000635",
+  "learner_id": "LRN-2026-000174",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T18:42:00Z",
+  "word_count": 2725
+ },
+ {
+  "submission_id": "SUB-2026-000636",
+  "learner_id": "LRN-2026-000099",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T17:16:00Z",
+  "word_count": 1321
+ },
+ {
+  "submission_id": "SUB-2026-000637",
+  "learner_id": "LRN-2026-000080",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T12:38:00Z",
+  "word_count": 1534
+ },
+ {
+  "submission_id": "SUB-2026-000638",
+  "learner_id": "LRN-2026-000055",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T19:56:00Z",
+  "word_count": 814
+ },
+ {
+  "submission_id": "SUB-2026-000639",
+  "learner_id": "LRN-2026-000168",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T01:10:00Z",
+  "word_count": 946
+ },
+ {
+  "submission_id": "SUB-2026-000640",
+  "learner_id": "LRN-2026-000103",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T10:43:00Z",
+  "word_count": 511
+ },
+ {
+  "submission_id": "SUB-2026-000641",
+  "learner_id": "LRN-2026-000010",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T08:16:00Z",
+  "word_count": 1118
+ },
+ {
+  "submission_id": "SUB-2026-000642",
+  "learner_id": "LRN-2026-000026",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T03:39:00Z",
+  "word_count": 3600
+ },
+ {
+  "submission_id": "SUB-2026-000643",
+  "learner_id": "LRN-2026-000178",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T03:01:00Z",
+  "word_count": 1450
+ },
+ {
+  "submission_id": "SUB-2026-000644",
+  "learner_id": "LRN-2026-000027",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T01:48:00Z",
+  "word_count": 3874
+ },
+ {
+  "submission_id": "SUB-2026-000645",
+  "learner_id": "LRN-2026-000120",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T02:08:00Z",
+  "word_count": 1059
+ },
+ {
+  "submission_id": "SUB-2026-000646",
+  "learner_id": "LRN-2026-000149",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-25T03:50:00Z",
+  "word_count": 1104
+ },
+ {
+  "submission_id": "SUB-2026-000647",
+  "learner_id": "LRN-2026-000062",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T14:49:00Z",
+  "word_count": 769
+ },
+ {
+  "submission_id": "SUB-2026-000648",
+  "learner_id": "LRN-2026-000004",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T08:27:00Z",
+  "word_count": 1667
+ },
+ {
+  "submission_id": "SUB-2026-000649",
+  "learner_id": "LRN-2026-000157",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T15:50:00Z",
+  "word_count": 759
+ },
+ {
+  "submission_id": "SUB-2026-000650",
+  "learner_id": "LRN-2026-000114",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T09:25:00Z",
+  "word_count": 3490
+ },
+ {
+  "submission_id": "SUB-2026-000651",
+  "learner_id": "LRN-2026-000135",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T04:16:00Z",
+  "word_count": 1879
+ },
+ {
+  "submission_id": "SUB-2026-000652",
+  "learner_id": "LRN-2026-000185",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T21:24:00Z",
+  "word_count": 1262
+ },
+ {
+  "submission_id": "SUB-2026-000653",
+  "learner_id": "LRN-2026-000179",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T04:41:00Z",
+  "word_count": 3840
+ },
+ {
+  "submission_id": "SUB-2026-000654",
+  "learner_id": "LRN-2026-000035",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T20:36:00Z",
+  "word_count": 1841
+ },
+ {
+  "submission_id": "SUB-2026-000655",
+  "learner_id": "LRN-2026-000128",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T08:21:00Z",
+  "word_count": 2827
+ },
+ {
+  "submission_id": "SUB-2026-000656",
+  "learner_id": "LRN-2026-000079",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T12:54:00Z",
+  "word_count": 2974
+ },
+ {
+  "submission_id": "SUB-2026-000657",
+  "learner_id": "LRN-2026-000190",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T19:45:00Z",
+  "word_count": 3205
+ },
+ {
+  "submission_id": "SUB-2026-000658",
+  "learner_id": "LRN-2026-000134",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T07:27:00Z",
+  "word_count": 4367
+ },
+ {
+  "submission_id": "SUB-2026-000659",
+  "learner_id": "LRN-2026-000026",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T01:47:00Z",
+  "word_count": 3627
+ },
+ {
+  "submission_id": "SUB-2026-000660",
+  "learner_id": "LRN-2026-000181",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T04:51:00Z",
+  "word_count": 869
+ },
+ {
+  "submission_id": "SUB-2026-000661",
+  "learner_id": "LRN-2026-000121",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T16:29:00Z",
+  "word_count": 2856
+ },
+ {
+  "submission_id": "SUB-2026-000662",
+  "learner_id": "LRN-2026-000144",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T12:56:00Z",
+  "word_count": 853
+ },
+ {
+  "submission_id": "SUB-2026-000663",
+  "learner_id": "LRN-2026-000182",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T16:09:00Z",
+  "word_count": 4296
+ },
+ {
+  "submission_id": "SUB-2026-000664",
+  "learner_id": "LRN-2026-000184",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T20:55:00Z",
+  "word_count": 2374
+ },
+ {
+  "submission_id": "SUB-2026-000665",
+  "learner_id": "LRN-2026-000044",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T01:07:00Z",
+  "word_count": 1043
+ },
+ {
+  "submission_id": "SUB-2026-000666",
+  "learner_id": "LRN-2026-000101",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T07:46:00Z",
+  "word_count": 4206
+ },
+ {
+  "submission_id": "SUB-2026-000667",
+  "learner_id": "LRN-2026-000098",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T19:38:00Z",
+  "word_count": 1925
+ },
+ {
+  "submission_id": "SUB-2026-000668",
+  "learner_id": "LRN-2026-000176",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T16:15:00Z",
+  "word_count": 3433
+ },
+ {
+  "submission_id": "SUB-2026-000669",
+  "learner_id": "LRN-2026-000100",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T00:35:00Z",
+  "word_count": 4021
+ },
+ {
+  "submission_id": "SUB-2026-000670",
+  "learner_id": "LRN-2026-000137",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T16:59:00Z",
+  "word_count": 1211
+ },
+ {
+  "submission_id": "SUB-2026-000671",
+  "learner_id": "LRN-2026-000033",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T22:19:00Z",
+  "word_count": 1055
+ },
+ {
+  "submission_id": "SUB-2026-000672",
+  "learner_id": "LRN-2026-000084",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T14:22:00Z",
+  "word_count": 2672
+ },
+ {
+  "submission_id": "SUB-2026-000673",
+  "learner_id": "LRN-2026-000029",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T15:44:00Z",
+  "word_count": 710
+ },
+ {
+  "submission_id": "SUB-2026-000674",
+  "learner_id": "LRN-2026-000063",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T20:04:00Z",
+  "word_count": 2099
+ },
+ {
+  "submission_id": "SUB-2026-000675",
+  "learner_id": "LRN-2026-000016",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T21:28:00Z",
+  "word_count": 2092
+ },
+ {
+  "submission_id": "SUB-2026-000676",
+  "learner_id": "LRN-2026-000156",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T16:38:00Z",
+  "word_count": 511
+ },
+ {
+  "submission_id": "SUB-2026-000677",
+  "learner_id": "LRN-2026-000189",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T05:05:00Z",
+  "word_count": 1391
+ },
+ {
+  "submission_id": "SUB-2026-000678",
+  "learner_id": "LRN-2026-000081",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T16:28:00Z",
+  "word_count": 3897
+ },
+ {
+  "submission_id": "SUB-2026-000679",
+  "learner_id": "LRN-2026-000090",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T12:20:00Z",
+  "word_count": 2133
+ },
+ {
+  "submission_id": "SUB-2026-000680",
+  "learner_id": "LRN-2026-000052",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T09:52:00Z",
+  "word_count": 2476
+ },
+ {
+  "submission_id": "SUB-2026-000681",
+  "learner_id": "LRN-2026-000008",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T06:47:00Z",
+  "word_count": 3790
+ },
+ {
+  "submission_id": "SUB-2026-000682",
+  "learner_id": "LRN-2026-000087",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T19:52:00Z",
+  "word_count": 3479
+ },
+ {
+  "submission_id": "SUB-2026-000683",
+  "learner_id": "LRN-2026-000190",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T15:34:00Z",
+  "word_count": 308
+ },
+ {
+  "submission_id": "SUB-2026-000684",
+  "learner_id": "LRN-2026-000147",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T05:44:00Z",
+  "word_count": 3881
+ },
+ {
+  "submission_id": "SUB-2026-000685",
+  "learner_id": "LRN-2026-000111",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T03:33:00Z",
+  "word_count": 1743
+ },
+ {
+  "submission_id": "SUB-2026-000686",
+  "learner_id": "LRN-2026-000074",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T03:47:00Z",
+  "word_count": 3783
+ },
+ {
+  "submission_id": "SUB-2026-000687",
+  "learner_id": "LRN-2026-000002",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T01:52:00Z",
+  "word_count": 1746
+ },
+ {
+  "submission_id": "SUB-2026-000688",
+  "learner_id": "LRN-2026-000156",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T16:46:00Z",
+  "word_count": 2430
+ },
+ {
+  "submission_id": "SUB-2026-000689",
+  "learner_id": "LRN-2026-000067",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T10:20:00Z",
+  "word_count": 4016
+ },
+ {
+  "submission_id": "SUB-2026-000690",
+  "learner_id": "LRN-2026-000175",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T10:07:00Z",
+  "word_count": 2902
+ },
+ {
+  "submission_id": "SUB-2026-000691",
+  "learner_id": "LRN-2026-000082",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T07:13:00Z",
+  "word_count": 1824
+ },
+ {
+  "submission_id": "SUB-2026-000692",
+  "learner_id": "LRN-2026-000054",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T09:49:00Z",
+  "word_count": 2094
+ },
+ {
+  "submission_id": "SUB-2026-000693",
+  "learner_id": "LRN-2026-000132",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T00:00:00Z",
+  "word_count": 697
+ },
+ {
+  "submission_id": "SUB-2026-000694",
+  "learner_id": "LRN-2026-000095",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T23:24:00Z",
+  "word_count": 2083
+ },
+ {
+  "submission_id": "SUB-2026-000695",
+  "learner_id": "LRN-2026-000191",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T13:22:00Z",
+  "word_count": 638
+ },
+ {
+  "submission_id": "SUB-2026-000696",
+  "learner_id": "LRN-2026-000092",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T04:15:00Z",
+  "word_count": 378
+ },
+ {
+  "submission_id": "SUB-2026-000697",
+  "learner_id": "LRN-2026-000082",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-25T05:20:00Z",
+  "word_count": 3105
+ },
+ {
+  "submission_id": "SUB-2026-000698",
+  "learner_id": "LRN-2026-000105",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T03:21:00Z",
+  "word_count": 3245
+ },
+ {
+  "submission_id": "SUB-2026-000699",
+  "learner_id": "LRN-2026-000069",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T17:21:00Z",
+  "word_count": 2089
+ },
+ {
+  "submission_id": "SUB-2026-000700",
+  "learner_id": "LRN-2026-000141",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T16:16:00Z",
+  "word_count": 4006
+ },
+ {
+  "submission_id": "SUB-2026-000701",
+  "learner_id": "LRN-2026-000067",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T15:59:00Z",
+  "word_count": 4273
+ },
+ {
+  "submission_id": "SUB-2026-000702",
+  "learner_id": "LRN-2026-000004",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T08:38:00Z",
+  "word_count": 2788
+ },
+ {
+  "submission_id": "SUB-2026-000703",
+  "learner_id": "LRN-2026-000051",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T07:58:00Z",
+  "word_count": 3795
+ },
+ {
+  "submission_id": "SUB-2026-000704",
+  "learner_id": "LRN-2026-000180",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T05:36:00Z",
+  "word_count": 864
+ },
+ {
+  "submission_id": "SUB-2026-000705",
+  "learner_id": "LRN-2026-000147",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T06:24:00Z",
+  "word_count": 2356
+ },
+ {
+  "submission_id": "SUB-2026-000706",
+  "learner_id": "LRN-2026-000027",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T19:37:00Z",
+  "word_count": 642
+ },
+ {
+  "submission_id": "SUB-2026-000707",
+  "learner_id": "LRN-2026-000056",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T08:02:00Z",
+  "word_count": 3989
+ },
+ {
+  "submission_id": "SUB-2026-000708",
+  "learner_id": "LRN-2026-000146",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T19:59:00Z",
+  "word_count": 1707
+ },
+ {
+  "submission_id": "SUB-2026-000709",
+  "learner_id": "LRN-2026-000136",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T04:15:00Z",
+  "word_count": 2661
+ },
+ {
+  "submission_id": "SUB-2026-000710",
+  "learner_id": "LRN-2026-000031",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T02:33:00Z",
+  "word_count": 2866
+ },
+ {
+  "submission_id": "SUB-2026-000711",
+  "learner_id": "LRN-2026-000135",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T19:06:00Z",
+  "word_count": 4291
+ },
+ {
+  "submission_id": "SUB-2026-000712",
+  "learner_id": "LRN-2026-000080",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T21:01:00Z",
+  "word_count": 3418
+ },
+ {
+  "submission_id": "SUB-2026-000713",
+  "learner_id": "LRN-2026-000150",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T10:36:00Z",
+  "word_count": 1333
+ },
+ {
+  "submission_id": "SUB-2026-000714",
+  "learner_id": "LRN-2026-000024",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T09:42:00Z",
+  "word_count": 2062
+ },
+ {
+  "submission_id": "SUB-2026-000715",
+  "learner_id": "LRN-2026-000009",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T15:48:00Z",
+  "word_count": 3988
+ },
+ {
+  "submission_id": "SUB-2026-000716",
+  "learner_id": "LRN-2026-000119",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T02:59:00Z",
+  "word_count": 2063
+ },
+ {
+  "submission_id": "SUB-2026-000717",
+  "learner_id": "LRN-2026-000016",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T07:38:00Z",
+  "word_count": 3652
+ },
+ {
+  "submission_id": "SUB-2026-000718",
+  "learner_id": "LRN-2026-000120",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T09:05:00Z",
+  "word_count": 2616
+ },
+ {
+  "submission_id": "SUB-2026-000719",
+  "learner_id": "LRN-2026-000078",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T20:04:00Z",
+  "word_count": 1990
+ },
+ {
+  "submission_id": "SUB-2026-000720",
+  "learner_id": "LRN-2026-000070",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T23:55:00Z",
+  "word_count": 1156
+ },
+ {
+  "submission_id": "SUB-2026-000721",
+  "learner_id": "LRN-2026-000086",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T01:39:00Z",
+  "word_count": 3685
+ },
+ {
+  "submission_id": "SUB-2026-000722",
+  "learner_id": "LRN-2026-000091",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T05:47:00Z",
+  "word_count": 2681
+ },
+ {
+  "submission_id": "SUB-2026-000723",
+  "learner_id": "LRN-2026-000089",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T00:49:00Z",
+  "word_count": 3092
+ },
+ {
+  "submission_id": "SUB-2026-000724",
+  "learner_id": "LRN-2026-000124",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T02:53:00Z",
+  "word_count": 2759
+ },
+ {
+  "submission_id": "SUB-2026-000725",
+  "learner_id": "LRN-2026-000112",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T22:10:00Z",
+  "word_count": 2282
+ },
+ {
+  "submission_id": "SUB-2026-000726",
+  "learner_id": "LRN-2026-000050",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T07:36:00Z",
+  "word_count": 4182
+ },
+ {
+  "submission_id": "SUB-2026-000727",
+  "learner_id": "LRN-2026-000071",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T01:32:00Z",
+  "word_count": 2798
+ },
+ {
+  "submission_id": "SUB-2026-000728",
+  "learner_id": "LRN-2026-000001",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T19:02:00Z",
+  "word_count": 2441
+ },
+ {
+  "submission_id": "SUB-2026-000729",
+  "learner_id": "LRN-2026-000185",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T13:04:00Z",
+  "word_count": 1826
+ },
+ {
+  "submission_id": "SUB-2026-000730",
+  "learner_id": "LRN-2026-000044",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T22:24:00Z",
+  "word_count": 3779
+ },
+ {
+  "submission_id": "SUB-2026-000731",
+  "learner_id": "LRN-2026-000117",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T12:36:00Z",
+  "word_count": 4051
+ },
+ {
+  "submission_id": "SUB-2026-000732",
+  "learner_id": "LRN-2026-000003",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T06:59:00Z",
+  "word_count": 3512
+ },
+ {
+  "submission_id": "SUB-2026-000733",
+  "learner_id": "LRN-2026-000023",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T06:48:00Z",
+  "word_count": 2469
+ },
+ {
+  "submission_id": "SUB-2026-000734",
+  "learner_id": "LRN-2026-000139",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T00:39:00Z",
+  "word_count": 1144
+ },
+ {
+  "submission_id": "SUB-2026-000735",
+  "learner_id": "LRN-2026-000103",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T00:26:00Z",
+  "word_count": 1080
+ },
+ {
+  "submission_id": "SUB-2026-000736",
+  "learner_id": "LRN-2026-000172",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T10:50:00Z",
+  "word_count": 2051
+ },
+ {
+  "submission_id": "SUB-2026-000737",
+  "learner_id": "LRN-2026-000195",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T03:42:00Z",
+  "word_count": 421
+ },
+ {
+  "submission_id": "SUB-2026-000738",
+  "learner_id": "LRN-2026-000143",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T14:56:00Z",
+  "word_count": 658
+ },
+ {
+  "submission_id": "SUB-2026-000739",
+  "learner_id": "LRN-2026-000058",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-25T00:43:00Z",
+  "word_count": 4038
+ },
+ {
+  "submission_id": "SUB-2026-000740",
+  "learner_id": "LRN-2026-000162",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T18:50:00Z",
+  "word_count": 2267
+ },
+ {
+  "submission_id": "SUB-2026-000741",
+  "learner_id": "LRN-2026-000006",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T03:58:00Z",
+  "word_count": 1100
+ },
+ {
+  "submission_id": "SUB-2026-000742",
+  "learner_id": "LRN-2026-000147",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T04:09:00Z",
+  "word_count": 4025
+ },
+ {
+  "submission_id": "SUB-2026-000743",
+  "learner_id": "LRN-2026-000003",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T12:32:00Z",
+  "word_count": 2984
+ },
+ {
+  "submission_id": "SUB-2026-000744",
+  "learner_id": "LRN-2026-000064",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T04:31:00Z",
+  "word_count": 969
+ },
+ {
+  "submission_id": "SUB-2026-000745",
+  "learner_id": "LRN-2026-000014",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T16:13:00Z",
+  "word_count": 3569
+ },
+ {
+  "submission_id": "SUB-2026-000746",
+  "learner_id": "LRN-2026-000101",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T01:55:00Z",
+  "word_count": 3758
+ },
+ {
+  "submission_id": "SUB-2026-000747",
+  "learner_id": "LRN-2026-000060",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T12:07:00Z",
+  "word_count": 3885
+ },
+ {
+  "submission_id": "SUB-2026-000748",
+  "learner_id": "LRN-2026-000197",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T19:41:00Z",
+  "word_count": 1020
+ },
+ {
+  "submission_id": "SUB-2026-000749",
+  "learner_id": "LRN-2026-000165",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T08:18:00Z",
+  "word_count": 1571
+ },
+ {
+  "submission_id": "SUB-2026-000750",
+  "learner_id": "LRN-2026-000037",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T07:20:00Z",
+  "word_count": 4089
+ },
+ {
+  "submission_id": "SUB-2026-000751",
+  "learner_id": "LRN-2026-000174",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T07:46:00Z",
+  "word_count": 2507
+ },
+ {
+  "submission_id": "SUB-2026-000752",
+  "learner_id": "LRN-2026-000165",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T03:28:00Z",
+  "word_count": 1034
+ },
+ {
+  "submission_id": "SUB-2026-000753",
+  "learner_id": "LRN-2026-000177",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T05:19:00Z",
+  "word_count": 757
+ },
+ {
+  "submission_id": "SUB-2026-000754",
+  "learner_id": "LRN-2026-000145",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T15:53:00Z",
+  "word_count": 3133
+ },
+ {
+  "submission_id": "SUB-2026-000755",
+  "learner_id": "LRN-2026-000163",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T19:40:00Z",
+  "word_count": 4441
+ },
+ {
+  "submission_id": "SUB-2026-000756",
+  "learner_id": "LRN-2026-000112",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T14:13:00Z",
+  "word_count": 992
+ },
+ {
+  "submission_id": "SUB-2026-000757",
+  "learner_id": "LRN-2026-000123",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T15:00:00Z",
+  "word_count": 1656
+ },
+ {
+  "submission_id": "SUB-2026-000758",
+  "learner_id": "LRN-2026-000185",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T12:57:00Z",
+  "word_count": 1179
+ },
+ {
+  "submission_id": "SUB-2026-000759",
+  "learner_id": "LRN-2026-000139",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T01:21:00Z",
+  "word_count": 344
+ },
+ {
+  "submission_id": "SUB-2026-000760",
+  "learner_id": "LRN-2026-000191",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T20:57:00Z",
+  "word_count": 4151
+ },
+ {
+  "submission_id": "SUB-2026-000761",
+  "learner_id": "LRN-2026-000006",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T13:08:00Z",
+  "word_count": 1395
+ },
+ {
+  "submission_id": "SUB-2026-000762",
+  "learner_id": "LRN-2026-000065",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T09:51:00Z",
+  "word_count": 1263
+ },
+ {
+  "submission_id": "SUB-2026-000763",
+  "learner_id": "LRN-2026-000093",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T20:57:00Z",
+  "word_count": 3668
+ },
+ {
+  "submission_id": "SUB-2026-000764",
+  "learner_id": "LRN-2026-000123",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T08:54:00Z",
+  "word_count": 2544
+ },
+ {
+  "submission_id": "SUB-2026-000765",
+  "learner_id": "LRN-2026-000027",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T05:18:00Z",
+  "word_count": 503
+ },
+ {
+  "submission_id": "SUB-2026-000766",
+  "learner_id": "LRN-2026-000105",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T02:51:00Z",
+  "word_count": 341
+ },
+ {
+  "submission_id": "SUB-2026-000767",
+  "learner_id": "LRN-2026-000030",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T08:57:00Z",
+  "word_count": 3776
+ },
+ {
+  "submission_id": "SUB-2026-000768",
+  "learner_id": "LRN-2026-000161",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T10:10:00Z",
+  "word_count": 1059
+ },
+ {
+  "submission_id": "SUB-2026-000769",
+  "learner_id": "LRN-2026-000008",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T03:44:00Z",
+  "word_count": 3623
+ },
+ {
+  "submission_id": "SUB-2026-000770",
+  "learner_id": "LRN-2026-000032",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T13:14:00Z",
+  "word_count": 2846
+ },
+ {
+  "submission_id": "SUB-2026-000771",
+  "learner_id": "LRN-2026-000163",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T21:47:00Z",
+  "word_count": 3566
+ },
+ {
+  "submission_id": "SUB-2026-000772",
+  "learner_id": "LRN-2026-000102",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T10:57:00Z",
+  "word_count": 300
+ },
+ {
+  "submission_id": "SUB-2026-000773",
+  "learner_id": "LRN-2026-000066",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T07:02:00Z",
+  "word_count": 3559
+ },
+ {
+  "submission_id": "SUB-2026-000774",
+  "learner_id": "LRN-2026-000136",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T23:25:00Z",
+  "word_count": 1074
+ },
+ {
+  "submission_id": "SUB-2026-000775",
+  "learner_id": "LRN-2026-000008",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T19:50:00Z",
+  "word_count": 1559
+ },
+ {
+  "submission_id": "SUB-2026-000776",
+  "learner_id": "LRN-2026-000105",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-25T21:51:00Z",
+  "word_count": 939
+ },
+ {
+  "submission_id": "SUB-2026-000777",
+  "learner_id": "LRN-2026-000149",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T20:46:00Z",
+  "word_count": 626
+ },
+ {
+  "submission_id": "SUB-2026-000778",
+  "learner_id": "LRN-2026-000037",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T06:11:00Z",
+  "word_count": 3128
+ },
+ {
+  "submission_id": "SUB-2026-000779",
+  "learner_id": "LRN-2026-000009",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T11:26:00Z",
+  "word_count": 2263
+ },
+ {
+  "submission_id": "SUB-2026-000780",
+  "learner_id": "LRN-2026-000074",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T19:05:00Z",
+  "word_count": 3779
+ },
+ {
+  "submission_id": "SUB-2026-000781",
+  "learner_id": "LRN-2026-000124",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T14:32:00Z",
+  "word_count": 885
+ },
+ {
+  "submission_id": "SUB-2026-000782",
+  "learner_id": "LRN-2026-000055",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T23:31:00Z",
+  "word_count": 2119
+ },
+ {
+  "submission_id": "SUB-2026-000783",
+  "learner_id": "LRN-2026-000001",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T11:14:00Z",
+  "word_count": 2621
+ },
+ {
+  "submission_id": "SUB-2026-000784",
+  "learner_id": "LRN-2026-000041",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T05:18:00Z",
+  "word_count": 1639
+ },
+ {
+  "submission_id": "SUB-2026-000785",
+  "learner_id": "LRN-2026-000111",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-25T22:39:00Z",
+  "word_count": 4197
+ },
+ {
+  "submission_id": "SUB-2026-000786",
+  "learner_id": "LRN-2026-000072",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T14:36:00Z",
+  "word_count": 2128
+ },
+ {
+  "submission_id": "SUB-2026-000787",
+  "learner_id": "LRN-2026-000029",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T14:30:00Z",
+  "word_count": 1087
+ },
+ {
+  "submission_id": "SUB-2026-000788",
+  "learner_id": "LRN-2026-000080",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T19:31:00Z",
+  "word_count": 2341
+ },
+ {
+  "submission_id": "SUB-2026-000789",
+  "learner_id": "LRN-2026-000065",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T08:59:00Z",
+  "word_count": 1420
+ },
+ {
+  "submission_id": "SUB-2026-000790",
+  "learner_id": "LRN-2026-000092",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T14:17:00Z",
+  "word_count": 926
+ },
+ {
+  "submission_id": "SUB-2026-000791",
+  "learner_id": "LRN-2026-000093",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T20:48:00Z",
+  "word_count": 4196
+ },
+ {
+  "submission_id": "SUB-2026-000792",
+  "learner_id": "LRN-2026-000086",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T21:05:00Z",
+  "word_count": 1973
+ },
+ {
+  "submission_id": "SUB-2026-000793",
+  "learner_id": "LRN-2026-000044",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T05:10:00Z",
+  "word_count": 414
+ },
+ {
+  "submission_id": "SUB-2026-000794",
+  "learner_id": "LRN-2026-000191",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T02:44:00Z",
+  "word_count": 1640
+ },
+ {
+  "submission_id": "SUB-2026-000795",
+  "learner_id": "LRN-2026-000143",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T11:23:00Z",
+  "word_count": 3056
+ },
+ {
+  "submission_id": "SUB-2026-000796",
+  "learner_id": "LRN-2026-000104",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T17:00:00Z",
+  "word_count": 2339
+ },
+ {
+  "submission_id": "SUB-2026-000797",
+  "learner_id": "LRN-2026-000096",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T20:40:00Z",
+  "word_count": 2780
+ },
+ {
+  "submission_id": "SUB-2026-000798",
+  "learner_id": "LRN-2026-000083",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T00:25:00Z",
+  "word_count": 858
+ },
+ {
+  "submission_id": "SUB-2026-000799",
+  "learner_id": "LRN-2026-000199",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T23:55:00Z",
+  "word_count": 3297
+ },
+ {
+  "submission_id": "SUB-2026-000800",
+  "learner_id": "LRN-2026-000156",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T11:15:00Z",
+  "word_count": 3188
+ },
+ {
+  "submission_id": "SUB-2026-000801",
+  "learner_id": "LRN-2026-000080",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T19:21:00Z",
+  "word_count": 1731
+ },
+ {
+  "submission_id": "SUB-2026-000802",
+  "learner_id": "LRN-2026-000095",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T11:59:00Z",
+  "word_count": 4157
+ },
+ {
+  "submission_id": "SUB-2026-000803",
+  "learner_id": "LRN-2026-000030",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T02:40:00Z",
+  "word_count": 2381
+ },
+ {
+  "submission_id": "SUB-2026-000804",
+  "learner_id": "LRN-2026-000193",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T02:43:00Z",
+  "word_count": 3260
+ },
+ {
+  "submission_id": "SUB-2026-000805",
+  "learner_id": "LRN-2026-000022",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T22:13:00Z",
+  "word_count": 1744
+ },
+ {
+  "submission_id": "SUB-2026-000806",
+  "learner_id": "LRN-2026-000073",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T05:31:00Z",
+  "word_count": 2096
+ },
+ {
+  "submission_id": "SUB-2026-000807",
+  "learner_id": "LRN-2026-000011",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T21:13:00Z",
+  "word_count": 4369
+ },
+ {
+  "submission_id": "SUB-2026-000808",
+  "learner_id": "LRN-2026-000040",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T10:11:00Z",
+  "word_count": 4208
+ },
+ {
+  "submission_id": "SUB-2026-000809",
+  "learner_id": "LRN-2026-000060",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T15:31:00Z",
+  "word_count": 2342
+ },
+ {
+  "submission_id": "SUB-2026-000810",
+  "learner_id": "LRN-2026-000051",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T16:58:00Z",
+  "word_count": 671
+ },
+ {
+  "submission_id": "SUB-2026-000811",
+  "learner_id": "LRN-2026-000155",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T19:57:00Z",
+  "word_count": 3339
+ },
+ {
+  "submission_id": "SUB-2026-000812",
+  "learner_id": "LRN-2026-000040",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T02:03:00Z",
+  "word_count": 4262
+ },
+ {
+  "submission_id": "SUB-2026-000813",
+  "learner_id": "LRN-2026-000034",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T10:29:00Z",
+  "word_count": 455
+ },
+ {
+  "submission_id": "SUB-2026-000814",
+  "learner_id": "LRN-2026-000087",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T01:11:00Z",
+  "word_count": 2099
+ },
+ {
+  "submission_id": "SUB-2026-000815",
+  "learner_id": "LRN-2026-000119",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T00:44:00Z",
+  "word_count": 4184
+ },
+ {
+  "submission_id": "SUB-2026-000816",
+  "learner_id": "LRN-2026-000166",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T22:39:00Z",
+  "word_count": 1377
+ },
+ {
+  "submission_id": "SUB-2026-000817",
+  "learner_id": "LRN-2026-000095",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T02:56:00Z",
+  "word_count": 844
+ },
+ {
+  "submission_id": "SUB-2026-000818",
+  "learner_id": "LRN-2026-000156",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T08:56:00Z",
+  "word_count": 559
+ },
+ {
+  "submission_id": "SUB-2026-000819",
+  "learner_id": "LRN-2026-000049",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T03:44:00Z",
+  "word_count": 3248
+ },
+ {
+  "submission_id": "SUB-2026-000820",
+  "learner_id": "LRN-2026-000066",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T03:31:00Z",
+  "word_count": 3229
+ },
+ {
+  "submission_id": "SUB-2026-000821",
+  "learner_id": "LRN-2026-000131",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T05:14:00Z",
+  "word_count": 2602
+ },
+ {
+  "submission_id": "SUB-2026-000822",
+  "learner_id": "LRN-2026-000133",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T02:20:00Z",
+  "word_count": 1415
+ },
+ {
+  "submission_id": "SUB-2026-000823",
+  "learner_id": "LRN-2026-000096",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T15:25:00Z",
+  "word_count": 725
+ },
+ {
+  "submission_id": "SUB-2026-000824",
+  "learner_id": "LRN-2026-000189",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T06:10:00Z",
+  "word_count": 2896
+ },
+ {
+  "submission_id": "SUB-2026-000825",
+  "learner_id": "LRN-2026-000125",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T18:40:00Z",
+  "word_count": 2218
+ },
+ {
+  "submission_id": "SUB-2026-000826",
+  "learner_id": "LRN-2026-000010",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T20:43:00Z",
+  "word_count": 312
+ },
+ {
+  "submission_id": "SUB-2026-000827",
+  "learner_id": "LRN-2026-000025",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T08:24:00Z",
+  "word_count": 734
+ },
+ {
+  "submission_id": "SUB-2026-000828",
+  "learner_id": "LRN-2026-000128",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T09:42:00Z",
+  "word_count": 1755
+ },
+ {
+  "submission_id": "SUB-2026-000829",
+  "learner_id": "LRN-2026-000016",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T21:50:00Z",
+  "word_count": 4110
+ },
+ {
+  "submission_id": "SUB-2026-000830",
+  "learner_id": "LRN-2026-000079",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T15:47:00Z",
+  "word_count": 2247
+ },
+ {
+  "submission_id": "SUB-2026-000831",
+  "learner_id": "LRN-2026-000179",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T03:06:00Z",
+  "word_count": 1252
+ },
+ {
+  "submission_id": "SUB-2026-000832",
+  "learner_id": "LRN-2026-000128",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T07:27:00Z",
+  "word_count": 3589
+ },
+ {
+  "submission_id": "SUB-2026-000833",
+  "learner_id": "LRN-2026-000192",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T23:46:00Z",
+  "word_count": 4080
+ },
+ {
+  "submission_id": "SUB-2026-000834",
+  "learner_id": "LRN-2026-000104",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T08:18:00Z",
+  "word_count": 3494
+ },
+ {
+  "submission_id": "SUB-2026-000835",
+  "learner_id": "LRN-2026-000062",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T13:47:00Z",
+  "word_count": 2454
+ },
+ {
+  "submission_id": "SUB-2026-000836",
+  "learner_id": "LRN-2026-000063",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T23:33:00Z",
+  "word_count": 320
+ },
+ {
+  "submission_id": "SUB-2026-000837",
+  "learner_id": "LRN-2026-000096",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T05:41:00Z",
+  "word_count": 3907
+ },
+ {
+  "submission_id": "SUB-2026-000838",
+  "learner_id": "LRN-2026-000035",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T02:18:00Z",
+  "word_count": 2310
+ },
+ {
+  "submission_id": "SUB-2026-000839",
+  "learner_id": "LRN-2026-000029",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T14:19:00Z",
+  "word_count": 3351
+ },
+ {
+  "submission_id": "SUB-2026-000840",
+  "learner_id": "LRN-2026-000062",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T17:24:00Z",
+  "word_count": 402
+ },
+ {
+  "submission_id": "SUB-2026-000841",
+  "learner_id": "LRN-2026-000104",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T01:51:00Z",
+  "word_count": 4194
+ },
+ {
+  "submission_id": "SUB-2026-000842",
+  "learner_id": "LRN-2026-000167",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T14:40:00Z",
+  "word_count": 3767
+ },
+ {
+  "submission_id": "SUB-2026-000843",
+  "learner_id": "LRN-2026-000054",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T13:17:00Z",
+  "word_count": 3236
+ },
+ {
+  "submission_id": "SUB-2026-000844",
+  "learner_id": "LRN-2026-000009",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T06:36:00Z",
+  "word_count": 4075
+ },
+ {
+  "submission_id": "SUB-2026-000845",
+  "learner_id": "LRN-2026-000074",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T05:29:00Z",
+  "word_count": 2390
+ },
+ {
+  "submission_id": "SUB-2026-000846",
+  "learner_id": "LRN-2026-000191",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T10:14:00Z",
+  "word_count": 3194
+ },
+ {
+  "submission_id": "SUB-2026-000847",
+  "learner_id": "LRN-2026-000120",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T00:56:00Z",
+  "word_count": 3204
+ },
+ {
+  "submission_id": "SUB-2026-000848",
+  "learner_id": "LRN-2026-000034",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-25T13:50:00Z",
+  "word_count": 3318
+ },
+ {
+  "submission_id": "SUB-2026-000849",
+  "learner_id": "LRN-2026-000132",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T18:32:00Z",
+  "word_count": 4124
+ },
+ {
+  "submission_id": "SUB-2026-000850",
+  "learner_id": "LRN-2026-000177",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T19:59:00Z",
+  "word_count": 3576
+ },
+ {
+  "submission_id": "SUB-2026-000851",
+  "learner_id": "LRN-2026-000068",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T21:56:00Z",
+  "word_count": 1111
+ },
+ {
+  "submission_id": "SUB-2026-000852",
+  "learner_id": "LRN-2026-000086",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T06:26:00Z",
+  "word_count": 1137
+ },
+ {
+  "submission_id": "SUB-2026-000853",
+  "learner_id": "LRN-2026-000065",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T05:01:00Z",
+  "word_count": 4195
+ },
+ {
+  "submission_id": "SUB-2026-000854",
+  "learner_id": "LRN-2026-000128",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T13:08:00Z",
+  "word_count": 1254
+ },
+ {
+  "submission_id": "SUB-2026-000855",
+  "learner_id": "LRN-2026-000195",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T08:20:00Z",
+  "word_count": 4314
+ },
+ {
+  "submission_id": "SUB-2026-000856",
+  "learner_id": "LRN-2026-000032",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T02:49:00Z",
+  "word_count": 2251
+ },
+ {
+  "submission_id": "SUB-2026-000857",
+  "learner_id": "LRN-2026-000188",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T00:49:00Z",
+  "word_count": 1610
+ },
+ {
+  "submission_id": "SUB-2026-000858",
+  "learner_id": "LRN-2026-000043",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T18:17:00Z",
+  "word_count": 720
+ },
+ {
+  "submission_id": "SUB-2026-000859",
+  "learner_id": "LRN-2026-000116",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T16:49:00Z",
+  "word_count": 3973
+ },
+ {
+  "submission_id": "SUB-2026-000860",
+  "learner_id": "LRN-2026-000133",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T03:48:00Z",
+  "word_count": 1682
+ },
+ {
+  "submission_id": "SUB-2026-000861",
+  "learner_id": "LRN-2026-000057",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T02:13:00Z",
+  "word_count": 498
+ },
+ {
+  "submission_id": "SUB-2026-000862",
+  "learner_id": "LRN-2026-000107",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T06:39:00Z",
+  "word_count": 3896
+ },
+ {
+  "submission_id": "SUB-2026-000863",
+  "learner_id": "LRN-2026-000033",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T02:15:00Z",
+  "word_count": 2913
+ },
+ {
+  "submission_id": "SUB-2026-000864",
+  "learner_id": "LRN-2026-000193",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T13:34:00Z",
+  "word_count": 3298
+ },
+ {
+  "submission_id": "SUB-2026-000865",
+  "learner_id": "LRN-2026-000138",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T16:48:00Z",
+  "word_count": 1514
+ },
+ {
+  "submission_id": "SUB-2026-000866",
+  "learner_id": "LRN-2026-000157",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T00:57:00Z",
+  "word_count": 539
+ },
+ {
+  "submission_id": "SUB-2026-000867",
+  "learner_id": "LRN-2026-000110",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T02:52:00Z",
+  "word_count": 2837
+ },
+ {
+  "submission_id": "SUB-2026-000868",
+  "learner_id": "LRN-2026-000094",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T05:59:00Z",
+  "word_count": 3885
+ },
+ {
+  "submission_id": "SUB-2026-000869",
+  "learner_id": "LRN-2026-000138",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T14:31:00Z",
+  "word_count": 942
+ },
+ {
+  "submission_id": "SUB-2026-000870",
+  "learner_id": "LRN-2026-000187",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T11:39:00Z",
+  "word_count": 1948
+ },
+ {
+  "submission_id": "SUB-2026-000871",
+  "learner_id": "LRN-2026-000028",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T00:55:00Z",
+  "word_count": 590
+ },
+ {
+  "submission_id": "SUB-2026-000872",
+  "learner_id": "LRN-2026-000004",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T04:40:00Z",
+  "word_count": 499
+ },
+ {
+  "submission_id": "SUB-2026-000873",
+  "learner_id": "LRN-2026-000050",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T16:43:00Z",
+  "word_count": 3125
+ },
+ {
+  "submission_id": "SUB-2026-000874",
+  "learner_id": "LRN-2026-000079",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T20:04:00Z",
+  "word_count": 730
+ },
+ {
+  "submission_id": "SUB-2026-000875",
+  "learner_id": "LRN-2026-000140",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T17:00:00Z",
+  "word_count": 2904
+ },
+ {
+  "submission_id": "SUB-2026-000876",
+  "learner_id": "LRN-2026-000166",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T05:08:00Z",
+  "word_count": 3547
+ },
+ {
+  "submission_id": "SUB-2026-000877",
+  "learner_id": "LRN-2026-000132",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T09:55:00Z",
+  "word_count": 1532
+ },
+ {
+  "submission_id": "SUB-2026-000878",
+  "learner_id": "LRN-2026-000073",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T02:40:00Z",
+  "word_count": 1044
+ },
+ {
+  "submission_id": "SUB-2026-000879",
+  "learner_id": "LRN-2026-000188",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T00:27:00Z",
+  "word_count": 2362
+ },
+ {
+  "submission_id": "SUB-2026-000880",
+  "learner_id": "LRN-2026-000130",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T08:52:00Z",
+  "word_count": 1334
+ },
+ {
+  "submission_id": "SUB-2026-000881",
+  "learner_id": "LRN-2026-000151",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T12:18:00Z",
+  "word_count": 442
+ },
+ {
+  "submission_id": "SUB-2026-000882",
+  "learner_id": "LRN-2026-000197",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T16:05:00Z",
+  "word_count": 1691
+ },
+ {
+  "submission_id": "SUB-2026-000883",
+  "learner_id": "LRN-2026-000069",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T17:09:00Z",
+  "word_count": 1149
+ },
+ {
+  "submission_id": "SUB-2026-000884",
+  "learner_id": "LRN-2026-000155",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T06:58:00Z",
+  "word_count": 1464
+ },
+ {
+  "submission_id": "SUB-2026-000885",
+  "learner_id": "LRN-2026-000180",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T04:12:00Z",
+  "word_count": 2283
+ },
+ {
+  "submission_id": "SUB-2026-000886",
+  "learner_id": "LRN-2026-000077",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T22:07:00Z",
+  "word_count": 1375
+ },
+ {
+  "submission_id": "SUB-2026-000887",
+  "learner_id": "LRN-2026-000171",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T01:09:00Z",
+  "word_count": 3695
+ },
+ {
+  "submission_id": "SUB-2026-000888",
+  "learner_id": "LRN-2026-000100",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T16:02:00Z",
+  "word_count": 2908
+ },
+ {
+  "submission_id": "SUB-2026-000889",
+  "learner_id": "LRN-2026-000042",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T01:04:00Z",
+  "word_count": 3476
+ },
+ {
+  "submission_id": "SUB-2026-000890",
+  "learner_id": "LRN-2026-000048",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T13:41:00Z",
+  "word_count": 4078
+ },
+ {
+  "submission_id": "SUB-2026-000891",
+  "learner_id": "LRN-2026-000050",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T12:48:00Z",
+  "word_count": 1783
+ },
+ {
+  "submission_id": "SUB-2026-000892",
+  "learner_id": "LRN-2026-000140",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T10:17:00Z",
+  "word_count": 4444
+ },
+ {
+  "submission_id": "SUB-2026-000893",
+  "learner_id": "LRN-2026-000081",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T12:07:00Z",
+  "word_count": 1155
+ },
+ {
+  "submission_id": "SUB-2026-000894",
+  "learner_id": "LRN-2026-000026",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T12:46:00Z",
+  "word_count": 971
+ },
+ {
+  "submission_id": "SUB-2026-000895",
+  "learner_id": "LRN-2026-000190",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T00:38:00Z",
+  "word_count": 3266
+ },
+ {
+  "submission_id": "SUB-2026-000896",
+  "learner_id": "LRN-2026-000002",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T01:25:00Z",
+  "word_count": 1379
+ },
+ {
+  "submission_id": "SUB-2026-000897",
+  "learner_id": "LRN-2026-000090",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T09:41:00Z",
+  "word_count": 1640
+ },
+ {
+  "submission_id": "SUB-2026-000898",
+  "learner_id": "LRN-2026-000053",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T03:51:00Z",
+  "word_count": 3449
+ },
+ {
+  "submission_id": "SUB-2026-000899",
+  "learner_id": "LRN-2026-000185",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T07:53:00Z",
+  "word_count": 4433
+ },
+ {
+  "submission_id": "SUB-2026-000900",
+  "learner_id": "LRN-2026-000117",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T13:31:00Z",
+  "word_count": 940
+ },
+ {
+  "submission_id": "SUB-2026-000901",
+  "learner_id": "LRN-2026-000027",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T07:31:00Z",
+  "word_count": 3072
+ },
+ {
+  "submission_id": "SUB-2026-000902",
+  "learner_id": "LRN-2026-000187",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T06:21:00Z",
+  "word_count": 3021
+ },
+ {
+  "submission_id": "SUB-2026-000903",
+  "learner_id": "LRN-2026-000069",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T02:27:00Z",
+  "word_count": 1446
+ },
+ {
+  "submission_id": "SUB-2026-000904",
+  "learner_id": "LRN-2026-000175",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T05:43:00Z",
+  "word_count": 2203
+ },
+ {
+  "submission_id": "SUB-2026-000905",
+  "learner_id": "LRN-2026-000152",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T03:02:00Z",
+  "word_count": 4241
+ },
+ {
+  "submission_id": "SUB-2026-000906",
+  "learner_id": "LRN-2026-000181",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-24T19:44:00Z",
+  "word_count": 1014
+ },
+ {
+  "submission_id": "SUB-2026-000907",
+  "learner_id": "LRN-2026-000130",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T07:24:00Z",
+  "word_count": 2803
+ },
+ {
+  "submission_id": "SUB-2026-000908",
+  "learner_id": "LRN-2026-000098",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T18:33:00Z",
+  "word_count": 1205
+ },
+ {
+  "submission_id": "SUB-2026-000909",
+  "learner_id": "LRN-2026-000126",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T17:35:00Z",
+  "word_count": 1208
+ },
+ {
+  "submission_id": "SUB-2026-000910",
+  "learner_id": "LRN-2026-000183",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T17:51:00Z",
+  "word_count": 2987
+ },
+ {
+  "submission_id": "SUB-2026-000911",
+  "learner_id": "LRN-2026-000196",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T15:00:00Z",
+  "word_count": 3225
+ },
+ {
+  "submission_id": "SUB-2026-000912",
+  "learner_id": "LRN-2026-000040",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T03:46:00Z",
+  "word_count": 929
+ },
+ {
+  "submission_id": "SUB-2026-000913",
+  "learner_id": "LRN-2026-000094",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T00:48:00Z",
+  "word_count": 3853
+ },
+ {
+  "submission_id": "SUB-2026-000914",
+  "learner_id": "LRN-2026-000166",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T09:59:00Z",
+  "word_count": 2846
+ },
+ {
+  "submission_id": "SUB-2026-000915",
+  "learner_id": "LRN-2026-000192",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T23:57:00Z",
+  "word_count": 2205
+ },
+ {
+  "submission_id": "SUB-2026-000916",
+  "learner_id": "LRN-2026-000039",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T05:50:00Z",
+  "word_count": 3229
+ },
+ {
+  "submission_id": "SUB-2026-000917",
+  "learner_id": "LRN-2026-000150",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T04:06:00Z",
+  "word_count": 633
+ },
+ {
+  "submission_id": "SUB-2026-000918",
+  "learner_id": "LRN-2026-000151",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T21:24:00Z",
+  "word_count": 4390
+ },
+ {
+  "submission_id": "SUB-2026-000919",
+  "learner_id": "LRN-2026-000200",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T23:04:00Z",
+  "word_count": 1225
+ },
+ {
+  "submission_id": "SUB-2026-000920",
+  "learner_id": "LRN-2026-000027",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T04:06:00Z",
+  "word_count": 2504
+ },
+ {
+  "submission_id": "SUB-2026-000921",
+  "learner_id": "LRN-2026-000055",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T17:57:00Z",
+  "word_count": 2826
+ },
+ {
+  "submission_id": "SUB-2026-000922",
+  "learner_id": "LRN-2026-000049",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T12:40:00Z",
+  "word_count": 4474
+ },
+ {
+  "submission_id": "SUB-2026-000923",
+  "learner_id": "LRN-2026-000042",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T12:10:00Z",
+  "word_count": 2834
+ },
+ {
+  "submission_id": "SUB-2026-000924",
+  "learner_id": "LRN-2026-000044",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T07:36:00Z",
+  "word_count": 2268
+ },
+ {
+  "submission_id": "SUB-2026-000925",
+  "learner_id": "LRN-2026-000016",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T12:08:00Z",
+  "word_count": 1606
+ },
+ {
+  "submission_id": "SUB-2026-000926",
+  "learner_id": "LRN-2026-000161",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T12:05:00Z",
+  "word_count": 797
+ },
+ {
+  "submission_id": "SUB-2026-000927",
+  "learner_id": "LRN-2026-000078",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T19:00:00Z",
+  "word_count": 2128
+ },
+ {
+  "submission_id": "SUB-2026-000928",
+  "learner_id": "LRN-2026-000169",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T13:45:00Z",
+  "word_count": 3865
+ },
+ {
+  "submission_id": "SUB-2026-000929",
+  "learner_id": "LRN-2026-000129",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T00:05:00Z",
+  "word_count": 2174
+ },
+ {
+  "submission_id": "SUB-2026-000930",
+  "learner_id": "LRN-2026-000029",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T06:45:00Z",
+  "word_count": 2759
+ },
+ {
+  "submission_id": "SUB-2026-000931",
+  "learner_id": "LRN-2026-000144",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T03:31:00Z",
+  "word_count": 4031
+ },
+ {
+  "submission_id": "SUB-2026-000932",
+  "learner_id": "LRN-2026-000076",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-06T10:03:00Z",
+  "word_count": 3296
+ },
+ {
+  "submission_id": "SUB-2026-000933",
+  "learner_id": "LRN-2026-000159",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T00:06:00Z",
+  "word_count": 1841
+ },
+ {
+  "submission_id": "SUB-2026-000934",
+  "learner_id": "LRN-2026-000019",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T21:04:00Z",
+  "word_count": 1523
+ },
+ {
+  "submission_id": "SUB-2026-000935",
+  "learner_id": "LRN-2026-000062",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T22:01:00Z",
+  "word_count": 1422
+ },
+ {
+  "submission_id": "SUB-2026-000936",
+  "learner_id": "LRN-2026-000032",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T09:35:00Z",
+  "word_count": 3580
+ },
+ {
+  "submission_id": "SUB-2026-000937",
+  "learner_id": "LRN-2026-000006",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T01:47:00Z",
+  "word_count": 2882
+ },
+ {
+  "submission_id": "SUB-2026-000938",
+  "learner_id": "LRN-2026-000158",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T16:43:00Z",
+  "word_count": 2596
+ },
+ {
+  "submission_id": "SUB-2026-000939",
+  "learner_id": "LRN-2026-000106",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T19:36:00Z",
+  "word_count": 2577
+ },
+ {
+  "submission_id": "SUB-2026-000940",
+  "learner_id": "LRN-2026-000174",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T17:43:00Z",
+  "word_count": 3774
+ },
+ {
+  "submission_id": "SUB-2026-000941",
+  "learner_id": "LRN-2026-000118",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T22:38:00Z",
+  "word_count": 733
+ },
+ {
+  "submission_id": "SUB-2026-000942",
+  "learner_id": "LRN-2026-000104",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T23:39:00Z",
+  "word_count": 2684
+ },
+ {
+  "submission_id": "SUB-2026-000943",
+  "learner_id": "LRN-2026-000178",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T10:27:00Z",
+  "word_count": 3799
+ },
+ {
+  "submission_id": "SUB-2026-000944",
+  "learner_id": "LRN-2026-000014",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T01:12:00Z",
+  "word_count": 2525
+ },
+ {
+  "submission_id": "SUB-2026-000945",
+  "learner_id": "LRN-2026-000183",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-15T03:05:00Z",
+  "word_count": 4364
+ },
+ {
+  "submission_id": "SUB-2026-000946",
+  "learner_id": "LRN-2026-000157",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-15T22:34:00Z",
+  "word_count": 3740
+ },
+ {
+  "submission_id": "SUB-2026-000947",
+  "learner_id": "LRN-2026-000132",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T06:44:00Z",
+  "word_count": 3784
+ },
+ {
+  "submission_id": "SUB-2026-000948",
+  "learner_id": "LRN-2026-000096",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T21:14:00Z",
+  "word_count": 2787
+ },
+ {
+  "submission_id": "SUB-2026-000949",
+  "learner_id": "LRN-2026-000153",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T18:20:00Z",
+  "word_count": 3484
+ },
+ {
+  "submission_id": "SUB-2026-000950",
+  "learner_id": "LRN-2026-000139",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T11:14:00Z",
+  "word_count": 3383
+ },
+ {
+  "submission_id": "SUB-2026-000951",
+  "learner_id": "LRN-2026-000104",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T22:56:00Z",
+  "word_count": 1679
+ },
+ {
+  "submission_id": "SUB-2026-000952",
+  "learner_id": "LRN-2026-000001",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T20:07:00Z",
+  "word_count": 1347
+ },
+ {
+  "submission_id": "SUB-2026-000953",
+  "learner_id": "LRN-2026-000022",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T15:05:00Z",
+  "word_count": 1778
+ },
+ {
+  "submission_id": "SUB-2026-000954",
+  "learner_id": "LRN-2026-000051",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-16T02:53:00Z",
+  "word_count": 1674
+ },
+ {
+  "submission_id": "SUB-2026-000955",
+  "learner_id": "LRN-2026-000007",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T16:25:00Z",
+  "word_count": 827
+ },
+ {
+  "submission_id": "SUB-2026-000956",
+  "learner_id": "LRN-2026-000103",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-02T07:08:00Z",
+  "word_count": 676
+ },
+ {
+  "submission_id": "SUB-2026-000957",
+  "learner_id": "LRN-2026-000186",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T10:46:00Z",
+  "word_count": 4018
+ },
+ {
+  "submission_id": "SUB-2026-000958",
+  "learner_id": "LRN-2026-000152",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-26T03:52:00Z",
+  "word_count": 1299
+ },
+ {
+  "submission_id": "SUB-2026-000959",
+  "learner_id": "LRN-2026-000037",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T17:12:00Z",
+  "word_count": 935
+ },
+ {
+  "submission_id": "SUB-2026-000960",
+  "learner_id": "LRN-2026-000193",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-13T22:04:00Z",
+  "word_count": 3665
+ },
+ {
+  "submission_id": "SUB-2026-000961",
+  "learner_id": "LRN-2026-000164",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T18:01:00Z",
+  "word_count": 1559
+ },
+ {
+  "submission_id": "SUB-2026-000962",
+  "learner_id": "LRN-2026-000135",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T12:22:00Z",
+  "word_count": 1455
+ },
+ {
+  "submission_id": "SUB-2026-000963",
+  "learner_id": "LRN-2026-000143",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-05T07:32:00Z",
+  "word_count": 4413
+ },
+ {
+  "submission_id": "SUB-2026-000964",
+  "learner_id": "LRN-2026-000018",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T07:17:00Z",
+  "word_count": 3144
+ },
+ {
+  "submission_id": "SUB-2026-000965",
+  "learner_id": "LRN-2026-000042",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T19:59:00Z",
+  "word_count": 2320
+ },
+ {
+  "submission_id": "SUB-2026-000966",
+  "learner_id": "LRN-2026-000093",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T10:09:00Z",
+  "word_count": 3097
+ },
+ {
+  "submission_id": "SUB-2026-000967",
+  "learner_id": "LRN-2026-000084",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-18T04:45:00Z",
+  "word_count": 3336
+ },
+ {
+  "submission_id": "SUB-2026-000968",
+  "learner_id": "LRN-2026-000183",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T01:02:00Z",
+  "word_count": 1109
+ },
+ {
+  "submission_id": "SUB-2026-000969",
+  "learner_id": "LRN-2026-000005",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T22:38:00Z",
+  "word_count": 4126
+ },
+ {
+  "submission_id": "SUB-2026-000970",
+  "learner_id": "LRN-2026-000051",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T17:21:00Z",
+  "word_count": 3897
+ },
+ {
+  "submission_id": "SUB-2026-000971",
+  "learner_id": "LRN-2026-000070",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T18:41:00Z",
+  "word_count": 1576
+ },
+ {
+  "submission_id": "SUB-2026-000972",
+  "learner_id": "LRN-2026-000100",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T21:55:00Z",
+  "word_count": 379
+ },
+ {
+  "submission_id": "SUB-2026-000973",
+  "learner_id": "LRN-2026-000049",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T13:11:00Z",
+  "word_count": 446
+ },
+ {
+  "submission_id": "SUB-2026-000974",
+  "learner_id": "LRN-2026-000022",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-16T03:45:00Z",
+  "word_count": 878
+ },
+ {
+  "submission_id": "SUB-2026-000975",
+  "learner_id": "LRN-2026-000078",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T12:36:00Z",
+  "word_count": 4380
+ },
+ {
+  "submission_id": "SUB-2026-000976",
+  "learner_id": "LRN-2026-000110",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-12T02:57:00Z",
+  "word_count": 3777
+ },
+ {
+  "submission_id": "SUB-2026-000977",
+  "learner_id": "LRN-2026-000071",
+  "assessment_id": "ASM-2026-0005",
+  "submitted_at": "2026-04-27T21:02:00Z",
+  "word_count": 3026
+ },
+ {
+  "submission_id": "SUB-2026-000978",
+  "learner_id": "LRN-2026-000154",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-02-28T11:03:00Z",
+  "word_count": 923
+ },
+ {
+  "submission_id": "SUB-2026-000979",
+  "learner_id": "LRN-2026-000054",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T11:02:00Z",
+  "word_count": 3421
+ },
+ {
+  "submission_id": "SUB-2026-000980",
+  "learner_id": "LRN-2026-000196",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T21:31:00Z",
+  "word_count": 1330
+ },
+ {
+  "submission_id": "SUB-2026-000981",
+  "learner_id": "LRN-2026-000140",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T00:23:00Z",
+  "word_count": 637
+ },
+ {
+  "submission_id": "SUB-2026-000982",
+  "learner_id": "LRN-2026-000143",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-23T14:21:00Z",
+  "word_count": 1104
+ },
+ {
+  "submission_id": "SUB-2026-000983",
+  "learner_id": "LRN-2026-000062",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T11:25:00Z",
+  "word_count": 2399
+ },
+ {
+  "submission_id": "SUB-2026-000984",
+  "learner_id": "LRN-2026-000015",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T02:17:00Z",
+  "word_count": 1021
+ },
+ {
+  "submission_id": "SUB-2026-000985",
+  "learner_id": "LRN-2026-000077",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T16:54:00Z",
+  "word_count": 3087
+ },
+ {
+  "submission_id": "SUB-2026-000986",
+  "learner_id": "LRN-2026-000126",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-16T04:42:00Z",
+  "word_count": 901
+ },
+ {
+  "submission_id": "SUB-2026-000987",
+  "learner_id": "LRN-2026-000059",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-11T23:40:00Z",
+  "word_count": 930
+ },
+ {
+  "submission_id": "SUB-2026-000988",
+  "learner_id": "LRN-2026-000001",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T08:16:00Z",
+  "word_count": 2319
+ },
+ {
+  "submission_id": "SUB-2026-000989",
+  "learner_id": "LRN-2026-000061",
+  "assessment_id": "ASM-2026-0004",
+  "submitted_at": "2026-02-22T10:59:00Z",
+  "word_count": 3212
+ },
+ {
+  "submission_id": "SUB-2026-000990",
+  "learner_id": "LRN-2026-000009",
+  "assessment_id": "ASM-2026-0002",
+  "submitted_at": "2026-03-01T09:00:00Z",
+  "word_count": 4160
+ },
+ {
+  "submission_id": "SUB-2026-000991",
+  "learner_id": "LRN-2026-000054",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-17T07:53:00Z",
+  "word_count": 3990
+ },
+ {
+  "submission_id": "SUB-2026-000992",
+  "learner_id": "LRN-2026-000108",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-14T18:14:00Z",
+  "word_count": 519
+ },
+ {
+  "submission_id": "SUB-2026-000993",
+  "learner_id": "LRN-2026-000010",
+  "assessment_id": "ASM-2026-0007",
+  "submitted_at": "2026-02-14T16:18:00Z",
+  "word_count": 1328
+ },
+ {
+  "submission_id": "SUB-2026-000994",
+  "learner_id": "LRN-2026-000024",
+  "assessment_id": "ASM-2026-0010",
+  "submitted_at": "2026-02-17T08:46:00Z",
+  "word_count": 3432
+ },
+ {
+  "submission_id": "SUB-2026-000995",
+  "learner_id": "LRN-2026-000108",
+  "assessment_id": "ASM-2026-0008",
+  "submitted_at": "2026-04-15T12:28:00Z",
+  "word_count": 2475
+ },
+ {
+  "submission_id": "SUB-2026-000996",
+  "learner_id": "LRN-2026-000191",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-15T22:00:00Z",
+  "word_count": 406
+ },
+ {
+  "submission_id": "SUB-2026-000997",
+  "learner_id": "LRN-2026-000039",
+  "assessment_id": "ASM-2026-0003",
+  "submitted_at": "2026-01-17T14:35:00Z",
+  "word_count": 1505
+ },
+ {
+  "submission_id": "SUB-2026-000998",
+  "learner_id": "LRN-2026-000047",
+  "assessment_id": "ASM-2026-0006",
+  "submitted_at": "2026-05-07T16:36:00Z",
+  "word_count": 1040
+ },
+ {
+  "submission_id": "SUB-2026-000999",
+  "learner_id": "LRN-2026-000009",
+  "assessment_id": "ASM-2026-0001",
+  "submitted_at": "2026-03-13T21:12:00Z",
+  "word_count": 882
+ },
+ {
+  "submission_id": "SUB-2026-001000",
+  "learner_id": "LRN-2026-000065",
+  "assessment_id": "ASM-2026-0009",
+  "submitted_at": "2026-04-13T17:14:00Z",
+  "word_count": 1946
+ }
+]

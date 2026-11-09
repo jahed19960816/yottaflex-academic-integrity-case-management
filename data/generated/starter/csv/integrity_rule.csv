@@ -1,0 +1,3 @@
+integrity_rule_id,name,version,low_threshold,standard_threshold,priority_threshold,effective_from,effective_to,description
+INT-2026-000001,Similarity review policy,1,25.0,45.0,65.0,2025-09-01T00:00:00Z,2026-03-01T00:00:00Z,"Synthetic demo policy v1. Score is a review signal only, never proof of misconduct."
+INT-2026-000002,Similarity review policy,2,20.0,40.0,60.0,2026-03-01T00:00:00Z,,"Synthetic demo policy v2 (lower thresholds). Score is a review signal only, never proof of misconduct."

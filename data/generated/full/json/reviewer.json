@@ -1,0 +1,282 @@
+[
+ {
+  "reviewer_id": "REV-2026-0001",
+  "full_name": "Synthetic Reviewer 0001",
+  "email": "reviewer0001@staff.example.org",
+  "department": "Computer Science",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0002",
+  "full_name": "Synthetic Reviewer 0002",
+  "email": "reviewer0002@staff.example.org",
+  "department": "Business",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0003",
+  "full_name": "Synthetic Reviewer 0003",
+  "email": "reviewer0003@staff.example.org",
+  "department": "Engineering",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0004",
+  "full_name": "Synthetic Reviewer 0004",
+  "email": "reviewer0004@staff.example.org",
+  "department": "Environmental Science",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0005",
+  "full_name": "Synthetic Reviewer 0005",
+  "email": "reviewer0005@staff.example.org",
+  "department": "Academic Integrity Office",
+  "reviewer_role": "integrity_officer"
+ },
+ {
+  "reviewer_id": "REV-2026-0006",
+  "full_name": "Synthetic Reviewer 0006",
+  "email": "reviewer0006@staff.example.org",
+  "department": "Business",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0007",
+  "full_name": "Synthetic Reviewer 0007",
+  "email": "reviewer0007@staff.example.org",
+  "department": "Engineering",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0008",
+  "full_name": "Synthetic Reviewer 0008",
+  "email": "reviewer0008@staff.example.org",
+  "department": "Environmental Science",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0009",
+  "full_name": "Synthetic Reviewer 0009",
+  "email": "reviewer0009@staff.example.org",
+  "department": "Computer Science",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0010",
+  "full_name": "Synthetic Reviewer 0010",
+  "email": "reviewer0010@staff.example.org",
+  "department": "Academic Integrity Office",
+  "reviewer_role": "integrity_officer"
+ },
+ {
+  "reviewer_id": "REV-2026-0011",
+  "full_name": "Synthetic Reviewer 0011",
+  "email": "reviewer0011@staff.example.org",
+  "department": "Engineering",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0012",
+  "full_name": "Synthetic Reviewer 0012",
+  "email": "reviewer0012@staff.example.org",
+  "department": "Environmental Science",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0013",
+  "full_name": "Synthetic Reviewer 0013",
+  "email": "reviewer0013@staff.example.org",
+  "department": "Computer Science",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0014",
+  "full_name": "Synthetic Reviewer 0014",
+  "email": "reviewer0014@staff.example.org",
+  "department": "Business",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0015",
+  "full_name": "Synthetic Reviewer 0015",
+  "email": "reviewer0015@staff.example.org",
+  "department": "Academic Integrity Office",
+  "reviewer_role": "integrity_officer"
+ },
+ {
+  "reviewer_id": "REV-2026-0016",
+  "full_name": "Synthetic Reviewer 0016",
+  "email": "reviewer0016@staff.example.org",
+  "department": "Environmental Science",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0017",
+  "full_name": "Synthetic Reviewer 0017",
+  "email": "reviewer0017@staff.example.org",
+  "department": "Computer Science",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0018",
+  "full_name": "Synthetic Reviewer 0018",
+  "email": "reviewer0018@staff.example.org",
+  "department": "Business",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0019",
+  "full_name": "Synthetic Reviewer 0019",
+  "email": "reviewer0019@staff.example.org",
+  "department": "Engineering",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0020",
+  "full_name": "Synthetic Reviewer 0020",
+  "email": "reviewer0020@staff.example.org",
+  "department": "Academic Integrity Office",
+  "reviewer_role": "integrity_officer"
+ },
+ {
+  "reviewer_id": "REV-2026-0021",
+  "full_name": "Synthetic Reviewer 0021",
+  "email": "reviewer0021@staff.example.org",
+  "department": "Computer Science",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0022",
+  "full_name": "Synthetic Reviewer 0022",
+  "email": "reviewer0022@staff.example.org",
+  "department": "Business",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0023",
+  "full_name": "Synthetic Reviewer 0023",
+  "email": "reviewer0023@staff.example.org",
+  "department": "Engineering",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0024",
+  "full_name": "Synthetic Reviewer 0024",
+  "email": "reviewer0024@staff.example.org",
+  "department": "Environmental Science",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0025",
+  "full_name": "Synthetic Reviewer 0025",
+  "email": "reviewer0025@staff.example.org",
+  "department": "Academic Integrity Office",
+  "reviewer_role": "integrity_officer"
+ },
+ {
+  "reviewer_id": "REV-2026-0026",
+  "full_name": "Synthetic Reviewer 0026",
+  "email": "reviewer0026@staff.example.org",
+  "department": "Business",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0027",
+  "full_name": "Synthetic Reviewer 0027",
+  "email": "reviewer0027@staff.example.org",
+  "department": "Engineering",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0028",
+  "full_name": "Synthetic Reviewer 0028",
+  "email": "reviewer0028@staff.example.org",
+  "department": "Environmental Science",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0029",
+  "full_name": "Synthetic Reviewer 0029",
+  "email": "reviewer0029@staff.example.org",
+  "department": "Computer Science",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0030",
+  "full_name": "Synthetic Reviewer 0030",
+  "email": "reviewer0030@staff.example.org",
+  "department": "Academic Integrity Office",
+  "reviewer_role": "integrity_officer"
+ },
+ {
+  "reviewer_id": "REV-2026-0031",
+  "full_name": "Synthetic Reviewer 0031",
+  "email": "reviewer0031@staff.example.org",
+  "department": "Engineering",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0032",
+  "full_name": "Synthetic Reviewer 0032",
+  "email": "reviewer0032@staff.example.org",
+  "department": "Environmental Science",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0033",
+  "full_name": "Synthetic Reviewer 0033",
+  "email": "reviewer0033@staff.example.org",
+  "department": "Computer Science",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0034",
+  "full_name": "Synthetic Reviewer 0034",
+  "email": "reviewer0034@staff.example.org",
+  "department": "Business",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0035",
+  "full_name": "Synthetic Reviewer 0035",
+  "email": "reviewer0035@staff.example.org",
+  "department": "Academic Integrity Office",
+  "reviewer_role": "integrity_officer"
+ },
+ {
+  "reviewer_id": "REV-2026-0036",
+  "full_name": "Synthetic Reviewer 0036",
+  "email": "reviewer0036@staff.example.org",
+  "department": "Environmental Science",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0037",
+  "full_name": "Synthetic Reviewer 0037",
+  "email": "reviewer0037@staff.example.org",
+  "department": "Computer Science",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0038",
+  "full_name": "Synthetic Reviewer 0038",
+  "email": "reviewer0038@staff.example.org",
+  "department": "Business",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0039",
+  "full_name": "Synthetic Reviewer 0039",
+  "email": "reviewer0039@staff.example.org",
+  "department": "Engineering",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0040",
+  "full_name": "Synthetic Reviewer 0040",
+  "email": "reviewer0040@staff.example.org",
+  "department": "Academic Integrity Office",
+  "reviewer_role": "integrity_officer"
+ }
+]

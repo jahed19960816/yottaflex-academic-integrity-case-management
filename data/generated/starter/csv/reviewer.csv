@@ -1,0 +1,13 @@
+reviewer_id,full_name,email,department,reviewer_role
+REV-2026-0001,Synthetic Reviewer 0001,reviewer0001@staff.example.org,Computer Science,academic_reviewer
+REV-2026-0002,Synthetic Reviewer 0002,reviewer0002@staff.example.org,Business,academic_reviewer
+REV-2026-0003,Synthetic Reviewer 0003,reviewer0003@staff.example.org,Engineering,academic_reviewer
+REV-2026-0004,Synthetic Reviewer 0004,reviewer0004@staff.example.org,Environmental Science,academic_reviewer
+REV-2026-0005,Synthetic Reviewer 0005,reviewer0005@staff.example.org,Academic Integrity Office,integrity_officer
+REV-2026-0006,Synthetic Reviewer 0006,reviewer0006@staff.example.org,Business,academic_reviewer
+REV-2026-0007,Synthetic Reviewer 0007,reviewer0007@staff.example.org,Engineering,academic_reviewer
+REV-2026-0008,Synthetic Reviewer 0008,reviewer0008@staff.example.org,Environmental Science,academic_reviewer
+REV-2026-0009,Synthetic Reviewer 0009,reviewer0009@staff.example.org,Computer Science,academic_reviewer
+REV-2026-0010,Synthetic Reviewer 0010,reviewer0010@staff.example.org,Academic Integrity Office,integrity_officer
+REV-2026-0011,Synthetic Reviewer 0011,reviewer0011@staff.example.org,Engineering,academic_reviewer
+REV-2026-0012,Synthetic Reviewer 0012,reviewer0012@staff.example.org,Environmental Science,academic_reviewer

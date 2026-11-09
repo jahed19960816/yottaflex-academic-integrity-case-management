@@ -1,0 +1,11 @@
+assessment_id,course_code,title,department,assessment_type,template_provided,due_at
+ASM-2026-0001,ENV101,Lab Report 1,Environmental Science,lab_report,1,2026-03-15T23:59:00Z
+ASM-2026-0002,CSC102,Lab Report 2,Computer Science,lab_report,1,2026-03-02T23:59:00Z
+ASM-2026-0003,BUS103,Lab Report 3,Business,lab_report,1,2026-01-17T23:59:00Z
+ASM-2026-0004,ENG104,Essay 4,Engineering,essay,0,2026-02-24T23:59:00Z
+ASM-2026-0005,ENV105,Essay 5,Environmental Science,essay,0,2026-04-27T23:59:00Z
+ASM-2026-0006,CSC106,Code 6,Computer Science,code,1,2026-05-07T23:59:00Z
+ASM-2026-0007,BUS107,Report 7,Business,report,0,2026-02-15T23:59:00Z
+ASM-2026-0008,ENG108,Essay 8,Engineering,essay,0,2026-04-17T23:59:00Z
+ASM-2026-0009,ENV109,Lab Report 9,Environmental Science,lab_report,1,2026-04-13T23:59:00Z
+ASM-2026-0010,CSC110,Essay 10,Computer Science,essay,0,2026-02-18T23:59:00Z

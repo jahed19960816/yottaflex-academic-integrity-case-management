@@ -1,0 +1,86 @@
+[
+ {
+  "reviewer_id": "REV-2026-0001",
+  "full_name": "Synthetic Reviewer 0001",
+  "email": "reviewer0001@staff.example.org",
+  "department": "Computer Science",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0002",
+  "full_name": "Synthetic Reviewer 0002",
+  "email": "reviewer0002@staff.example.org",
+  "department": "Business",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0003",
+  "full_name": "Synthetic Reviewer 0003",
+  "email": "reviewer0003@staff.example.org",
+  "department": "Engineering",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0004",
+  "full_name": "Synthetic Reviewer 0004",
+  "email": "reviewer0004@staff.example.org",
+  "department": "Environmental Science",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0005",
+  "full_name": "Synthetic Reviewer 0005",
+  "email": "reviewer0005@staff.example.org",
+  "department": "Academic Integrity Office",
+  "reviewer_role": "integrity_officer"
+ },
+ {
+  "reviewer_id": "REV-2026-0006",
+  "full_name": "Synthetic Reviewer 0006",
+  "email": "reviewer0006@staff.example.org",
+  "department": "Business",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0007",
+  "full_name": "Synthetic Reviewer 0007",
+  "email": "reviewer0007@staff.example.org",
+  "department": "Engineering",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0008",
+  "full_name": "Synthetic Reviewer 0008",
+  "email": "reviewer0008@staff.example.org",
+  "department": "Environmental Science",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0009",
+  "full_name": "Synthetic Reviewer 0009",
+  "email": "reviewer0009@staff.example.org",
+  "department": "Computer Science",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0010",
+  "full_name": "Synthetic Reviewer 0010",
+  "email": "reviewer0010@staff.example.org",
+  "department": "Academic Integrity Office",
+  "reviewer_role": "integrity_officer"
+ },
+ {
+  "reviewer_id": "REV-2026-0011",
+  "full_name": "Synthetic Reviewer 0011",
+  "email": "reviewer0011@staff.example.org",
+  "department": "Engineering",
+  "reviewer_role": "academic_reviewer"
+ },
+ {
+  "reviewer_id": "REV-2026-0012",
+  "full_name": "Synthetic Reviewer 0012",
+  "email": "reviewer0012@staff.example.org",
+  "department": "Environmental Science",
+  "reviewer_role": "academic_reviewer"
+ }
+]

@@ -1,0 +1,92 @@
+[
+ {
+  "assessment_id": "ASM-2026-0001",
+  "course_code": "ENV101",
+  "title": "Lab Report 1",
+  "department": "Environmental Science",
+  "assessment_type": "lab_report",
+  "template_provided": 1,
+  "due_at": "2026-03-15T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0002",
+  "course_code": "CSC102",
+  "title": "Lab Report 2",
+  "department": "Computer Science",
+  "assessment_type": "lab_report",
+  "template_provided": 1,
+  "due_at": "2026-03-02T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0003",
+  "course_code": "BUS103",
+  "title": "Lab Report 3",
+  "department": "Business",
+  "assessment_type": "lab_report",
+  "template_provided": 1,
+  "due_at": "2026-01-17T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0004",
+  "course_code": "ENG104",
+  "title": "Essay 4",
+  "department": "Engineering",
+  "assessment_type": "essay",
+  "template_provided": 0,
+  "due_at": "2026-02-24T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0005",
+  "course_code": "ENV105",
+  "title": "Essay 5",
+  "department": "Environmental Science",
+  "assessment_type": "essay",
+  "template_provided": 0,
+  "due_at": "2026-04-27T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0006",
+  "course_code": "CSC106",
+  "title": "Code 6",
+  "department": "Computer Science",
+  "assessment_type": "code",
+  "template_provided": 1,
+  "due_at": "2026-05-07T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0007",
+  "course_code": "BUS107",
+  "title": "Report 7",
+  "department": "Business",
+  "assessment_type": "report",
+  "template_provided": 0,
+  "due_at": "2026-02-15T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0008",
+  "course_code": "ENG108",
+  "title": "Essay 8",
+  "department": "Engineering",
+  "assessment_type": "essay",
+  "template_provided": 0,
+  "due_at": "2026-04-17T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0009",
+  "course_code": "ENV109",
+  "title": "Lab Report 9",
+  "department": "Environmental Science",
+  "assessment_type": "lab_report",
+  "template_provided": 1,
+  "due_at": "2026-04-13T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0010",
+  "course_code": "CSC110",
+  "title": "Essay 10",
+  "department": "Computer Science",
+  "assessment_type": "essay",
+  "template_provided": 0,
+  "due_at": "2026-02-18T23:59:00Z"
+ }
+]

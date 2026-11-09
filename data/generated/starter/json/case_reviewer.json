@@ -1,0 +1,592 @@
+[
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000001-01",
+  "case_id": "CASE-2026-000001",
+  "reviewer_id": "REV-2026-0001",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-01-18T11:00:00Z",
+  "unassigned_at": "2026-01-27T21:00:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000001-02",
+  "case_id": "CASE-2026-000001",
+  "reviewer_id": "REV-2026-0002",
+  "assignment_role": "secondary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-01-18T11:00:00Z",
+  "unassigned_at": "2026-01-27T21:00:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000003-01",
+  "case_id": "CASE-2026-000003",
+  "reviewer_id": "REV-2026-0003",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-01-20T18:39:00Z",
+  "unassigned_at": "2026-02-11T18:39:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000003-02",
+  "case_id": "CASE-2026-000003",
+  "reviewer_id": "REV-2026-0004",
+  "assignment_role": "secondary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-01-20T18:39:00Z",
+  "unassigned_at": "2026-02-11T18:39:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000004-01",
+  "case_id": "CASE-2026-000004",
+  "reviewer_id": "REV-2026-0006",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-01-22T06:35:00Z",
+  "unassigned_at": "2026-02-20T23:35:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000004-02",
+  "case_id": "CASE-2026-000004",
+  "reviewer_id": "REV-2026-0007",
+  "assignment_role": "secondary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-01-22T06:35:00Z",
+  "unassigned_at": "2026-02-20T23:35:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000004-03",
+  "case_id": "CASE-2026-000004",
+  "reviewer_id": "REV-2026-0005",
+  "assignment_role": "appeal",
+  "assignment_status": "completed",
+  "assigned_at": "2026-02-11T12:35:00Z",
+  "unassigned_at": "2026-02-20T23:35:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000005-01",
+  "case_id": "CASE-2026-000005",
+  "reviewer_id": "REV-2026-0008",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-02-16T01:09:00Z",
+  "unassigned_at": "2026-03-11T20:09:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000005-02",
+  "case_id": "CASE-2026-000005",
+  "reviewer_id": "REV-2026-0009",
+  "assignment_role": "secondary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-02-16T01:09:00Z",
+  "unassigned_at": "2026-03-11T20:09:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000006-01",
+  "case_id": "CASE-2026-000006",
+  "reviewer_id": "REV-2026-0011",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-02-16T21:08:00Z",
+  "unassigned_at": "2026-03-16T19:08:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000007-01",
+  "case_id": "CASE-2026-000007",
+  "reviewer_id": "REV-2026-0012",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-02-17T12:48:00Z",
+  "unassigned_at": "2026-03-08T10:48:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000007-02",
+  "case_id": "CASE-2026-000007",
+  "reviewer_id": "REV-2026-0001",
+  "assignment_role": "secondary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-02-17T12:48:00Z",
+  "unassigned_at": "2026-03-08T10:48:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000007-03",
+  "case_id": "CASE-2026-000007",
+  "reviewer_id": "REV-2026-0010",
+  "assignment_role": "appeal",
+  "assignment_status": "completed",
+  "assigned_at": "2026-03-03T10:48:00Z",
+  "unassigned_at": "2026-03-08T10:48:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000008-01",
+  "case_id": "CASE-2026-000008",
+  "reviewer_id": "REV-2026-0002",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-02-17T16:48:00Z",
+  "unassigned_at": "2026-03-14T23:48:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000009-01",
+  "case_id": "CASE-2026-000009",
+  "reviewer_id": "REV-2026-0003",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-02-18T10:26:00Z",
+  "unassigned_at": "2026-03-12T15:26:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000010-01",
+  "case_id": "CASE-2026-000010",
+  "reviewer_id": "REV-2026-0004",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-02-21T03:23:00Z",
+  "unassigned_at": "2026-03-03T20:23:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000010-02",
+  "case_id": "CASE-2026-000010",
+  "reviewer_id": "REV-2026-0006",
+  "assignment_role": "secondary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-02-21T03:23:00Z",
+  "unassigned_at": "2026-03-03T20:23:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000011-01",
+  "case_id": "CASE-2026-000011",
+  "reviewer_id": "REV-2026-0007",
+  "assignment_role": "primary",
+  "assignment_status": "blocked_conflict",
+  "assigned_at": "2026-02-21T22:12:00Z",
+  "unassigned_at": "2026-02-21T22:12:00Z",
+  "status_reason": "Conflict of interest CONF-2026-000021: family relationship"
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000011-02",
+  "case_id": "CASE-2026-000011",
+  "reviewer_id": "REV-2026-0008",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-02-21T22:12:00Z",
+  "unassigned_at": "2026-03-23T16:12:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000012-01",
+  "case_id": "CASE-2026-000012",
+  "reviewer_id": "REV-2026-0007",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-02-24T08:54:00Z",
+  "unassigned_at": "2026-03-15T05:54:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000012-02",
+  "case_id": "CASE-2026-000012",
+  "reviewer_id": "REV-2026-0009",
+  "assignment_role": "secondary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-02-24T08:54:00Z",
+  "unassigned_at": "2026-03-15T05:54:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000013-01",
+  "case_id": "CASE-2026-000013",
+  "reviewer_id": "REV-2026-0011",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-02-25T18:05:00Z",
+  "unassigned_at": "2026-03-21T13:05:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000013-02",
+  "case_id": "CASE-2026-000013",
+  "reviewer_id": "REV-2026-0003",
+  "assignment_role": "secondary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-02-25T18:05:00Z",
+  "unassigned_at": "2026-03-21T13:05:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000014-01",
+  "case_id": "CASE-2026-000014",
+  "reviewer_id": "REV-2026-0012",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-03-03T20:30:00Z",
+  "unassigned_at": "2026-04-02T17:30:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000014-02",
+  "case_id": "CASE-2026-000014",
+  "reviewer_id": "REV-2026-0001",
+  "assignment_role": "secondary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-03-03T20:30:00Z",
+  "unassigned_at": "2026-04-02T17:30:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000015-01",
+  "case_id": "CASE-2026-000015",
+  "reviewer_id": "REV-2026-0002",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-03-03T06:38:00Z",
+  "unassigned_at": "2026-03-27T16:38:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000015-02",
+  "case_id": "CASE-2026-000015",
+  "reviewer_id": "REV-2026-0004",
+  "assignment_role": "secondary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-03-03T06:38:00Z",
+  "unassigned_at": "2026-03-27T16:38:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000016-01",
+  "case_id": "CASE-2026-000016",
+  "reviewer_id": "REV-2026-0008",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-03-16T04:48:00Z",
+  "unassigned_at": "2026-04-03T19:48:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000016-02",
+  "case_id": "CASE-2026-000016",
+  "reviewer_id": "REV-2026-0012",
+  "assignment_role": "secondary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-03-16T04:48:00Z",
+  "unassigned_at": "2026-04-03T19:48:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000016-03",
+  "case_id": "CASE-2026-000016",
+  "reviewer_id": "REV-2026-0005",
+  "assignment_role": "appeal",
+  "assignment_status": "completed",
+  "assigned_at": "2026-03-27T06:48:00Z",
+  "unassigned_at": "2026-04-03T19:48:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000017-01",
+  "case_id": "CASE-2026-000017",
+  "reviewer_id": "REV-2026-0004",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-03-17T06:55:00Z",
+  "unassigned_at": "2026-04-05T20:55:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000017-02",
+  "case_id": "CASE-2026-000017",
+  "reviewer_id": "REV-2026-0008",
+  "assignment_role": "secondary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-03-17T06:55:00Z",
+  "unassigned_at": "2026-04-05T20:55:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000018-01",
+  "case_id": "CASE-2026-000018",
+  "reviewer_id": "REV-2026-0012",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-03-18T08:15:00Z",
+  "unassigned_at": "2026-04-08T10:15:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000018-02",
+  "case_id": "CASE-2026-000018",
+  "reviewer_id": "REV-2026-0004",
+  "assignment_role": "secondary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-03-18T08:15:00Z",
+  "unassigned_at": "2026-04-08T10:15:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000019-01",
+  "case_id": "CASE-2026-000019",
+  "reviewer_id": "REV-2026-0008",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-03-18T08:46:00Z",
+  "unassigned_at": "2026-04-09T09:46:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000019-02",
+  "case_id": "CASE-2026-000019",
+  "reviewer_id": "REV-2026-0012",
+  "assignment_role": "secondary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-03-18T08:46:00Z",
+  "unassigned_at": "2026-04-09T09:46:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000020-01",
+  "case_id": "CASE-2026-000020",
+  "reviewer_id": "REV-2026-0004",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-03-18T23:59:00Z",
+  "unassigned_at": "2026-04-08T15:59:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000020-02",
+  "case_id": "CASE-2026-000020",
+  "reviewer_id": "REV-2026-0008",
+  "assignment_role": "secondary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-03-18T23:59:00Z",
+  "unassigned_at": "2026-04-08T15:59:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000020-03",
+  "case_id": "CASE-2026-000020",
+  "reviewer_id": "REV-2026-0010",
+  "assignment_role": "appeal",
+  "assignment_status": "completed",
+  "assigned_at": "2026-04-02T08:59:00Z",
+  "unassigned_at": "2026-04-08T15:59:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000021-01",
+  "case_id": "CASE-2026-000021",
+  "reviewer_id": "REV-2026-0012",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-04-16T12:25:00Z",
+  "unassigned_at": "2026-05-14T20:25:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000021-02",
+  "case_id": "CASE-2026-000021",
+  "reviewer_id": "REV-2026-0004",
+  "assignment_role": "secondary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-04-16T12:25:00Z",
+  "unassigned_at": "2026-05-14T20:25:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000021-03",
+  "case_id": "CASE-2026-000021",
+  "reviewer_id": "REV-2026-0005",
+  "assignment_role": "appeal",
+  "assignment_status": "completed",
+  "assigned_at": "2026-05-05T13:25:00Z",
+  "unassigned_at": "2026-05-14T20:25:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000022-01",
+  "case_id": "CASE-2026-000022",
+  "reviewer_id": "REV-2026-0008",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-04-15T02:23:00Z",
+  "unassigned_at": "2026-05-05T15:23:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000022-02",
+  "case_id": "CASE-2026-000022",
+  "reviewer_id": "REV-2026-0010",
+  "assignment_role": "appeal",
+  "assignment_status": "completed",
+  "assigned_at": "2026-04-26T12:23:00Z",
+  "unassigned_at": "2026-05-05T15:23:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000023-01",
+  "case_id": "CASE-2026-000023",
+  "reviewer_id": "REV-2026-0012",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-04-16T00:13:00Z",
+  "unassigned_at": "2026-05-04T17:13:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000023-02",
+  "case_id": "CASE-2026-000023",
+  "reviewer_id": "REV-2026-0004",
+  "assignment_role": "secondary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-04-16T00:13:00Z",
+  "unassigned_at": "2026-05-04T17:13:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000024-01",
+  "case_id": "CASE-2026-000024",
+  "reviewer_id": "REV-2026-0007",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-04-17T19:41:00Z",
+  "unassigned_at": "2026-05-14T03:41:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000025-01",
+  "case_id": "CASE-2026-000025",
+  "reviewer_id": "REV-2026-0011",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-04-18T17:03:00Z",
+  "unassigned_at": "2026-05-10T16:03:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000026-01",
+  "case_id": "CASE-2026-000026",
+  "reviewer_id": "REV-2026-0008",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-04-17T16:24:00Z",
+  "unassigned_at": "2026-05-15T02:24:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000026-02",
+  "case_id": "CASE-2026-000026",
+  "reviewer_id": "REV-2026-0012",
+  "assignment_role": "secondary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-04-17T16:24:00Z",
+  "unassigned_at": "2026-05-15T02:24:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000027-01",
+  "case_id": "CASE-2026-000027",
+  "reviewer_id": "REV-2026-0003",
+  "assignment_role": "primary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-04-19T06:08:00Z",
+  "unassigned_at": "2026-05-16T04:08:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000027-02",
+  "case_id": "CASE-2026-000027",
+  "reviewer_id": "REV-2026-0007",
+  "assignment_role": "secondary",
+  "assignment_status": "completed",
+  "assigned_at": "2026-04-19T06:08:00Z",
+  "unassigned_at": "2026-05-16T04:08:00Z",
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000028-01",
+  "case_id": "CASE-2026-000028",
+  "reviewer_id": "REV-2026-0006",
+  "assignment_role": "primary",
+  "assignment_status": "active",
+  "assigned_at": "2026-05-08T22:23:00Z",
+  "unassigned_at": null,
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000028-02",
+  "case_id": "CASE-2026-000028",
+  "reviewer_id": "REV-2026-0005",
+  "assignment_role": "appeal",
+  "assignment_status": "active",
+  "assigned_at": "2026-05-19T23:23:00Z",
+  "unassigned_at": null,
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000029-01",
+  "case_id": "CASE-2026-000029",
+  "reviewer_id": "REV-2026-0009",
+  "assignment_role": "primary",
+  "assignment_status": "active",
+  "assigned_at": "2026-05-08T17:14:00Z",
+  "unassigned_at": null,
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000029-02",
+  "case_id": "CASE-2026-000029",
+  "reviewer_id": "REV-2026-0001",
+  "assignment_role": "secondary",
+  "assignment_status": "active",
+  "assigned_at": "2026-05-08T17:14:00Z",
+  "unassigned_at": null,
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000030-01",
+  "case_id": "CASE-2026-000030",
+  "reviewer_id": "REV-2026-0002",
+  "assignment_role": "primary",
+  "assignment_status": "active",
+  "assigned_at": "2026-05-09T17:57:00Z",
+  "unassigned_at": null,
+  "status_reason": null
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000030-02",
+  "case_id": "CASE-2026-000030",
+  "reviewer_id": "REV-2026-0006",
+  "assignment_role": "secondary",
+  "assignment_status": "blocked_conflict",
+  "assigned_at": "2026-05-09T17:57:00Z",
+  "unassigned_at": "2026-05-09T17:57:00Z",
+  "status_reason": "Conflict of interest CONF-2026-000007: prior complaint involvement"
+ },
+ {
+  "case_reviewer_id": "ASG-CASE-2026-000030-03",
+  "case_id": "CASE-2026-000030",
+  "reviewer_id": "REV-2026-0009",
+  "assignment_role": "secondary",
+  "assignment_status": "active",
+  "assigned_at": "2026-05-09T17:57:00Z",
+  "unassigned_at": null,
+  "status_reason": null
+ }
+]

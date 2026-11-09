@@ -1,0 +1,1185 @@
+[
+ {
+  "conflict_id": "CONF-2026-000001",
+  "reviewer_id": "REV-2026-0001",
+  "learner_id": "LRN-2026-000058",
+  "reason": "family relationship",
+  "declared_at": "2025-09-09T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000002",
+  "reviewer_id": "REV-2026-0001",
+  "learner_id": "LRN-2026-000085",
+  "reason": "family relationship",
+  "declared_at": "2025-11-16T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000003",
+  "reviewer_id": "REV-2026-0002",
+  "learner_id": "LRN-2026-000139",
+  "reason": "personal tutor",
+  "declared_at": "2025-12-19T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000004",
+  "reviewer_id": "REV-2026-0002",
+  "learner_id": "LRN-2026-000509",
+  "reason": "family relationship",
+  "declared_at": "2025-09-26T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000005",
+  "reviewer_id": "REV-2026-0002",
+  "learner_id": "LRN-2026-001321",
+  "reason": "family relationship",
+  "declared_at": "2025-11-21T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000006",
+  "reviewer_id": "REV-2026-0003",
+  "learner_id": "LRN-2026-001792",
+  "reason": "family relationship",
+  "declared_at": "2025-10-25T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000007",
+  "reviewer_id": "REV-2026-0004",
+  "learner_id": "LRN-2026-000202",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-10-08T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000008",
+  "reviewer_id": "REV-2026-0004",
+  "learner_id": "LRN-2026-000458",
+  "reason": "personal tutor",
+  "declared_at": "2025-09-27T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000009",
+  "reviewer_id": "REV-2026-0004",
+  "learner_id": "LRN-2026-000476",
+  "reason": "family relationship",
+  "declared_at": "2025-10-24T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000010",
+  "reviewer_id": "REV-2026-0004",
+  "learner_id": "LRN-2026-001830",
+  "reason": "project supervisor",
+  "declared_at": "2025-09-28T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000011",
+  "reviewer_id": "REV-2026-0004",
+  "learner_id": "LRN-2026-001929",
+  "reason": "family relationship",
+  "declared_at": "2025-09-21T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000012",
+  "reviewer_id": "REV-2026-0005",
+  "learner_id": "LRN-2026-000748",
+  "reason": "personal tutor",
+  "declared_at": "2025-10-04T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000013",
+  "reviewer_id": "REV-2026-0005",
+  "learner_id": "LRN-2026-001381",
+  "reason": "project supervisor",
+  "declared_at": "2025-10-10T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000014",
+  "reviewer_id": "REV-2026-0005",
+  "learner_id": "LRN-2026-001528",
+  "reason": "personal tutor",
+  "declared_at": "2025-12-07T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000015",
+  "reviewer_id": "REV-2026-0006",
+  "learner_id": "LRN-2026-000152",
+  "reason": "personal tutor",
+  "declared_at": "2025-12-15T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000016",
+  "reviewer_id": "REV-2026-0006",
+  "learner_id": "LRN-2026-000849",
+  "reason": "project supervisor",
+  "declared_at": "2025-11-27T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000017",
+  "reviewer_id": "REV-2026-0007",
+  "learner_id": "LRN-2026-000574",
+  "reason": "family relationship",
+  "declared_at": "2025-12-01T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000018",
+  "reviewer_id": "REV-2026-0007",
+  "learner_id": "LRN-2026-001189",
+  "reason": "personal tutor",
+  "declared_at": "2025-11-08T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000019",
+  "reviewer_id": "REV-2026-0007",
+  "learner_id": "LRN-2026-001675",
+  "reason": "personal tutor",
+  "declared_at": "2025-11-29T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000020",
+  "reviewer_id": "REV-2026-0008",
+  "learner_id": "LRN-2026-000929",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-09-30T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000021",
+  "reviewer_id": "REV-2026-0008",
+  "learner_id": "LRN-2026-001140",
+  "reason": "project supervisor",
+  "declared_at": "2025-11-03T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000022",
+  "reviewer_id": "REV-2026-0009",
+  "learner_id": "LRN-2026-000489",
+  "reason": "family relationship",
+  "declared_at": "2025-12-25T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000023",
+  "reviewer_id": "REV-2026-0009",
+  "learner_id": "LRN-2026-000816",
+  "reason": "project supervisor",
+  "declared_at": "2025-10-01T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000024",
+  "reviewer_id": "REV-2026-0009",
+  "learner_id": "LRN-2026-000860",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-11-07T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000025",
+  "reviewer_id": "REV-2026-0009",
+  "learner_id": "LRN-2026-000992",
+  "reason": "project supervisor",
+  "declared_at": "2025-12-04T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000026",
+  "reviewer_id": "REV-2026-0009",
+  "learner_id": "LRN-2026-000995",
+  "reason": "personal tutor",
+  "declared_at": "2025-12-01T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000027",
+  "reviewer_id": "REV-2026-0009",
+  "learner_id": "LRN-2026-001196",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-09-05T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000028",
+  "reviewer_id": "REV-2026-0009",
+  "learner_id": "LRN-2026-001544",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-10-14T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000029",
+  "reviewer_id": "REV-2026-0009",
+  "learner_id": "LRN-2026-001785",
+  "reason": "personal tutor",
+  "declared_at": "2025-12-26T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000030",
+  "reviewer_id": "REV-2026-0009",
+  "learner_id": "LRN-2026-001936",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-12-16T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000031",
+  "reviewer_id": "REV-2026-0010",
+  "learner_id": "LRN-2026-000234",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-12-05T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000032",
+  "reviewer_id": "REV-2026-0010",
+  "learner_id": "LRN-2026-000669",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-11-27T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000033",
+  "reviewer_id": "REV-2026-0010",
+  "learner_id": "LRN-2026-000690",
+  "reason": "family relationship",
+  "declared_at": "2025-11-24T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000034",
+  "reviewer_id": "REV-2026-0010",
+  "learner_id": "LRN-2026-001050",
+  "reason": "personal tutor",
+  "declared_at": "2025-10-29T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000035",
+  "reviewer_id": "REV-2026-0010",
+  "learner_id": "LRN-2026-001100",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-11-10T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000036",
+  "reviewer_id": "REV-2026-0010",
+  "learner_id": "LRN-2026-001747",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-09-25T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000037",
+  "reviewer_id": "REV-2026-0010",
+  "learner_id": "LRN-2026-001837",
+  "reason": "family relationship",
+  "declared_at": "2025-09-23T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000038",
+  "reviewer_id": "REV-2026-0011",
+  "learner_id": "LRN-2026-000749",
+  "reason": "family relationship",
+  "declared_at": "2025-09-28T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000039",
+  "reviewer_id": "REV-2026-0011",
+  "learner_id": "LRN-2026-001813",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-09-18T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000040",
+  "reviewer_id": "REV-2026-0012",
+  "learner_id": "LRN-2026-000176",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-11-17T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000041",
+  "reviewer_id": "REV-2026-0012",
+  "learner_id": "LRN-2026-000931",
+  "reason": "project supervisor",
+  "declared_at": "2025-09-07T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000042",
+  "reviewer_id": "REV-2026-0012",
+  "learner_id": "LRN-2026-001045",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-09-04T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000043",
+  "reviewer_id": "REV-2026-0012",
+  "learner_id": "LRN-2026-001723",
+  "reason": "personal tutor",
+  "declared_at": "2025-11-12T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000044",
+  "reviewer_id": "REV-2026-0012",
+  "learner_id": "LRN-2026-001753",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-12-25T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000045",
+  "reviewer_id": "REV-2026-0013",
+  "learner_id": "LRN-2026-000423",
+  "reason": "family relationship",
+  "declared_at": "2025-12-27T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000046",
+  "reviewer_id": "REV-2026-0013",
+  "learner_id": "LRN-2026-000995",
+  "reason": "project supervisor",
+  "declared_at": "2025-12-05T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000047",
+  "reviewer_id": "REV-2026-0013",
+  "learner_id": "LRN-2026-001366",
+  "reason": "family relationship",
+  "declared_at": "2025-09-21T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000048",
+  "reviewer_id": "REV-2026-0013",
+  "learner_id": "LRN-2026-001472",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-10-19T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000049",
+  "reviewer_id": "REV-2026-0013",
+  "learner_id": "LRN-2026-001480",
+  "reason": "project supervisor",
+  "declared_at": "2025-12-04T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000050",
+  "reviewer_id": "REV-2026-0013",
+  "learner_id": "LRN-2026-001890",
+  "reason": "family relationship",
+  "declared_at": "2025-09-16T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000051",
+  "reviewer_id": "REV-2026-0014",
+  "learner_id": "LRN-2026-000638",
+  "reason": "personal tutor",
+  "declared_at": "2025-12-03T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000052",
+  "reviewer_id": "REV-2026-0014",
+  "learner_id": "LRN-2026-001163",
+  "reason": "family relationship",
+  "declared_at": "2025-11-02T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000053",
+  "reviewer_id": "REV-2026-0014",
+  "learner_id": "LRN-2026-001737",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-11-29T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000054",
+  "reviewer_id": "REV-2026-0014",
+  "learner_id": "LRN-2026-001944",
+  "reason": "personal tutor",
+  "declared_at": "2025-12-15T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000055",
+  "reviewer_id": "REV-2026-0015",
+  "learner_id": "LRN-2026-000302",
+  "reason": "personal tutor",
+  "declared_at": "2025-10-01T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000056",
+  "reviewer_id": "REV-2026-0015",
+  "learner_id": "LRN-2026-000638",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-10-13T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000057",
+  "reviewer_id": "REV-2026-0015",
+  "learner_id": "LRN-2026-000717",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-12-13T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000058",
+  "reviewer_id": "REV-2026-0015",
+  "learner_id": "LRN-2026-000921",
+  "reason": "family relationship",
+  "declared_at": "2025-09-28T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000059",
+  "reviewer_id": "REV-2026-0016",
+  "learner_id": "LRN-2026-000099",
+  "reason": "personal tutor",
+  "declared_at": "2025-11-06T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000060",
+  "reviewer_id": "REV-2026-0016",
+  "learner_id": "LRN-2026-000369",
+  "reason": "project supervisor",
+  "declared_at": "2025-10-11T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000061",
+  "reviewer_id": "REV-2026-0016",
+  "learner_id": "LRN-2026-000428",
+  "reason": "personal tutor",
+  "declared_at": "2025-11-04T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000062",
+  "reviewer_id": "REV-2026-0016",
+  "learner_id": "LRN-2026-000451",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-10-14T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000063",
+  "reviewer_id": "REV-2026-0016",
+  "learner_id": "LRN-2026-000644",
+  "reason": "family relationship",
+  "declared_at": "2025-09-17T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000064",
+  "reviewer_id": "REV-2026-0016",
+  "learner_id": "LRN-2026-001692",
+  "reason": "project supervisor",
+  "declared_at": "2025-09-03T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000065",
+  "reviewer_id": "REV-2026-0017",
+  "learner_id": "LRN-2026-000642",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-10-30T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000066",
+  "reviewer_id": "REV-2026-0017",
+  "learner_id": "LRN-2026-000833",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-10-01T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000067",
+  "reviewer_id": "REV-2026-0017",
+  "learner_id": "LRN-2026-001226",
+  "reason": "personal tutor",
+  "declared_at": "2025-09-23T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000068",
+  "reviewer_id": "REV-2026-0017",
+  "learner_id": "LRN-2026-001313",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-12-19T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000069",
+  "reviewer_id": "REV-2026-0017",
+  "learner_id": "LRN-2026-001459",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-10-08T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000070",
+  "reviewer_id": "REV-2026-0018",
+  "learner_id": "LRN-2026-000449",
+  "reason": "personal tutor",
+  "declared_at": "2025-11-06T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000071",
+  "reviewer_id": "REV-2026-0018",
+  "learner_id": "LRN-2026-001276",
+  "reason": "personal tutor",
+  "declared_at": "2025-12-02T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000072",
+  "reviewer_id": "REV-2026-0018",
+  "learner_id": "LRN-2026-001578",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-11-24T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000073",
+  "reviewer_id": "REV-2026-0018",
+  "learner_id": "LRN-2026-001754",
+  "reason": "personal tutor",
+  "declared_at": "2025-10-04T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000074",
+  "reviewer_id": "REV-2026-0019",
+  "learner_id": "LRN-2026-000083",
+  "reason": "family relationship",
+  "declared_at": "2025-12-22T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000075",
+  "reviewer_id": "REV-2026-0019",
+  "learner_id": "LRN-2026-000350",
+  "reason": "project supervisor",
+  "declared_at": "2025-11-25T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000076",
+  "reviewer_id": "REV-2026-0019",
+  "learner_id": "LRN-2026-000515",
+  "reason": "project supervisor",
+  "declared_at": "2025-11-28T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000077",
+  "reviewer_id": "REV-2026-0019",
+  "learner_id": "LRN-2026-001218",
+  "reason": "project supervisor",
+  "declared_at": "2025-12-03T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000078",
+  "reviewer_id": "REV-2026-0019",
+  "learner_id": "LRN-2026-001360",
+  "reason": "project supervisor",
+  "declared_at": "2025-09-27T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000079",
+  "reviewer_id": "REV-2026-0020",
+  "learner_id": "LRN-2026-000129",
+  "reason": "personal tutor",
+  "declared_at": "2025-09-04T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000080",
+  "reviewer_id": "REV-2026-0020",
+  "learner_id": "LRN-2026-000688",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-10-21T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000081",
+  "reviewer_id": "REV-2026-0021",
+  "learner_id": "LRN-2026-000349",
+  "reason": "project supervisor",
+  "declared_at": "2025-10-22T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000082",
+  "reviewer_id": "REV-2026-0021",
+  "learner_id": "LRN-2026-001832",
+  "reason": "personal tutor",
+  "declared_at": "2025-11-13T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000083",
+  "reviewer_id": "REV-2026-0022",
+  "learner_id": "LRN-2026-000994",
+  "reason": "project supervisor",
+  "declared_at": "2025-10-23T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000084",
+  "reviewer_id": "REV-2026-0022",
+  "learner_id": "LRN-2026-001888",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-10-25T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000085",
+  "reviewer_id": "REV-2026-0024",
+  "learner_id": "LRN-2026-001764",
+  "reason": "project supervisor",
+  "declared_at": "2025-09-28T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000086",
+  "reviewer_id": "REV-2026-0024",
+  "learner_id": "LRN-2026-001790",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-12-28T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000087",
+  "reviewer_id": "REV-2026-0025",
+  "learner_id": "LRN-2026-000802",
+  "reason": "project supervisor",
+  "declared_at": "2025-10-20T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000088",
+  "reviewer_id": "REV-2026-0025",
+  "learner_id": "LRN-2026-001278",
+  "reason": "project supervisor",
+  "declared_at": "2025-11-23T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000089",
+  "reviewer_id": "REV-2026-0025",
+  "learner_id": "LRN-2026-001881",
+  "reason": "personal tutor",
+  "declared_at": "2025-09-01T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000090",
+  "reviewer_id": "REV-2026-0026",
+  "learner_id": "LRN-2026-000570",
+  "reason": "family relationship",
+  "declared_at": "2025-12-19T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000091",
+  "reviewer_id": "REV-2026-0026",
+  "learner_id": "LRN-2026-000687",
+  "reason": "personal tutor",
+  "declared_at": "2025-10-14T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000092",
+  "reviewer_id": "REV-2026-0026",
+  "learner_id": "LRN-2026-000931",
+  "reason": "family relationship",
+  "declared_at": "2025-11-29T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000093",
+  "reviewer_id": "REV-2026-0026",
+  "learner_id": "LRN-2026-001026",
+  "reason": "project supervisor",
+  "declared_at": "2025-10-16T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000094",
+  "reviewer_id": "REV-2026-0026",
+  "learner_id": "LRN-2026-001944",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-10-20T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000095",
+  "reviewer_id": "REV-2026-0027",
+  "learner_id": "LRN-2026-001270",
+  "reason": "personal tutor",
+  "declared_at": "2025-12-27T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000096",
+  "reviewer_id": "REV-2026-0027",
+  "learner_id": "LRN-2026-001684",
+  "reason": "project supervisor",
+  "declared_at": "2025-11-15T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000097",
+  "reviewer_id": "REV-2026-0027",
+  "learner_id": "LRN-2026-001760",
+  "reason": "project supervisor",
+  "declared_at": "2025-09-28T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000098",
+  "reviewer_id": "REV-2026-0028",
+  "learner_id": "LRN-2026-001253",
+  "reason": "personal tutor",
+  "declared_at": "2025-11-18T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000099",
+  "reviewer_id": "REV-2026-0029",
+  "learner_id": "LRN-2026-000064",
+  "reason": "personal tutor",
+  "declared_at": "2025-12-19T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000100",
+  "reviewer_id": "REV-2026-0029",
+  "learner_id": "LRN-2026-000194",
+  "reason": "personal tutor",
+  "declared_at": "2025-09-10T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000101",
+  "reviewer_id": "REV-2026-0029",
+  "learner_id": "LRN-2026-000291",
+  "reason": "personal tutor",
+  "declared_at": "2025-10-30T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000102",
+  "reviewer_id": "REV-2026-0029",
+  "learner_id": "LRN-2026-000394",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-09-09T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000103",
+  "reviewer_id": "REV-2026-0029",
+  "learner_id": "LRN-2026-000628",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-09-12T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000104",
+  "reviewer_id": "REV-2026-0029",
+  "learner_id": "LRN-2026-001424",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-09-01T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000105",
+  "reviewer_id": "REV-2026-0029",
+  "learner_id": "LRN-2026-001822",
+  "reason": "project supervisor",
+  "declared_at": "2025-09-11T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000106",
+  "reviewer_id": "REV-2026-0030",
+  "learner_id": "LRN-2026-000294",
+  "reason": "family relationship",
+  "declared_at": "2025-12-15T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000107",
+  "reviewer_id": "REV-2026-0030",
+  "learner_id": "LRN-2026-000884",
+  "reason": "family relationship",
+  "declared_at": "2025-11-22T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000108",
+  "reviewer_id": "REV-2026-0031",
+  "learner_id": "LRN-2026-000333",
+  "reason": "personal tutor",
+  "declared_at": "2025-10-12T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000109",
+  "reviewer_id": "REV-2026-0031",
+  "learner_id": "LRN-2026-000342",
+  "reason": "project supervisor",
+  "declared_at": "2025-12-04T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000110",
+  "reviewer_id": "REV-2026-0031",
+  "learner_id": "LRN-2026-001267",
+  "reason": "personal tutor",
+  "declared_at": "2025-12-23T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000111",
+  "reviewer_id": "REV-2026-0031",
+  "learner_id": "LRN-2026-001598",
+  "reason": "family relationship",
+  "declared_at": "2025-09-21T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000112",
+  "reviewer_id": "REV-2026-0031",
+  "learner_id": "LRN-2026-001918",
+  "reason": "personal tutor",
+  "declared_at": "2025-10-27T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000113",
+  "reviewer_id": "REV-2026-0032",
+  "learner_id": "LRN-2026-000149",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-12-28T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000114",
+  "reviewer_id": "REV-2026-0032",
+  "learner_id": "LRN-2026-000232",
+  "reason": "family relationship",
+  "declared_at": "2025-11-07T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000115",
+  "reviewer_id": "REV-2026-0032",
+  "learner_id": "LRN-2026-001353",
+  "reason": "family relationship",
+  "declared_at": "2025-12-22T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000116",
+  "reviewer_id": "REV-2026-0032",
+  "learner_id": "LRN-2026-001844",
+  "reason": "project supervisor",
+  "declared_at": "2025-10-02T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000117",
+  "reviewer_id": "REV-2026-0033",
+  "learner_id": "LRN-2026-000557",
+  "reason": "personal tutor",
+  "declared_at": "2025-09-25T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000118",
+  "reviewer_id": "REV-2026-0033",
+  "learner_id": "LRN-2026-000699",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-11-26T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000119",
+  "reviewer_id": "REV-2026-0033",
+  "learner_id": "LRN-2026-001102",
+  "reason": "personal tutor",
+  "declared_at": "2025-09-29T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000120",
+  "reviewer_id": "REV-2026-0033",
+  "learner_id": "LRN-2026-001782",
+  "reason": "personal tutor",
+  "declared_at": "2025-11-16T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000121",
+  "reviewer_id": "REV-2026-0034",
+  "learner_id": "LRN-2026-000027",
+  "reason": "project supervisor",
+  "declared_at": "2025-10-08T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000122",
+  "reviewer_id": "REV-2026-0034",
+  "learner_id": "LRN-2026-000278",
+  "reason": "family relationship",
+  "declared_at": "2025-09-16T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000123",
+  "reviewer_id": "REV-2026-0034",
+  "learner_id": "LRN-2026-000732",
+  "reason": "personal tutor",
+  "declared_at": "2025-11-20T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000124",
+  "reviewer_id": "REV-2026-0034",
+  "learner_id": "LRN-2026-000937",
+  "reason": "personal tutor",
+  "declared_at": "2025-11-21T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000125",
+  "reviewer_id": "REV-2026-0034",
+  "learner_id": "LRN-2026-001647",
+  "reason": "personal tutor",
+  "declared_at": "2025-12-21T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000126",
+  "reviewer_id": "REV-2026-0034",
+  "learner_id": "LRN-2026-001737",
+  "reason": "personal tutor",
+  "declared_at": "2025-11-04T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000127",
+  "reviewer_id": "REV-2026-0035",
+  "learner_id": "LRN-2026-001804",
+  "reason": "personal tutor",
+  "declared_at": "2025-11-25T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000128",
+  "reviewer_id": "REV-2026-0036",
+  "learner_id": "LRN-2026-000030",
+  "reason": "project supervisor",
+  "declared_at": "2025-10-22T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000129",
+  "reviewer_id": "REV-2026-0036",
+  "learner_id": "LRN-2026-000269",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-09-03T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000130",
+  "reviewer_id": "REV-2026-0036",
+  "learner_id": "LRN-2026-000505",
+  "reason": "project supervisor",
+  "declared_at": "2025-10-07T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000131",
+  "reviewer_id": "REV-2026-0036",
+  "learner_id": "LRN-2026-000886",
+  "reason": "project supervisor",
+  "declared_at": "2025-12-11T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000132",
+  "reviewer_id": "REV-2026-0036",
+  "learner_id": "LRN-2026-000915",
+  "reason": "project supervisor",
+  "declared_at": "2025-09-19T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000133",
+  "reviewer_id": "REV-2026-0036",
+  "learner_id": "LRN-2026-001270",
+  "reason": "family relationship",
+  "declared_at": "2025-12-08T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000134",
+  "reviewer_id": "REV-2026-0037",
+  "learner_id": "LRN-2026-000405",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-12-07T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000135",
+  "reviewer_id": "REV-2026-0037",
+  "learner_id": "LRN-2026-000826",
+  "reason": "personal tutor",
+  "declared_at": "2025-12-22T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000136",
+  "reviewer_id": "REV-2026-0037",
+  "learner_id": "LRN-2026-000933",
+  "reason": "family relationship",
+  "declared_at": "2025-12-30T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000137",
+  "reviewer_id": "REV-2026-0038",
+  "learner_id": "LRN-2026-000669",
+  "reason": "family relationship",
+  "declared_at": "2025-11-28T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000138",
+  "reviewer_id": "REV-2026-0038",
+  "learner_id": "LRN-2026-000889",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-09-09T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000139",
+  "reviewer_id": "REV-2026-0038",
+  "learner_id": "LRN-2026-001551",
+  "reason": "project supervisor",
+  "declared_at": "2025-12-28T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000140",
+  "reviewer_id": "REV-2026-0038",
+  "learner_id": "LRN-2026-001844",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-12-05T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000141",
+  "reviewer_id": "REV-2026-0039",
+  "learner_id": "LRN-2026-000269",
+  "reason": "personal tutor",
+  "declared_at": "2025-12-06T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000142",
+  "reviewer_id": "REV-2026-0039",
+  "learner_id": "LRN-2026-000417",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-11-27T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000143",
+  "reviewer_id": "REV-2026-0039",
+  "learner_id": "LRN-2026-000465",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-09-24T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000144",
+  "reviewer_id": "REV-2026-0039",
+  "learner_id": "LRN-2026-000914",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-09-02T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000145",
+  "reviewer_id": "REV-2026-0039",
+  "learner_id": "LRN-2026-001090",
+  "reason": "family relationship",
+  "declared_at": "2025-10-25T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000146",
+  "reviewer_id": "REV-2026-0039",
+  "learner_id": "LRN-2026-001152",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-09-22T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000147",
+  "reviewer_id": "REV-2026-0039",
+  "learner_id": "LRN-2026-001357",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-12-04T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000148",
+  "reviewer_id": "REV-2026-0040",
+  "learner_id": "LRN-2026-000332",
+  "reason": "project supervisor",
+  "declared_at": "2025-09-18T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000149",
+  "reviewer_id": "REV-2026-0040",
+  "learner_id": "LRN-2026-000720",
+  "reason": "personal tutor",
+  "declared_at": "2025-12-14T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000150",
+  "reviewer_id": "REV-2026-0040",
+  "learner_id": "LRN-2026-001484",
+  "reason": "prior complaint involvement",
+  "declared_at": "2025-12-25T09:00:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000151",
+  "reviewer_id": "REV-2026-0013",
+  "learner_id": "LRN-2026-001940",
+  "reason": "family relationship",
+  "declared_at": "2026-01-09T18:41:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000152",
+  "reviewer_id": "REV-2026-0002",
+  "learner_id": "LRN-2026-000885",
+  "reason": "personal tutor",
+  "declared_at": "2026-01-24T16:54:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000153",
+  "reviewer_id": "REV-2026-0022",
+  "learner_id": "LRN-2026-001435",
+  "reason": "personal tutor",
+  "declared_at": "2026-01-28T11:17:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000154",
+  "reviewer_id": "REV-2026-0022",
+  "learner_id": "LRN-2026-000228",
+  "reason": "personal tutor",
+  "declared_at": "2026-01-28T13:29:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000155",
+  "reviewer_id": "REV-2026-0002",
+  "learner_id": "LRN-2026-000318",
+  "reason": "family relationship",
+  "declared_at": "2026-01-29T20:16:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000156",
+  "reviewer_id": "REV-2026-0011",
+  "learner_id": "LRN-2026-000973",
+  "reason": "personal tutor",
+  "declared_at": "2026-02-02T01:52:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000157",
+  "reviewer_id": "REV-2026-0034",
+  "learner_id": "LRN-2026-000662",
+  "reason": "project supervisor",
+  "declared_at": "2026-01-15T08:37:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000158",
+  "reviewer_id": "REV-2026-0012",
+  "learner_id": "LRN-2026-000891",
+  "reason": "family relationship",
+  "declared_at": "2026-02-06T16:50:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000159",
+  "reviewer_id": "REV-2026-0021",
+  "learner_id": "LRN-2026-000012",
+  "reason": "project supervisor",
+  "declared_at": "2026-01-23T18:16:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000160",
+  "reviewer_id": "REV-2026-0033",
+  "learner_id": "LRN-2026-000315",
+  "reason": "personal tutor",
+  "declared_at": "2026-02-25T19:36:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000161",
+  "reviewer_id": "REV-2026-0023",
+  "learner_id": "LRN-2026-001721",
+  "reason": "project supervisor",
+  "declared_at": "2026-03-10T12:49:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000162",
+  "reviewer_id": "REV-2026-0032",
+  "learner_id": "LRN-2026-001302",
+  "reason": "personal tutor",
+  "declared_at": "2026-03-24T11:15:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000163",
+  "reviewer_id": "REV-2026-0012",
+  "learner_id": "LRN-2026-000861",
+  "reason": "prior complaint involvement",
+  "declared_at": "2026-03-25T20:42:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000164",
+  "reviewer_id": "REV-2026-0012",
+  "learner_id": "LRN-2026-000512",
+  "reason": "family relationship",
+  "declared_at": "2026-03-25T02:15:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000165",
+  "reviewer_id": "REV-2026-0034",
+  "learner_id": "LRN-2026-001447",
+  "reason": "personal tutor",
+  "declared_at": "2026-04-03T15:10:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000166",
+  "reviewer_id": "REV-2026-0011",
+  "learner_id": "LRN-2026-000014",
+  "reason": "personal tutor",
+  "declared_at": "2026-04-04T12:03:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000167",
+  "reviewer_id": "REV-2026-0024",
+  "learner_id": "LRN-2026-000337",
+  "reason": "family relationship",
+  "declared_at": "2026-04-23T13:42:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000168",
+  "reviewer_id": "REV-2026-0001",
+  "learner_id": "LRN-2026-001384",
+  "reason": "project supervisor",
+  "declared_at": "2026-04-28T18:41:00Z"
+ },
+ {
+  "conflict_id": "CONF-2026-000169",
+  "reviewer_id": "REV-2026-0034",
+  "learner_id": "LRN-2026-000214",
+  "reason": "prior complaint involvement",
+  "declared_at": "2026-05-06T07:27:00Z"
+ }
+]

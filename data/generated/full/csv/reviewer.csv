@@ -1,0 +1,41 @@
+reviewer_id,full_name,email,department,reviewer_role
+REV-2026-0001,Synthetic Reviewer 0001,reviewer0001@staff.example.org,Computer Science,academic_reviewer
+REV-2026-0002,Synthetic Reviewer 0002,reviewer0002@staff.example.org,Business,academic_reviewer
+REV-2026-0003,Synthetic Reviewer 0003,reviewer0003@staff.example.org,Engineering,academic_reviewer
+REV-2026-0004,Synthetic Reviewer 0004,reviewer0004@staff.example.org,Environmental Science,academic_reviewer
+REV-2026-0005,Synthetic Reviewer 0005,reviewer0005@staff.example.org,Academic Integrity Office,integrity_officer
+REV-2026-0006,Synthetic Reviewer 0006,reviewer0006@staff.example.org,Business,academic_reviewer
+REV-2026-0007,Synthetic Reviewer 0007,reviewer0007@staff.example.org,Engineering,academic_reviewer
+REV-2026-0008,Synthetic Reviewer 0008,reviewer0008@staff.example.org,Environmental Science,academic_reviewer
+REV-2026-0009,Synthetic Reviewer 0009,reviewer0009@staff.example.org,Computer Science,academic_reviewer
+REV-2026-0010,Synthetic Reviewer 0010,reviewer0010@staff.example.org,Academic Integrity Office,integrity_officer
+REV-2026-0011,Synthetic Reviewer 0011,reviewer0011@staff.example.org,Engineering,academic_reviewer
+REV-2026-0012,Synthetic Reviewer 0012,reviewer0012@staff.example.org,Environmental Science,academic_reviewer
+REV-2026-0013,Synthetic Reviewer 0013,reviewer0013@staff.example.org,Computer Science,academic_reviewer
+REV-2026-0014,Synthetic Reviewer 0014,reviewer0014@staff.example.org,Business,academic_reviewer
+REV-2026-0015,Synthetic Reviewer 0015,reviewer0015@staff.example.org,Academic Integrity Office,integrity_officer
+REV-2026-0016,Synthetic Reviewer 0016,reviewer0016@staff.example.org,Environmental Science,academic_reviewer
+REV-2026-0017,Synthetic Reviewer 0017,reviewer0017@staff.example.org,Computer Science,academic_reviewer
+REV-2026-0018,Synthetic Reviewer 0018,reviewer0018@staff.example.org,Business,academic_reviewer
+REV-2026-0019,Synthetic Reviewer 0019,reviewer0019@staff.example.org,Engineering,academic_reviewer
+REV-2026-0020,Synthetic Reviewer 0020,reviewer0020@staff.example.org,Academic Integrity Office,integrity_officer
+REV-2026-0021,Synthetic Reviewer 0021,reviewer0021@staff.example.org,Computer Science,academic_reviewer
+REV-2026-0022,Synthetic Reviewer 0022,reviewer0022@staff.example.org,Business,academic_reviewer
+REV-2026-0023,Synthetic Reviewer 0023,reviewer0023@staff.example.org,Engineering,academic_reviewer
+REV-2026-0024,Synthetic Reviewer 0024,reviewer0024@staff.example.org,Environmental Science,academic_reviewer
+REV-2026-0025,Synthetic Reviewer 0025,reviewer0025@staff.example.org,Academic Integrity Office,integrity_officer
+REV-2026-0026,Synthetic Reviewer 0026,reviewer0026@staff.example.org,Business,academic_reviewer
+REV-2026-0027,Synthetic Reviewer 0027,reviewer0027@staff.example.org,Engineering,academic_reviewer
+REV-2026-0028,Synthetic Reviewer 0028,reviewer0028@staff.example.org,Environmental Science,academic_reviewer
+REV-2026-0029,Synthetic Reviewer 0029,reviewer0029@staff.example.org,Computer Science,academic_reviewer
+REV-2026-0030,Synthetic Reviewer 0030,reviewer0030@staff.example.org,Academic Integrity Office,integrity_officer
+REV-2026-0031,Synthetic Reviewer 0031,reviewer0031@staff.example.org,Engineering,academic_reviewer
+REV-2026-0032,Synthetic Reviewer 0032,reviewer0032@staff.example.org,Environmental Science,academic_reviewer
+REV-2026-0033,Synthetic Reviewer 0033,reviewer0033@staff.example.org,Computer Science,academic_reviewer
+REV-2026-0034,Synthetic Reviewer 0034,reviewer0034@staff.example.org,Business,academic_reviewer
+REV-2026-0035,Synthetic Reviewer 0035,reviewer0035@staff.example.org,Academic Integrity Office,integrity_officer
+REV-2026-0036,Synthetic Reviewer 0036,reviewer0036@staff.example.org,Environmental Science,academic_reviewer
+REV-2026-0037,Synthetic Reviewer 0037,reviewer0037@staff.example.org,Computer Science,academic_reviewer
+REV-2026-0038,Synthetic Reviewer 0038,reviewer0038@staff.example.org,Business,academic_reviewer
+REV-2026-0039,Synthetic Reviewer 0039,reviewer0039@staff.example.org,Engineering,academic_reviewer
+REV-2026-0040,Synthetic Reviewer 0040,reviewer0040@staff.example.org,Academic Integrity Office,integrity_officer

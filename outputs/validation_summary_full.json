@@ -1,0 +1,1102 @@
+{
+  "scale": "full",
+  "seed": 20261022,
+  "as_of": "2026-05-25T23:59:59Z",
+  "row_counts": {
+    "learner": 2000,
+    "assessment": 40,
+    "integrity_rule": 2,
+    "reviewer": 40,
+    "reviewer_conflict": 169,
+    "submission": 10000,
+    "similarity_report": 1000,
+    "integrity_case": 300,
+    "case_reviewer": 703,
+    "evidence_item": 897,
+    "decision": 311,
+    "appeal": 74,
+    "case_event": 2616
+  },
+  "checks": [
+    {
+      "name": "row_count_submission",
+      "category": "structure",
+      "description": "submission has the configured 10000 rows",
+      "passed": true,
+      "violations": 0,
+      "checked": 1,
+      "sample": []
+    },
+    {
+      "name": "row_count_similarity_report",
+      "category": "structure",
+      "description": "similarity_report has the configured 1000 rows",
+      "passed": true,
+      "violations": 0,
+      "checked": 1,
+      "sample": []
+    },
+    {
+      "name": "row_count_integrity_case",
+      "category": "structure",
+      "description": "integrity_case has the configured 300 rows",
+      "passed": true,
+      "violations": 0,
+      "checked": 1,
+      "sample": []
+    },
+    {
+      "name": "pk_unique_learner",
+      "category": "structure",
+      "description": "learner_id is unique and non-null",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "id_format_learner",
+      "category": "structure",
+      "description": "learner_id matches LRN-2026-\\d{6}",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "pk_unique_assessment",
+      "category": "structure",
+      "description": "assessment_id is unique and non-null",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "id_format_assessment",
+      "category": "structure",
+      "description": "assessment_id matches ASM-2026-\\d{4}",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "pk_unique_integrity_rule",
+      "category": "structure",
+      "description": "integrity_rule_id is unique and non-null",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "id_format_integrity_rule",
+      "category": "structure",
+      "description": "integrity_rule_id matches INT-2026-\\d{6}",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "pk_unique_reviewer",
+      "category": "structure",
+      "description": "reviewer_id is unique and non-null",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "id_format_reviewer",
+      "category": "structure",
+      "description": "reviewer_id matches REV-2026-\\d{4}",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "pk_unique_reviewer_conflict",
+      "category": "structure",
+      "description": "conflict_id is unique and non-null",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "id_format_reviewer_conflict",
+      "category": "structure",
+      "description": "conflict_id matches CONF-2026-\\d{6}",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "pk_unique_submission",
+      "category": "structure",
+      "description": "submission_id is unique and non-null",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "id_format_submission",
+      "category": "structure",
+      "description": "submission_id matches SUB-2026-\\d{6}",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "pk_unique_similarity_report",
+      "category": "structure",
+      "description": "similarity_report_id is unique and non-null",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "id_format_similarity_report",
+      "category": "structure",
+      "description": "similarity_report_id matches SIM-SUB-2026-\\d{6}-\\d{2}",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "pk_unique_integrity_case",
+      "category": "structure",
+      "description": "case_id is unique and non-null",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "id_format_integrity_case",
+      "category": "structure",
+      "description": "case_id matches CASE-2026-\\d{6}",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "pk_unique_case_reviewer",
+      "category": "structure",
+      "description": "case_reviewer_id is unique and non-null",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "id_format_case_reviewer",
+      "category": "structure",
+      "description": "case_reviewer_id matches ASG-CASE-2026-\\d{6}-\\d{2}",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "pk_unique_evidence_item",
+      "category": "structure",
+      "description": "evidence_id is unique and non-null",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "id_format_evidence_item",
+      "category": "structure",
+      "description": "evidence_id matches EVD-CASE-2026-\\d{6}-\\d{3}",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "pk_unique_decision",
+      "category": "structure",
+      "description": "decision_id is unique and non-null",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "id_format_decision",
+      "category": "structure",
+      "description": "decision_id matches DEC-CASE-2026-\\d{6}-\\d{2}",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "pk_unique_appeal",
+      "category": "structure",
+      "description": "appeal_id is unique and non-null",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "id_format_appeal",
+      "category": "structure",
+      "description": "appeal_id matches APL-CASE-2026-\\d{6}-\\d{2}",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "pk_unique_case_event",
+      "category": "structure",
+      "description": "event_id is unique and non-null",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "id_format_case_event",
+      "category": "structure",
+      "description": "event_id matches EVT-CASE-2026-\\d{6}-\\d{4}",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "foreign_keys_all_tables",
+      "category": "structure",
+      "description": "PRAGMA foreign_key_check finds no orphan rows",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "report_id_embeds_submission",
+      "category": "structure",
+      "description": "IDs are reused consistently across tables",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "case_matches_report_submission",
+      "category": "structure",
+      "description": "IDs are reused consistently across tables",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "evidence_item_id_embeds_case",
+      "category": "structure",
+      "description": "IDs are reused consistently across tables",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "decision_id_embeds_case",
+      "category": "structure",
+      "description": "IDs are reused consistently across tables",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "appeal_id_embeds_case",
+      "category": "structure",
+      "description": "IDs are reused consistently across tables",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "case_event_id_embeds_case",
+      "category": "structure",
+      "description": "IDs are reused consistently across tables",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "case_reviewer_id_embeds_case",
+      "category": "structure",
+      "description": "IDs are reused consistently across tables",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "enum_assessment_assessment_type",
+      "category": "structure",
+      "description": "assessment_type uses documented values",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "enum_reviewer_reviewer_role",
+      "category": "structure",
+      "description": "reviewer_role uses documented values",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "enum_similarity_report_score_band",
+      "category": "structure",
+      "description": "score_band uses documented values",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "enum_integrity_case_review_priority",
+      "category": "structure",
+      "description": "review_priority uses documented values",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "enum_integrity_case_status",
+      "category": "structure",
+      "description": "status uses documented values",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "enum_case_reviewer_assignment_role",
+      "category": "structure",
+      "description": "assignment_role uses documented values",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "enum_case_reviewer_assignment_status",
+      "category": "structure",
+      "description": "assignment_status uses documented values",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "enum_evidence_item_evidence_type",
+      "category": "structure",
+      "description": "evidence_type uses documented values",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "enum_decision_decision_source",
+      "category": "structure",
+      "description": "decision_source uses documented values",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "enum_decision_outcome",
+      "category": "structure",
+      "description": "outcome uses documented values",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "enum_appeal_outcome",
+      "category": "structure",
+      "description": "outcome uses documented values",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "enum_case_event_event_type",
+      "category": "structure",
+      "description": "event_type uses documented values",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "timestamp_assessment_due_at",
+      "category": "structure",
+      "description": "ISO 8601 UTC format",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "not_after_as_of_assessment_due_at",
+      "category": "structure",
+      "description": "no due_at after the snapshot date 2026-05-25T23:59:59Z",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "timestamp_integrity_rule_effective_from",
+      "category": "structure",
+      "description": "ISO 8601 UTC format",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "timestamp_integrity_rule_effective_to",
+      "category": "structure",
+      "description": "ISO 8601 UTC format",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "timestamp_reviewer_conflict_declared_at",
+      "category": "structure",
+      "description": "ISO 8601 UTC format",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "not_after_as_of_reviewer_conflict_declared_at",
+      "category": "structure",
+      "description": "no declared_at after the snapshot date 2026-05-25T23:59:59Z",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "timestamp_submission_submitted_at",
+      "category": "structure",
+      "description": "ISO 8601 UTC format",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "not_after_as_of_submission_submitted_at",
+      "category": "structure",
+      "description": "no submitted_at after the snapshot date 2026-05-25T23:59:59Z",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "timestamp_similarity_report_generated_at",
+      "category": "structure",
+      "description": "ISO 8601 UTC format",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "not_after_as_of_similarity_report_generated_at",
+      "category": "structure",
+      "description": "no generated_at after the snapshot date 2026-05-25T23:59:59Z",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "timestamp_integrity_case_opened_at",
+      "category": "structure",
+      "description": "ISO 8601 UTC format",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "not_after_as_of_integrity_case_opened_at",
+      "category": "structure",
+      "description": "no opened_at after the snapshot date 2026-05-25T23:59:59Z",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "timestamp_integrity_case_closed_at",
+      "category": "structure",
+      "description": "ISO 8601 UTC format",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "not_after_as_of_integrity_case_closed_at",
+      "category": "structure",
+      "description": "no closed_at after the snapshot date 2026-05-25T23:59:59Z",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "timestamp_case_reviewer_assigned_at",
+      "category": "structure",
+      "description": "ISO 8601 UTC format",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "not_after_as_of_case_reviewer_assigned_at",
+      "category": "structure",
+      "description": "no assigned_at after the snapshot date 2026-05-25T23:59:59Z",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "timestamp_case_reviewer_unassigned_at",
+      "category": "structure",
+      "description": "ISO 8601 UTC format",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "not_after_as_of_case_reviewer_unassigned_at",
+      "category": "structure",
+      "description": "no unassigned_at after the snapshot date 2026-05-25T23:59:59Z",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "timestamp_evidence_item_added_at",
+      "category": "structure",
+      "description": "ISO 8601 UTC format",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "not_after_as_of_evidence_item_added_at",
+      "category": "structure",
+      "description": "no added_at after the snapshot date 2026-05-25T23:59:59Z",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "timestamp_decision_decided_at",
+      "category": "structure",
+      "description": "ISO 8601 UTC format",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "not_after_as_of_decision_decided_at",
+      "category": "structure",
+      "description": "no decided_at after the snapshot date 2026-05-25T23:59:59Z",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "timestamp_appeal_submitted_at",
+      "category": "structure",
+      "description": "ISO 8601 UTC format",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "not_after_as_of_appeal_submitted_at",
+      "category": "structure",
+      "description": "no submitted_at after the snapshot date 2026-05-25T23:59:59Z",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "timestamp_appeal_reviewer_assigned_at",
+      "category": "structure",
+      "description": "ISO 8601 UTC format",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "not_after_as_of_appeal_reviewer_assigned_at",
+      "category": "structure",
+      "description": "no reviewer_assigned_at after the snapshot date 2026-05-25T23:59:59Z",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "timestamp_appeal_decided_at",
+      "category": "structure",
+      "description": "ISO 8601 UTC format",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "not_after_as_of_appeal_decided_at",
+      "category": "structure",
+      "description": "no decided_at after the snapshot date 2026-05-25T23:59:59Z",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "timestamp_case_event_event_at",
+      "category": "structure",
+      "description": "ISO 8601 UTC format",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "not_after_as_of_case_event_event_at",
+      "category": "structure",
+      "description": "no event_at after the snapshot date 2026-05-25T23:59:59Z",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "value_ranges",
+      "category": "structure",
+      "description": "score 0-100, quoted share 0-1, counts >= 0",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "duplicate_submissions",
+      "category": "structure",
+      "description": "one submission per learner per assessment",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "score_band_matches_active_rule",
+      "category": "structure",
+      "description": "band and flag recomputed from the rule in force at report time",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "cases_only_from_flags",
+      "category": "structure",
+      "description": "every case comes from a flagged report",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "event_sequence_ordered",
+      "category": "structure",
+      "description": "event_seq is 1..n and time never goes backwards",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "status_derived_from_events",
+      "category": "structure",
+      "description": "stored case status equals the status replayed from the event history",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "evidence_actor_valid",
+      "category": "structure",
+      "description": "added_by is a reviewer, the learner or a system",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "report_after_submission",
+      "category": "date_order",
+      "description": "timestamps follow the lifecycle order",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "case_opened_after_report",
+      "category": "date_order",
+      "description": "timestamps follow the lifecycle order",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "assignment_after_case_open",
+      "category": "date_order",
+      "description": "timestamps follow the lifecycle order",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "evidence_after_case_open",
+      "category": "date_order",
+      "description": "timestamps follow the lifecycle order",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "decision_after_case_open",
+      "category": "date_order",
+      "description": "timestamps follow the lifecycle order",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "appeal_after_decision",
+      "category": "date_order",
+      "description": "timestamps follow the lifecycle order",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "appeal_review_order",
+      "category": "date_order",
+      "description": "timestamps follow the lifecycle order",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "closure_after_decisions_and_appeals",
+      "category": "date_order",
+      "description": "timestamps follow the lifecycle order",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "closure_requires_human_decision",
+      "category": "workflow",
+      "description": "no case closes without a human decision and rationale",
+      "passed": true,
+      "violations": 0,
+      "checked": 261,
+      "sample": []
+    },
+    {
+      "name": "adverse_closure_waits_for_appeal_window",
+      "category": "workflow",
+      "description": "adverse decisions stay open for appeal until the window passes",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "closed_with_pending_appeal",
+      "category": "workflow",
+      "description": "no closed case has a pending appeal",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "appeal_within_window_and_adverse",
+      "category": "workflow",
+      "description": "appeals only against adverse decisions, inside the window",
+      "passed": true,
+      "violations": 0,
+      "checked": 74,
+      "sample": []
+    },
+    {
+      "name": "human_decision_has_rationale",
+      "category": "workflow",
+      "description": "rationale >= 30 characters",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "human_decision_after_evidence",
+      "category": "workflow",
+      "description": "reviewer had evidence before deciding",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    },
+    {
+      "name": "successful_appeal_has_revised_decision",
+      "category": "workflow",
+      "description": "overturned/modified appeals keep the original and add a superseding decision",
+      "passed": true,
+      "violations": 0,
+      "checked": null,
+      "sample": []
+    }
+  ],
+  "checks_passed": 101,
+  "checks_total": 101,
+  "anomalies_detected": {
+    "automatic_guilt": [
+      [
+        "CASE-2026-000016",
+        "DEC-CASE-2026-000016-01"
+      ],
+      [
+        "CASE-2026-000102",
+        "DEC-CASE-2026-000102-01"
+      ]
+    ],
+    "reviewer_conflict": [
+      [
+        "CASE-2026-000057",
+        "ASG-CASE-2026-000057-01"
+      ],
+      [
+        "CASE-2026-000096",
+        "ASG-CASE-2026-000096-01"
+      ]
+    ],
+    "evidence_history_missing": [
+      [
+        "CASE-2026-000044",
+        "EVD-CASE-2026-000044-005"
+      ],
+      [
+        "CASE-2026-000145",
+        "EVD-CASE-2026-000145-004"
+      ]
+    ],
+    "appeal_closed_without_independent_review": [
+      [
+        "CASE-2026-000133",
+        "APL-CASE-2026-000133-01"
+      ],
+      [
+        "CASE-2026-000136",
+        "APL-CASE-2026-000136-01"
+      ]
+    ]
+  },
+  "evaluation": {
+    "anomaly_detection": {
+      "automatic_guilt": {
+        "expected": 2,
+        "detected": 2,
+        "true_positives": 2,
+        "missed": [],
+        "unexpected": [],
+        "passed": true
+      },
+      "reviewer_conflict": {
+        "expected": 2,
+        "detected": 2,
+        "true_positives": 2,
+        "missed": [],
+        "unexpected": [],
+        "passed": true
+      },
+      "evidence_history_missing": {
+        "expected": 2,
+        "detected": 2,
+        "true_positives": 2,
+        "missed": [],
+        "unexpected": [],
+        "passed": true
+      },
+      "appeal_closed_without_independent_review": {
+        "expected": 2,
+        "detected": 2,
+        "true_positives": 2,
+        "missed": [],
+        "unexpected": [],
+        "passed": true
+      }
+    },
+    "false_positive_rate_of_reviewed_flags": 0.2509,
+    "reviewed_cases_with_ground_truth": 291,
+    "adverse_final_outcomes_on_false_positive_flags": 40,
+    "adverse_final_outcomes": 238,
+    "note": "A high false-positive share among flags is expected and is why every flag goes to human review."
+  },
+  "reconciliation": {
+    "submissions": 10000,
+    "similarity_reports_flagged": 1000,
+    "flags_not_escalated": 700,
+    "cases": 300,
+    "cases_with_decision": 293,
+    "cases_awaiting_decision": 7,
+    "decision_records": 311,
+    "revised_decisions_from_appeals": 18,
+    "appeals": 74,
+    "appeals_pending": 2,
+    "evidence_items": 897,
+    "closed_cases": 261,
+    "balanced": {
+      "flags = escalated + not escalated": true,
+      "cases = decided + awaiting decision": true,
+      "decision records = cases decided + revised decisions": true
+    },
+    "explanation": "Counts shrink at each stage by design: only stored similarity reports are flags (10% of submissions); only the highest-ranked flags open a case; cases opened close to the as-of date are still awaiting a decision; only adverse decisions can be appealed; a successful appeal adds a superseding decision, so decision records exceed decided cases."
+  },
+  "audit": {
+    "required_state_changes": 2620,
+    "with_event": 2616,
+    "audit_completeness": 0.9985,
+    "missing": [
+      [
+        "evidence_added",
+        "EVD-CASE-2026-000044-005"
+      ],
+      [
+        "evidence_added",
+        "EVD-CASE-2026-000145-004"
+      ],
+      [
+        "appeal_reviewer_assigned",
+        "APL-CASE-2026-000133-01"
+      ],
+      [
+        "appeal_reviewer_assigned",
+        "APL-CASE-2026-000136-01"
+      ]
+    ]
+  },
+  "metrics": {
+    "flag_rate": 0.1,
+    "case_creation_rate": 0.3,
+    "decision_turnaround_days": {
+      "count": 291,
+      "mean": 8.6,
+      "median": 8.42,
+      "p90": 12.83
+    },
+    "appeal_rate": 0.3008,
+    "appeal_success_rate": 0.25,
+    "independent_review_compliance": 0.9722,
+    "conflict_assignment_violations": 2,
+    "conflict_assignments_blocked_by_guard": 36,
+    "reviewer_workload": {
+      "min": 8,
+      "max": 21,
+      "mean": 16.68
+    },
+    "case_status_counts": {
+      "appeal_open": 2,
+      "closed": 261,
+      "decided": 30,
+      "under_review": 7
+    },
+    "final_outcome_counts": {
+      "confirmed_breach": 181,
+      "educational_warning": 59,
+      "insufficient_evidence": 17,
+      "no_breach": 14,
+      "referred_for_further_review": 22
+    }
+  },
+  "reproducibility": {
+    "seed": 20261022,
+    "scale": "full",
+    "run1_equals_run2": true,
+    "files_compared": 29,
+    "different_seed_changes_output": true,
+    "committed_data_matches_code": true,
+    "sha256_submission_csv": "b641211f255634f6339b671f0faf5f11157a61bf48f262499b410750872290f8"
+  },
+  "overall_passed": true
+}

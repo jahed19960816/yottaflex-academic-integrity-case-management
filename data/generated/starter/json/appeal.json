@@ -1,0 +1,98 @@
+[
+ {
+  "appeal_id": "APL-CASE-2026-000004-01",
+  "case_id": "CASE-2026-000004",
+  "decision_id": "DEC-CASE-2026-000004-01",
+  "submitted_at": "2026-02-08T22:35:00Z",
+  "grounds": "Learner disputes the finding and cites properly referenced material (synthetic grounds).",
+  "appeal_reviewer_id": "REV-2026-0005",
+  "reviewer_assigned_at": "2026-02-11T12:35:00Z",
+  "outcome": "upheld",
+  "outcome_rationale": "Independent appeal review concluded 'upheld' after re-examining quoted share 0.052 and template indicator 0.",
+  "decided_at": "2026-02-19T12:35:00Z"
+ },
+ {
+  "appeal_id": "APL-CASE-2026-000007-01",
+  "case_id": "CASE-2026-000007",
+  "decision_id": "DEC-CASE-2026-000007-01",
+  "submitted_at": "2026-03-02T03:48:00Z",
+  "grounds": "Learner disputes the finding and cites properly referenced material (synthetic grounds).",
+  "appeal_reviewer_id": "REV-2026-0010",
+  "reviewer_assigned_at": "2026-03-03T10:48:00Z",
+  "outcome": "upheld",
+  "outcome_rationale": "Independent appeal review concluded 'upheld' after re-examining quoted share 0.087 and template indicator 0.",
+  "decided_at": "2026-03-06T10:48:00Z"
+ },
+ {
+  "appeal_id": "APL-CASE-2026-000008-01",
+  "case_id": "CASE-2026-000008",
+  "decision_id": "DEC-CASE-2026-000008-01",
+  "submitted_at": "2026-03-11T22:48:00Z",
+  "grounds": "Learner disputes the finding and cites properly referenced material (synthetic grounds).",
+  "appeal_reviewer_id": "REV-2026-0002",
+  "reviewer_assigned_at": null,
+  "outcome": "upheld",
+  "outcome_rationale": "Appeal reviewed and closed by the original decision-maker.",
+  "decided_at": "2026-03-14T22:48:00Z"
+ },
+ {
+  "appeal_id": "APL-CASE-2026-000016-01",
+  "case_id": "CASE-2026-000016",
+  "decision_id": "DEC-CASE-2026-000016-01",
+  "submitted_at": "2026-03-24T18:48:00Z",
+  "grounds": "Learner disputes the finding and cites properly referenced material (synthetic grounds).",
+  "appeal_reviewer_id": "REV-2026-0005",
+  "reviewer_assigned_at": "2026-03-27T06:48:00Z",
+  "outcome": "upheld",
+  "outcome_rationale": "Independent appeal review concluded 'upheld' after re-examining quoted share 0.091 and template indicator 0.",
+  "decided_at": "2026-04-03T06:48:00Z"
+ },
+ {
+  "appeal_id": "APL-CASE-2026-000020-01",
+  "case_id": "CASE-2026-000020",
+  "decision_id": "DEC-CASE-2026-000020-01",
+  "submitted_at": "2026-04-01T20:59:00Z",
+  "grounds": "Learner disputes the finding and cites properly referenced material (synthetic grounds).",
+  "appeal_reviewer_id": "REV-2026-0010",
+  "reviewer_assigned_at": "2026-04-02T08:59:00Z",
+  "outcome": "upheld",
+  "outcome_rationale": "Independent appeal review concluded 'upheld' after re-examining quoted share 0.042 and template indicator 0.",
+  "decided_at": "2026-04-07T08:59:00Z"
+ },
+ {
+  "appeal_id": "APL-CASE-2026-000021-01",
+  "case_id": "CASE-2026-000021",
+  "decision_id": "DEC-CASE-2026-000021-01",
+  "submitted_at": "2026-05-05T05:25:00Z",
+  "grounds": "Learner disputes the finding and cites properly referenced material (synthetic grounds).",
+  "appeal_reviewer_id": "REV-2026-0005",
+  "reviewer_assigned_at": "2026-05-05T13:25:00Z",
+  "outcome": "modified",
+  "outcome_rationale": "Independent appeal review concluded 'modified' after re-examining quoted share 0.092 and template indicator 0.",
+  "decided_at": "2026-05-14T13:25:00Z"
+ },
+ {
+  "appeal_id": "APL-CASE-2026-000022-01",
+  "case_id": "CASE-2026-000022",
+  "decision_id": "DEC-CASE-2026-000022-01",
+  "submitted_at": "2026-04-24T01:23:00Z",
+  "grounds": "Learner disputes the finding and cites properly referenced material (synthetic grounds).",
+  "appeal_reviewer_id": "REV-2026-0010",
+  "reviewer_assigned_at": "2026-04-26T12:23:00Z",
+  "outcome": "upheld",
+  "outcome_rationale": "Independent appeal review concluded 'upheld' after re-examining quoted share 0.089 and template indicator 0.",
+  "decided_at": "2026-05-05T12:23:00Z"
+ },
+ {
+  "appeal_id": "APL-CASE-2026-000028-01",
+  "case_id": "CASE-2026-000028",
+  "decision_id": "DEC-CASE-2026-000028-01",
+  "submitted_at": "2026-05-18T09:23:00Z",
+  "grounds": "Learner disputes the finding and cites properly referenced material (synthetic grounds).",
+  "appeal_reviewer_id": "REV-2026-0005",
+  "reviewer_assigned_at": "2026-05-19T23:23:00Z",
+  "outcome": "overturned",
+  "outcome_rationale": "Independent appeal review concluded 'overturned' after re-examining quoted share 0.027 and template indicator 1.",
+  "decided_at": "2026-05-25T23:23:00Z"
+ }
+]

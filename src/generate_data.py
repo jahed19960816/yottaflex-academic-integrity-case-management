@@ -73,7 +73,8 @@ class Generator:
             dept = DEPARTMENTS[(i - 1) % len(DEPARTMENTS)]
             a_type = r.choice(rules.ASSESSMENT_TYPES)
             template = 1 if a_type in ("lab_report", "code") or r.random() < 0.2 else 0
-            due = to_iso(base + timedelta(days=r.randint(0, 138)))
+            # Due dates end ~8 days before the as-of snapshot so no record is dated after it.
+            due = to_iso(base + timedelta(days=r.randint(0, 125)))
             row = (f"ASM-2026-{i:04d}", f"{DEPT_CODE[dept]}{100 + i}", f"{a_type.replace('_', ' ').title()} {i}",
                    dept, a_type, template, due)
             self.assessments[row[0]] = dict(zip(

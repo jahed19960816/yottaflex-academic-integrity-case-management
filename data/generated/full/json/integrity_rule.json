@@ -1,0 +1,24 @@
+[
+ {
+  "integrity_rule_id": "INT-2026-000001",
+  "name": "Similarity review policy",
+  "version": 1,
+  "low_threshold": 25.0,
+  "standard_threshold": 45.0,
+  "priority_threshold": 65.0,
+  "effective_from": "2025-09-01T00:00:00Z",
+  "effective_to": "2026-03-01T00:00:00Z",
+  "description": "Synthetic demo policy v1. Score is a review signal only, never proof of misconduct."
+ },
+ {
+  "integrity_rule_id": "INT-2026-000002",
+  "name": "Similarity review policy",
+  "version": 2,
+  "low_threshold": 20.0,
+  "standard_threshold": 40.0,
+  "priority_threshold": 60.0,
+  "effective_from": "2026-03-01T00:00:00Z",
+  "effective_to": null,
+  "description": "Synthetic demo policy v2 (lower thresholds). Score is a review signal only, never proof of misconduct."
+ }
+]

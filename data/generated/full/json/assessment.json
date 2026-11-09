@@ -1,0 +1,362 @@
+[
+ {
+  "assessment_id": "ASM-2026-0001",
+  "course_code": "ENV101",
+  "title": "Lab Report 1",
+  "department": "Environmental Science",
+  "assessment_type": "lab_report",
+  "template_provided": 1,
+  "due_at": "2026-03-15T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0002",
+  "course_code": "CSC102",
+  "title": "Lab Report 2",
+  "department": "Computer Science",
+  "assessment_type": "lab_report",
+  "template_provided": 1,
+  "due_at": "2026-03-02T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0003",
+  "course_code": "BUS103",
+  "title": "Lab Report 3",
+  "department": "Business",
+  "assessment_type": "lab_report",
+  "template_provided": 1,
+  "due_at": "2026-01-17T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0004",
+  "course_code": "ENG104",
+  "title": "Essay 4",
+  "department": "Engineering",
+  "assessment_type": "essay",
+  "template_provided": 0,
+  "due_at": "2026-02-24T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0005",
+  "course_code": "ENV105",
+  "title": "Essay 5",
+  "department": "Environmental Science",
+  "assessment_type": "essay",
+  "template_provided": 0,
+  "due_at": "2026-04-27T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0006",
+  "course_code": "CSC106",
+  "title": "Code 6",
+  "department": "Computer Science",
+  "assessment_type": "code",
+  "template_provided": 1,
+  "due_at": "2026-05-07T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0007",
+  "course_code": "BUS107",
+  "title": "Report 7",
+  "department": "Business",
+  "assessment_type": "report",
+  "template_provided": 0,
+  "due_at": "2026-02-15T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0008",
+  "course_code": "ENG108",
+  "title": "Essay 8",
+  "department": "Engineering",
+  "assessment_type": "essay",
+  "template_provided": 0,
+  "due_at": "2026-04-17T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0009",
+  "course_code": "ENV109",
+  "title": "Lab Report 9",
+  "department": "Environmental Science",
+  "assessment_type": "lab_report",
+  "template_provided": 1,
+  "due_at": "2026-04-13T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0010",
+  "course_code": "CSC110",
+  "title": "Essay 10",
+  "department": "Computer Science",
+  "assessment_type": "essay",
+  "template_provided": 0,
+  "due_at": "2026-02-18T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0011",
+  "course_code": "BUS111",
+  "title": "Essay 11",
+  "department": "Business",
+  "assessment_type": "essay",
+  "template_provided": 1,
+  "due_at": "2026-02-11T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0012",
+  "course_code": "ENG112",
+  "title": "Code 12",
+  "department": "Engineering",
+  "assessment_type": "code",
+  "template_provided": 1,
+  "due_at": "2026-02-11T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0013",
+  "course_code": "ENV113",
+  "title": "Report 13",
+  "department": "Environmental Science",
+  "assessment_type": "report",
+  "template_provided": 0,
+  "due_at": "2026-05-10T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0014",
+  "course_code": "CSC114",
+  "title": "Essay 14",
+  "department": "Computer Science",
+  "assessment_type": "essay",
+  "template_provided": 0,
+  "due_at": "2026-02-14T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0015",
+  "course_code": "BUS115",
+  "title": "Lab Report 15",
+  "department": "Business",
+  "assessment_type": "lab_report",
+  "template_provided": 1,
+  "due_at": "2026-03-11T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0016",
+  "course_code": "ENG116",
+  "title": "Report 16",
+  "department": "Engineering",
+  "assessment_type": "report",
+  "template_provided": 0,
+  "due_at": "2026-03-25T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0017",
+  "course_code": "ENV117",
+  "title": "Report 17",
+  "department": "Environmental Science",
+  "assessment_type": "report",
+  "template_provided": 0,
+  "due_at": "2026-02-22T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0018",
+  "course_code": "CSC118",
+  "title": "Essay 18",
+  "department": "Computer Science",
+  "assessment_type": "essay",
+  "template_provided": 0,
+  "due_at": "2026-03-17T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0019",
+  "course_code": "BUS119",
+  "title": "Lab Report 19",
+  "department": "Business",
+  "assessment_type": "lab_report",
+  "template_provided": 1,
+  "due_at": "2026-01-31T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0020",
+  "course_code": "ENG120",
+  "title": "Essay 20",
+  "department": "Engineering",
+  "assessment_type": "essay",
+  "template_provided": 0,
+  "due_at": "2026-03-25T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0021",
+  "course_code": "ENV121",
+  "title": "Report 21",
+  "department": "Environmental Science",
+  "assessment_type": "report",
+  "template_provided": 0,
+  "due_at": "2026-02-14T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0022",
+  "course_code": "CSC122",
+  "title": "Lab Report 22",
+  "department": "Computer Science",
+  "assessment_type": "lab_report",
+  "template_provided": 1,
+  "due_at": "2026-02-18T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0023",
+  "course_code": "BUS123",
+  "title": "Lab Report 23",
+  "department": "Business",
+  "assessment_type": "lab_report",
+  "template_provided": 1,
+  "due_at": "2026-01-31T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0024",
+  "course_code": "ENG124",
+  "title": "Lab Report 24",
+  "department": "Engineering",
+  "assessment_type": "lab_report",
+  "template_provided": 1,
+  "due_at": "2026-01-29T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0025",
+  "course_code": "ENV125",
+  "title": "Lab Report 25",
+  "department": "Environmental Science",
+  "assessment_type": "lab_report",
+  "template_provided": 1,
+  "due_at": "2026-04-29T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0026",
+  "course_code": "CSC126",
+  "title": "Lab Report 26",
+  "department": "Computer Science",
+  "assessment_type": "lab_report",
+  "template_provided": 1,
+  "due_at": "2026-02-19T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0027",
+  "course_code": "BUS127",
+  "title": "Essay 27",
+  "department": "Business",
+  "assessment_type": "essay",
+  "template_provided": 0,
+  "due_at": "2026-04-08T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0028",
+  "course_code": "ENG128",
+  "title": "Report 28",
+  "department": "Engineering",
+  "assessment_type": "report",
+  "template_provided": 1,
+  "due_at": "2026-04-11T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0029",
+  "course_code": "ENV129",
+  "title": "Lab Report 29",
+  "department": "Environmental Science",
+  "assessment_type": "lab_report",
+  "template_provided": 1,
+  "due_at": "2026-04-21T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0030",
+  "course_code": "CSC130",
+  "title": "Report 30",
+  "department": "Computer Science",
+  "assessment_type": "report",
+  "template_provided": 0,
+  "due_at": "2026-04-01T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0031",
+  "course_code": "BUS131",
+  "title": "Report 31",
+  "department": "Business",
+  "assessment_type": "report",
+  "template_provided": 0,
+  "due_at": "2026-02-05T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0032",
+  "course_code": "ENG132",
+  "title": "Code 32",
+  "department": "Engineering",
+  "assessment_type": "code",
+  "template_provided": 1,
+  "due_at": "2026-03-18T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0033",
+  "course_code": "ENV133",
+  "title": "Code 33",
+  "department": "Environmental Science",
+  "assessment_type": "code",
+  "template_provided": 1,
+  "due_at": "2026-04-02T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0034",
+  "course_code": "CSC134",
+  "title": "Essay 34",
+  "department": "Computer Science",
+  "assessment_type": "essay",
+  "template_provided": 0,
+  "due_at": "2026-01-16T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0035",
+  "course_code": "BUS135",
+  "title": "Code 35",
+  "department": "Business",
+  "assessment_type": "code",
+  "template_provided": 1,
+  "due_at": "2026-05-14T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0036",
+  "course_code": "ENG136",
+  "title": "Essay 36",
+  "department": "Engineering",
+  "assessment_type": "essay",
+  "template_provided": 0,
+  "due_at": "2026-04-11T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0037",
+  "course_code": "ENV137",
+  "title": "Code 37",
+  "department": "Environmental Science",
+  "assessment_type": "code",
+  "template_provided": 1,
+  "due_at": "2026-04-02T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0038",
+  "course_code": "CSC138",
+  "title": "Lab Report 38",
+  "department": "Computer Science",
+  "assessment_type": "lab_report",
+  "template_provided": 1,
+  "due_at": "2026-04-04T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0039",
+  "course_code": "BUS139",
+  "title": "Essay 39",
+  "department": "Business",
+  "assessment_type": "essay",
+  "template_provided": 0,
+  "due_at": "2026-02-06T23:59:00Z"
+ },
+ {
+  "assessment_id": "ASM-2026-0040",
+  "course_code": "ENG140",
+  "title": "Lab Report 40",
+  "department": "Engineering",
+  "assessment_type": "lab_report",
+  "template_provided": 1,
+  "due_at": "2026-04-11T23:59:00Z"
+ }
+]
