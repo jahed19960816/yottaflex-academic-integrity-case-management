@@ -1,0 +1,59 @@
+{
+  "seed": 20261022,
+  "as_of": "2026-06-30T23:59:59Z",
+  "appeal_window_days": 14,
+  "min_rationale_chars": 30,
+  "scales": {
+    "starter": {
+      "learners": 200,
+      "assessments": 10,
+      "reviewers": 12,
+      "submissions": 1000,
+      "similarity_reports": 100,
+      "cases": 30,
+      "anomalies_per_type": 1,
+      "random_conflicts": 20
+    },
+    "full": {
+      "learners": 2000,
+      "assessments": 40,
+      "reviewers": 40,
+      "submissions": 10000,
+      "similarity_reports": 1000,
+      "cases": 300,
+      "anomalies_per_type": 2,
+      "random_conflicts": 150
+    }
+  },
+  "integrity_rules": [
+    {
+      "integrity_rule_id": "INT-2026-000001",
+      "name": "Similarity review policy",
+      "version": 1,
+      "low_threshold": 25,
+      "standard_threshold": 45,
+      "priority_threshold": 65,
+      "effective_from": "2025-09-01T00:00:00Z",
+      "effective_to": "2026-03-01T00:00:00Z",
+      "description": "Synthetic demo policy v1. Score is a review signal only, never proof of misconduct."
+    },
+    {
+      "integrity_rule_id": "INT-2026-000002",
+      "name": "Similarity review policy",
+      "version": 2,
+      "low_threshold": 20,
+      "standard_threshold": 40,
+      "priority_threshold": 60,
+      "effective_from": "2026-03-01T00:00:00Z",
+      "effective_to": null,
+      "description": "Synthetic demo policy v2 (lower thresholds). Score is a review signal only, never proof of misconduct."
+    }
+  ],
+  "simulation": {
+    "appeal_probability": 0.35,
+    "late_reviewer_note_probability": 0.10,
+    "learner_statement_probability": 0.60,
+    "draft_history_probability": 0.30,
+    "targeted_conflict_probability": 0.06
+  }
+}
