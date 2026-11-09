@@ -22,6 +22,23 @@ was used. This file is that account.
 - **Snapshot date with no in-progress cases.** With `as_of` at the end of June, every case had finished. Moving it to 2026-05-25 gives a realistic mix (cases under review, appeals pending).
 - **Analysis query parsing.** A header comment in `sql/analysis_queries.sql` contained the query-name marker and broke the parser. Comment reworded.
 
+## Verification evidence (commands run on 2026-11-09 and their results)
+
+These checks were run through Claude Code during development, and the validation and test runs were
+repeated in a normal terminal on the same machine.
+
+| Check | Command | Result |
+|---|---|---|
+| Fresh clone works | `git clone` into an empty folder, new venv, `pip install -r requirements.txt`, then every command below | all passed |
+| Data regenerates identically | `python -m src.generate_data --scale full`, then `git status` | no changes: committed data is byte-identical to a new run |
+| Operational validation | `python -m src.validation --scale full --run-all` | 101/101 checks pass, OVERALL: PASS |
+| Negative scenarios | same command (evaluation against `data/ground_truth/full/anomalies.csv`) | 8 of 8 detected, 0 missed, 0 unexpected |
+| Reproducibility | same command (generates twice, compares SHA-256) | 29/29 files identical; a different seed changes the output |
+| Automated tests | `python -m pytest -q` | 23 passed |
+| Guards in a walkthrough | `python -m src.demo` | 6 invalid actions blocked with clear errors; original decision kept after the appeal |
+| Manual database inspection | `sqlite3` on `data/academic_integrity_full.db` | the automated decisions have no reviewer; the CASE-2026-000133 timeline shows REV-2026-0011 deciding both the case and its appeal, with no `appeal_reviewer_assigned` event |
+| Guard on real data | `CaseWorkflow.close_case` on a case that is `under_review` | refused: `WorkflowError: ... only decided cases can close` |
+
 ## What I personally reviewed, changed and validated
 > **TO COMPLETE BEFORE SUBMISSION (by the candidate, in your own words):** what you read and checked
 > yourself, what you changed or rejected, and how you confirmed it works (for example: ran
